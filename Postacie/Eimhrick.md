@@ -33,7 +33,7 @@ Jeden z pięciu decydujących o [[Pokój]].
 "You say, you are my friend, I say you should start the ‘unfriend’ list immediatelly"
 "Everything is a wonder; sorry, I mean blunder."
 
-do [[Varylian Heinster]]
+do [[Varilyan Heinster]]
 “Nigdy nie prosiłem moich podopiecznych, żeby mi ufali.
 Powiedziałem im, żeby poszli ze mną, ale nigdy nie prosiłem o ich zaufanie.
 Ciągle im mówię, żeby nigdy nikomu nie ufali, łącznie ze mną.

@@ -16,7 +16,7 @@ Przeciw jednym z potężniejszych Lokajów Kotary (???) miał stanąć Calicus. 
 
 Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
 
-[[Lucy Shealez]], [[Luca Ataliatte]] i [[Lucjusz Alvibraten]] staneli na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius]].
+[[Lucy Shealez]], [[Luca Attaliate]] i [[Lucjusz Alvibraten]] staneli na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius]].
 
 # Konsekwencje
 W wyniku wydarzeń w sali tronowej, wszyscy Rozjemcy i inni ważni ludzie ostatecznie zaakceptowali Natannesa jako Imperatora.

@@ -3,7 +3,7 @@ tags:
   - człowiek
   - Konstrukt
 ---
-Znany jako profesor spektrum Świadomości, jeden z [[Łowcy imperialni]] i [[asasyni imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Ataliatte]].
+Znany jako profesor spektrum Świadomości, jeden z [[Łowcy imperialni]] i [[asasyni imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Attaliate]].
 
 W rzeczywistości był to [[Setron]] służący [[Iglica Imperialna]]:  v Iv · Prinomy · Delia ∘ Setrön v
 W czasach, gdy Iglica jeszcze działała, przybrał z jej instrukcji ludzką formę i wtopił się w ludzką społeczność. Aby iluzja była pełna, Iglica "pozbawiła" go pamięci, o tym, czym jest naprawdę, więc gdy Iglica przestała poprawnie działać ze względu na [[Tertusa]], który wyjął z niej klucz nadrzędny, Dallian nie miał szans zorientować się, czym jest. Tak trwał, za czasów Imperatora Komnusa Platera Soyescari przybierając nazwisko Plateur. 
@@ -25,5 +25,5 @@ Wciąż poszukując tajemnic, w czasach współczesnych, zaczął zgłębiać ta
 Ostatecznie z pomocą [[Lucy Shealez]] i [[Lucjusz Alvibraten]] udało się rozdzielić Visenę i Ciszę, choć część wiedzy i zdolności Ciszy pozostała w dziewczynie.
 
 # Artefaktyczne społeczeństwo
-Gdy znów próbował odkryć jakieś tajemnice, natrafił na [[Ank'ara]] i [[Cisza]]-Egzekutor za rządów Natannes Heistrom. Zlitowały się one nad nim i przywróciły mu pamięć o jego pochodzeniu/prawdziwej formie. Powrócił na łono [[Spójność Ank'ara]] i razem z Ank'arą dołączył do [[Artefaktyczne Społeczeństwo]] jako [[Nova Delia]].
+Gdy znów próbował odkryć jakieś tajemnice, natrafił na [[Spójność Ank'ara|Ankarrę]] i [[Cisza]]-Egzekutor za rządów Natannes Heistrom. Zlitowały się one nad nim i przywróciły mu pamięć o jego pochodzeniu/prawdziwej formie. Powrócił na łono Spójności i razem z Ankarrą dołączył do [[Artefaktyczne Społeczeństwo]] jako [[Nova Delia]].
 Zrezygnował wtedy z pozycji Łowcy, przekazując swoje klucze Eonów [[Lucjusz Alvibraten]]. 

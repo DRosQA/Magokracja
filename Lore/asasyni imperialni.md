@@ -1,11 +1,11 @@
 Jednostka do utrzymywania wewnętrznej spójności [[Imperium]]. Założona przez [[Nasizar Tertusa]], w dzisiejszych czasach nie jest już mu bezwzględnie lojalna ponad wszystko, w zamian przysięgając wierność instytucji Imperium. 
 Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemcy imperialni]]. Dzisiaj oficjalnie dowodzeni przez [[Pierwszy Asasyn]], a faktycznie od lat przez [[Czwórka Asasynów]].
 # Znani członkowie
-- [[Luca Ataliatte]]
+- [[Luca Attaliate]]
 - [[Pelona Tegeura]]
 - [[Dallian Plateur]]
 - [[Fleura Knadr]]
-- [[Gethis Ataliatte]] 
+- [[Gethis Attaliate]] 
 - [[Floril di Lauberg]]
 - [[Niebieskie Piórko]]
 - Leancis Diogein z [[Krondstadt]]

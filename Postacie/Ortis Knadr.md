@@ -1,3 +1,3 @@
 [[Orton Knadr]]
-[[Gethis Ataliatte]]
+[[Gethis Attaliate]]
 [[Król Bez Korony]]

@@ -6,7 +6,7 @@ tags:
 Członek [[Artefaktyczne Społeczeństwo]]. 
 
 Wypadkowa dwóch połączonych istot:
-- [[Luca Ataliatte]] 
+- [[Luca Attaliate]] 
 - [[Lewa]] 
 z czego Luca jest osobowością dominującą. Funkcjonalnie podobnie jak [[eon|duon]].
 

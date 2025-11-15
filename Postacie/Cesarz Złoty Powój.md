@@ -9,10 +9,10 @@ tags:
 
 Samodzielnie nie ma celu, jako Powój, a jedynie przekazuje cele, które z nim zostały od Octaviana. Gdy odchodzi od hosta, ta osoba pozostaje ze [[Srebrny Powój]].
 
-W historii wiązał sie z wieloma osobami:
+W historii wiązał się z łącznie 35cioma osobami:
 - [[Octavian]] - 1szy host
-- [[Greygor Schieberg]] - 7dmy host
+- [[Greygor Schieberg]] - 7my host
 - [[Maldrik Heistrom]] - 32gi host
 - [[Matthindrik Heistrom]] - 33ci host
-- [[Olie Berggrath]] - 34ty host
+- [[Snupopiół|Ollie Berggrath]] - 34ty host
 - [[Floril di Lauberg]] - 35ty host, ostatni (dopełnienie cyklu/celów Octaviana)

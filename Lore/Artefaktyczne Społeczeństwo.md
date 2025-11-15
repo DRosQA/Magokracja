@@ -10,11 +10,10 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 # Członkowie
 - [[Justinian]], typ: Unity
 - [[Biały Cień]], typ: nieprzypisany/nieokreślony
-  Prawdopodobnie Brama Imperatora Czterech Koron do Artefaktycznych
 - [[Caelum]], typ: Psyh
 - [[Altum]], typ: Harmonia
 - [[Anilla]], typ: Budowniczy
-- [[Ank'ara]], typ: Unity
+- [[Spójność Ank'ara|Ank'ara]], typ: Unity
 - [[Aurora]], typ: Harmonia
 - Edel, typ: nieprzypisany/nieokreślony
   Prawdopodobnie Brama Edelrosy do Artefaktycznych
@@ -27,18 +26,20 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - [[Książę Nadzieja]], typ: Nova/Budowniczy
 - Niezłomność (wcześniej eon), typ: Budowniczy
 - [[Nova]], typ: Nova/Harmonia/Halo
-- [[Nova Alba]], typ: Nova/Harmonia
+- Nova Alba, typ: Nova/Harmonia
+  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Albii Rosa
+- [[Sympatia Alba]], typ: Unity
 - [[Nova Delia]], typ. Nova/Halo
 - [[Przepaść]], typ: Soye/Inżynier-Hexahedron
 - [[Śmierć]], typ: Psyh/Halo
 - Twórczość (wcześniej duon), typ: Budowniczy
 - Uprzejmość (wcześniej eon), typ: Szlachetny/Halo/Psyh
 - Zaduma (wcześniej eon), typ: Harmonia
-- [[Victoria Nova]], typ: Nova/Soye/Inżynier-Tetrahedron
-- [[Antvel Heinster|Heinster]], typ: Soye/Budowniczy
+- [[Spójność Victoria|Victoria Nova]], typ: Nova/Soye/Inżynier-Tetrahedron
+- Heinster, typ: Soye/Budowniczy
   Jeden z Artefaktorów, ludzi nauczonych rozbłysku: magokraty Antvela
-- [[Luca Ataliatte|Nova Tenebris]], typ: Inżynier-Octahedron/Osobliwość
-  Przestał istnieć w ramach wstęgi Strumienia, która została zakończona
+- [[Luca Attaliate|Nova Tenebris]], typ: Inżynier-Octahedron/Osobliwość
+  Przestał istnieć w ramach wstęgi Strumienia (która została zakończona)
 - Umiejętność, typ: Budowniczy
   Jeden z Artefaktorów, ludzi nauczonych rozbłysku: magokraty Leisario
 - Momentum, typ: Budowniczy
@@ -50,7 +51,6 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - Wiśnia, typ: nieprzypisany/nieokreślony
   Brama Artefaktycznych do ochrony [[Visena Shealez]]
 - [[Sirezai Lüna'rah|Sirezai]], typ: nieprzypisany/nieokreślony
-  Podróżnik po warstwach, Artefaktyczny "z natury" a nie z konstrukcji
 
 
 # Typy

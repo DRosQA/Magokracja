@@ -6,7 +6,10 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 
 # Znane ofiary
 - [[Tribon Sima Apaleo Tertusa]]
-- [[Varylian Heinster]]
+- [[Varilyan Heinster]]
 - [[Czerwona Wilczyca]]
 - [[Markus Pretres]]
 - [[Hesefa Pretres]]
+- [[Calicus Deleh Diozie Tertusa]]
+- [[Iriand Augustus]]
+- [[Octavian Augustus]]

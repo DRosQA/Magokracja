@@ -5,10 +5,10 @@ Projekt równoległy do budowy [[Arcykryształ Soye]], o podobnym celu: stworzen
 # Najwyższe Procesy
 - Arcytron/Najwyższy Inżynier: główny proces inżynieryjny, odpowiada za przewidywanie i kontrolę wydarzeń, bez niego nie jest możliwy rozwój Spójności; zaprojektowany przez [[Cisza]]-Przodek
 - Arcyegzekutor/Najwyższy Egzekutor: proces doradczy i wykonawczy, bezpośrednia kopia osobowościowa [[Octavian]]
-- Calicus Artefaktor: proces naprawczy, dążący do osiągniecia i utrzymania pełnej funkcjonalności Spójności
+- Calic Artefaktor (w każdej Spójności nieco inne imię: Calicus, Calicio etc.): proces naprawczy, dążący do osiągniecia i utrzymania pełnej funkcjonalności Spójności
 - Scari, proces sądowniczy, nieistniejący w oryginalnym projekcie, dodany/wymyślony przez [[Scari]], przez to niejako związany z [[Antvel Heinster]]
 # Ważne Elementy
-- Osobowość Spójności, np. [[Ank'ara]] i [[Spójność Victoria|Wiktoria]]
+- Osobowość Spójności, np. [[Ank'ara]] i [[Spójność Victoria|Victoria Nova]]
 - [[Skiala]], matryca bazowa/wzorzec dla tworzenia ludzi, zawsze odtwarzana z/przez [[Devi]]
 
 # Inne Procesy

@@ -8,7 +8,7 @@ aliases:
 ---
 Doktor magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy imperialni]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
 
-W ostatnich miesiącach podróżuje/podróżowała z [[Lucjusz Alvibraten]], [[Luca Ataliatte]] i [[Ciaran Conejero]].
+W ostatnich miesiącach podróżuje/podróżowała z [[Lucjusz Alvibraten]], [[Luca Attaliate]] i [[Ciaran Conejero]].
 
 Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, [[Hagarth-Satra]]. Jej Melodia to [[Ferarosa]], a jej Powój to [[Acnologia]].
 

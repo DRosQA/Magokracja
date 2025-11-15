@@ -7,7 +7,7 @@ Przeprowadzano "wybory" na nowe stanowisko [[Imperatorowa]]. Z 10 kandydatek, wy
 
 [[Iriand Augu]] oddzieliła się od [[Leypia Mekontion]], tj. właściwie "powstała" jako osoba w Imperium. 
 
-[[Lucy Shealez]], [[Luca Ataliatte]] i [[Lucjusz Alvibraten]] rozwiązują problem [[Niebieskie Piórko|Tysiąca Piórek]]
+[[Lucy Shealez]], [[Luca Attaliate]] i [[Lucjusz Alvibraten]] rozwiązują problem [[Niebieskie Piórko|Tysiąca Piórek]]
 
 Ponownie pojawia się na świecie [[Visena Shealez]], prowadzona teraz przez [[Cisza]]. Dzięki temu też, [[Dallian Plateur]] rozwiazuje swój dramat z Ciszą i [[Skiala]].
 

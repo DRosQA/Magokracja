@@ -1,1 +1,1 @@
-Starszy brat [[Matthindrik Heistrom]], poprzedni
+Starszy brat [[Matthindrik Heistrom]].
