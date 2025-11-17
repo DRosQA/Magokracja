@@ -3,6 +3,8 @@ tags:
   - człowiek
   - Mag/Kolorów
   - Iv
+aliases:
+  - Tron Tribia
 ---
 Poprzedni [[Imperator]]. Wprowadził [[Edykt o Restoracji Imperium]]. Wybitny naukowiec [[kolory many]]
 Wierny doktrynie [[Nasizar Tertusa]]

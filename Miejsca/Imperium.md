@@ -1,8 +1,9 @@
-Państwo pod władzą [[Imperator]] składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]]. 
+Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]].
+
 # Historia
-1. Prahistoria - brak kronik - życie ludzi pod butem [[Setron|bogowie]]. Nie istnieją magowie, ludzie nie mają w ogóle magii
-2. Wojny pomiędzy bogami - powstaje wiele magicznych bestii zwanych "bogobójcami"
-3. Powstają [[Pokolenie po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o  to, że ludzie mają magię poza kontrolą bogów. 
+1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogowie]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej
+2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie
+3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą bogów.
 4. 0 - "Wojna Wyzwolenia" - stworzenie [[Eon]] przez ludzi, które pozwalają pokonać bogów. 
 5. około 175 - 225  - wokół magów tworzą się szlacheckie domy i magokratyczne państwa. 
 6. do 527 - Wykształcają się regiony kulturowe skorelowane ze spektrami [[magia|magii]]: 
@@ -19,3 +20,57 @@ Państwo pod władzą [[Imperator]] składające się z historycznych krain zwan
 12. około 1024 - 1124 - Złoty Wiek Imperium
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]]
 14. 1383 - czasy obecne: ważny [[Miesiąc Imperialny]], [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]]
+
+# Wielkie rody
+* Comnouve
+  Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr
++ Heistrom
+  Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’
++ Bruinia
+  Cel: wzmacnianie armii, marynarki oraz siły magów
++ Augu
+  Cel: wzmocnienie bezpieczeństwa granic dalekiego południa
++ Tertusa
+  Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza
++ Soyescari
+  Cel: zdobywanie jak najlepszej pozycji w Imperium, kierowanie losami Imperium
++ Veleach
+  Cel: rozwój nauki, architektury, sztuki, kultury
++ Pretres
+  Cel: dalsza ekspansja na ziemie ludów pustyń
++ Shealez
+  Cel: zmniejszenie kontroli Imperium nad życiem mieszkańców
++ Schieberg
+  Cel: utrzymanie integralności Imperium
++ Maygren
+  Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów
+
+# Mniejsze rody
+* Alleinas (Comnouve)
+* Plateur (Comnouve)
+* Glyieus (Comnouve)
+* Nouvell (Comnouve)
+* Sanler (Heistrom)
+* Berggrath (Heistrom)
+* Rikellen (Heistrom)
+* Plieach (Bruinia)
+* Casanais (Bruinia)
+* Tamcibay (Augu)
+* Kidapis (Augu)
+* Nasizar (Tertusa)
+* Tegeura (Tertusa)
+* Galech (Tertusa)
+* Mumes (Tertusa)
+* Vatounet (Soyescari)
+* Deviscari (Soyescari)
+* Glieva (Veleach)
+* De Korylion (Pretres)
+* Attaliate (Pretres)
+* Di Lauberg (Pretres)
+* Taragain (Shealez)
+* Torvach (Schieberg)
+* Svader (Schieberg)
+* Horenquist (Schieberg)
+* Von Alvibraten (Maygren)
+* Hask (Maygren)
+* Erimt (Maygren)

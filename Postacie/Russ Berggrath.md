@@ -19,7 +19,7 @@ Problemy mentalne wywołane przez trawione poteżne istoty sprawiły, że jego u
 - starszego brata, bez imienia, mądrego, opiekuńczego (najbliższe oryginalnemu Russowi);
 - młodszego brata Erienda, agresywnego, skrytego, rozumiejącego najwięcej, kim są jako całość
 
-Gdy nieco się uspokaja, poznaje [[Oscail Berggrath]], którego uznaje/adoptuje za swojego **najmłodszego brata**. Oscail staje się jego kotwicą do rzeczywistości. Zostaje też [[Rozjemcy imperialni]] pod [[Tribon Sima Apaleo Tertusa]], doceniajac jego potegę.
+Poznanie na swojej drodze młodego sceptyka i realisty [[Oscail Berggrath|Oscaila]] uspakaja go. Oboje zżywają się tak bardzo, że Russ uznaje/adoptuje jako **najmłodszego brata**. Oscail staje się jego kotwicą do rzeczywistości. Zostaje też [[Rozjemcy imperialni|Rozjemcą Imperium]] pod [[Tribon Sima Apaleo Tertusa]], doceniając jego potęgę.
 
 Gdy na tron wchodzi [[Natannes Heistrom]], Russ nie jest pewien jego siły i bardzo ją podważa, jednak ostatecznie przed nim klęka po [[Bitwa o Caspię]].
 

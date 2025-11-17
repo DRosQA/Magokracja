@@ -3,11 +3,16 @@ tags:
   - Vanta
 ---
 Według obecnej wiedzy, [[Nicość]] jest jej domem.
-Jedna z [[Siły Wyższe]] (?). Obecnie nie wiadomo, kim/czym jest, wszystko to domysły.
-U znawców tego tematu przyjęło się mówić, że "Cisza jest [[Niema]]".
+Według niektórych teoretyków naukowych, jedna z [[Siły Wyższe]] (ale to bardzo nie potwierdzone). Obecnie nie wiadomo, kim/czym jest, wszystko to domysły.
+U znawców jej tematu przyjęło się mówić, że "Cisza jest [[Niema]]", cokolwiek to znaczy.
 # Znane wcielenia Ciszy
-* Cisza-Przodek
-* Cisza-Visena
-* Cisza-Egzekutor
-* Cisza-Noara
-* Cisza-Cilla
+* Cisza, 1sze wystąpienie (a raczej naturalny stan nie-bycia)
+* Cisza-Róża ([[Delirum]]) -> co obudziło Ferarosa, 2gie wystąpienie
+* Cisza-Przodek (z [[Pierwsza Cywilizacja]]), 3cie wystąpienie
+* Cisza-Egzekutor (w [[Spójność Ank'ara]], prawdopodobnie ten Egzekutor, który uległ [[manipulacja|Infekcja Pierwszej Cywilizacji]]), 4te wystąpienie
+* Cisza-Siostra ([[Cilla Scari|Calvara Taragain]]), 5te wystąpienie
+* Cisza-Czarna ([[Cilla Scari]]), 6te wystąpienie
+* Cisza-Biała ([[Skiala|Skiala Berggrath]]), 7me wystąpienie
+* Cisza-Nigdzie ([[Visena Shealez]]), 8me wystąpienie
+* Cisza-Wszędzie ([[Noara Schieberg]]), 9te wystąpienie
+* 

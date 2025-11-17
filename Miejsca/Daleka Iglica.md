@@ -1,2 +1,1 @@
-[[Spójność Ank'ara]]
-[[Cywilizacja Szlachetnych]]
+Jedna z Iglic [[Spójność Ank'ara]], przejęta przez [[Cywilizacja Szlachetnych]].

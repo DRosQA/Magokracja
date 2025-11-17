@@ -13,3 +13,6 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Calicus Deleh Diozie Tertusa]]
 - [[Iriand Augustus]]
 - [[Octavian Augustus]]
+- [[Cassandra Comnouve]]
+- [[Cisza]]-Przodek
+- 
