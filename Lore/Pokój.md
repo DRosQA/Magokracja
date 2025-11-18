@@ -11,7 +11,7 @@ To, jaki Symbol się zbuduje, zależy od tego kto "wygra" spośród pięciu osó
 - [[Biały Cień]]
 - [[Antvel Heinster]]
 
-[[Ciaran Conejero]] widział w [[Podwodny Pałac Komnena]] w sali z tymi pięcioro także [[Lüna]].
+[[Ciaran Conejero]] widział w [[Podwodny Pałac Komnena]] w sali z tymi pięcioro także [[Lüna 1]].
 
 # Warunki Pokoju
 - posiadanie "po swojej stronie"
