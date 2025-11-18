@@ -1,4 +1,4 @@
-Na danej planecie poznane z powodu [[Spójność Ank'ara]], która w stadium bycia popsutą, traci kontrolę na terenach obecnego [[Imperium]] a jej maszyny-procesy stają się _bogami_ ludzi.
+Na danej planecie poznane z powodu [[Spójność Ank'ara]], która w stadium bycia popsutą, straciła kontrolę na terenach obecnego [[Imperium]] a jej maszyny-procesy stały się _bogami_ dla ludzi.
 # Geneza
 Projekt równoległy do budowy [[Arcykryształ Soye]], o podobnym celu: stworzenie systemu, który zagwarantowałby [[Pokój]] dla całej cywilizacji. Gdzie Arcykryształ miał zarządzać, Spójności miały uczyć i stopniowo doprowadzać ludzi do idealnego społeczeństwa. Każda Spójność ma co najmniej jedną Iglicę a jest wiele takich, co miały dziesiątki Iglic.
 
@@ -20,3 +20,4 @@ Choć na planecie dominuje Spójność Ank'ara, pojawia się też [[Spójność 
 - Trony (jednostki podwładne Arcytronu, kontrolujące wydarzenia wg jego przewidywań)
 - Egzekutorzy (jednostki podwładne Arcyegzekutora, wykonujące jego polecenia)
 - Setrony (najniższe jednostki wykonawcze Spójności, dostępne dla wszystkich innych procesów i w związku z tym wykonujące różne zadania)
+

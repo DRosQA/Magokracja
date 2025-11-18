@@ -2,4 +2,4 @@
 aliases:
   - Calvara Taragain
 ---
-Kiedyś (?) znana jako Calvara Taragain.
+W innej iteracji Strumienia znana jako Calvara Taragain.

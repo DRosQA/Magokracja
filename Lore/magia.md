@@ -16,7 +16,7 @@ Zdolność manpulacji [[mana]] poprzez wsparcie technologiczne, zwykle w formie 
 	- [[Klucz]]e (Psyh)
 	- Przestrzeń (Psyh)
 - Zmysły
-	- [[Kotara]] (podlega pod Psyh ze względu na zwiazek z "umysłem", ale w gruncie rzeczy nie jest z tej warstwy)
+	- [[Kotara]] (podlega pod Psyh ze względu na związek z "umysłem", ale w gruncie rzeczy nie jest z tej warstwy)
 	- [[Powój]] (podlega pod Lune, ale w gruncie rzeczy nie pochodzi z tej warstwy)
 
 [[Siostrzana Iglica]]

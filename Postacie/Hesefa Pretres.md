@@ -4,9 +4,21 @@ tags:
   - Mag/Kolorów
   - Soye
 ---
-Córka [[Markus Pretres]] 
+Córka [[Markus Pretres]] z jego żoną z [[Białe Piaski]]. 
 
-Zaklęcie prawdy, które podarowała [[Ciaran Conejero]], dzięki któremu odkrył swoją prawdziwą Melodię:
+Magister Władzy. Przyjaciółka [[Lilianna Schieberg]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio. W Liliannie bez wzajemności trochę zakochana.
+Koleżanka [[Ciaran Conejero]] przez swojego ojca.
+
+Przez jakiś czas pod wpływem [[manipulacja]], przez którą (oraz jego związek z Lilianną) próbowała zabić [[Lucjusz Alvibraten]] w trakcie [[Miesiąc Imperialny]]. Nie wiadomo, czy celem tej manipulacji ostatecznie był Lucjusz, czy ona jako osoba związana ze Stelią, czy była tylko dojściem do Antonii etc.
+
+Po próbie kolorów wyruszyła w warstwy "odnaleźć siebie" i odkryła swoją Melodię, [[Scientia Incariante]]. 
+Jej Powój połączył się z [[Kruczy Król]] sprawiajac, że ma powdójny Powój (jak dwugłowa hydra). 
+
+Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[Erzsebeth Mirtlass]]. 
+## Zaklęcie prawdy
+
+Zaklęcie prawdy, które podarowała [[Ciaran Conejero]], dzięki któremu odkrył swoją prawdziwą Melodię. Nie wiadomo, skąd je ma, ale zna je też Eimhrick. 
+
 Red whispers secrets, but beware the lie,
 For in its passion, truth may pass you by.
 Orange hues of caution warn of deceit,

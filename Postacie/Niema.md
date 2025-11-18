@@ -3,7 +3,11 @@ tags:
   - TubylecWarstwy
   - Nute
 ---
-Nikt nie wie czyja to Melodia. Podejrzewamy, ze może [[Cisza]] lub [[Lucerna]]. Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
+Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
+Została zmanifestowana/wymuszona przez [[Eimhrick]]/[[Estarosa]] - w wizji nie było jasne który. 
+
+Z jakiegoś powodu, coś o niej wiedzą Struniarze w [[Wioska W Górach]] - być może właśnie dlatego byli na celowniku wielu osób/sił. 
+
 Jest [[Symbol]]em ekstremalnego [[Stan Many]] uzewnętrzniającego się magicznie, tj. [[magioklizm]].
 
 do [[Wróg]]
