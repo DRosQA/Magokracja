@@ -1,0 +1,1 @@
+Niszczycielki efekt [[magia|magiczny]], wywołany pośrednio lub bezpośrednio dużo większym efektem [[manaklizm]]u.

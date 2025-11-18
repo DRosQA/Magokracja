@@ -1,0 +1,1 @@
+"Power does not make us wise, only louder, when we are wrong."
