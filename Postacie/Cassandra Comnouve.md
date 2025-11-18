@@ -1,3 +1,8 @@
+---
+tags:
+  - człowiek
+  - Mag
+---
 Księżna koronna Asapor. Mag zarządzający oddziałem [[Imperialne Czaszki]]. Lic. Życia, ale ma dar powodujący dużo większe możliwości, niż zakłada jej poziom wykształcenia.
 Młodsza córka [[Joanita Comnouve]].
 

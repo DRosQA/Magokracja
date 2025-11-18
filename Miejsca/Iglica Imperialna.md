@@ -4,5 +4,5 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami
 * [[Ludy Południa]]
 # Znane procesy
 * Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
-* Egzekutor [[Magred]] (Puyol) - obecnie Imperialny Rozjemca
+* Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
 * Setron [[Dallian Plateur|Delia]]

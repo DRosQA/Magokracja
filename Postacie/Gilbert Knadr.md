@@ -1,3 +1,3 @@
 Syn [[Fleura Knadr]].
-[[Klasa Livonii]].
+[[klasa Livonii]].
 Philipio de Korylion

@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a0f377b1fa0203",
+        "id": "797039fd5b1463be",
         "type": "tabs",
         "children": [
           {
-            "id": "856b1de556656f8e",
+            "id": "7f99d25774a83d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Postacie/Hesefa Pretres.md",
-=======
-                "file": "Postacie/Biały Cień.md",
->>>>>>> Stashed changes
+                "file": "Postacie/Cilla Scari.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Hesefa Pretres"
-=======
-              "title": "Biały Cień"
-            }
-          },
-          {
-            "id": "f8c4fc62663d8634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tetrahedron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tetrahedron"
->>>>>>> Stashed changes
+              "title": "Cilla Scari"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,11 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
                 "query": "",
-=======
-                "query": "tetrahedron",
->>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "86957f1bef69516e",
@@ -197,63 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7d3ba927e3a8779",
+  "active": "7f99d25774a83d1e",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "tetrahedron.md",
-    "Wioska W Górach.md",
-    "Lüna.md",
-    "Iuline Phille Dirbair Shayat.md",
-    "Białe Piaski.md",
-    "Lore/tetrahedron.md",
-    "Postacie/Natannes Heistrom.md",
-    "Postacie/Biały Cień.md",
-    "Lore/Wioska W Górach.md",
-    "Lore/Lüna 1.md",
-    "Postacie/Iuline Phille Dirbair Shayat.md",
-    "Lore/Białe Piaski.md",
-    "Postacie/Reigha Strom.md",
-    "Postacie/Oscail Berggrath.md",
-    "Postacie/Orton Knadr.md",
-    "Postacie/Leofast Alvibraten.md",
-    "Postacie/Leisario nec Ferrum.md",
-    "Postacie/Joanita Comnouve.md",
-    "Postacie/Joala Knadr.md",
-    "Postacie/Heigem Strom.md",
-    "Postacie/Gethis Attaliate.md",
-    "Postacie/Fleura Knadr.md",
-    "Postacie/Davh Heinster.md",
-    "Postacie/Cassandra Comnouve.md",
-    "Postacie/Anta Heinster.md",
-    "Postacie/An Ariq.md",
-=======
-    "Postacie/Natannes Heistrom.md",
-    "tetrahedron.md",
-    "Iuline Phille Dirbair Shayat.md",
-    "Postacie/Biały Cień.md",
-    "Postacie/Albia Rosa.md",
+    "Lore/Siostra w Pyle.md",
     "Postacie/Cilla Scari.md",
+    "Postacie/Cisza.md",
+    "Lore/klasa Livonii.md",
+    "Magred Puyol.md",
+    "Miejsca/Iglica Imperialna.md",
+    "Postacie/Adelanta Lustratia.md",
+    "Postacie/Cassandra Comnouve.md",
+    "Postacie/Joala Knadr.md",
+    "Postacie/Joanita Comnouve.md",
+    "Lore/klan Strom.md",
+    "Miejsca/Wioska W Górach.md",
+    "Miejsca/Wioska W Górach.md",
+    "Lore/Tron.md",
+    "Lore/tetrahedron.md",
+    "Lore/Lüna.md",
+    "Lore/Lüna 1.md",
+    "Lore/Białe Piaski.md",
+    "Lore/Białe Piaski.md",
+    "Postacie/Iuline Phille Dirbair Shayat.md",
+    "Postacie/Iuline Phille Dirbair Shayat.md",
     "Lore/Pokój.md",
-    "Lore/magia kolorów.md",
-    "Postacie/Inkarra.md",
-    "Miejsca/Imperium.md",
-    "Lore/Pięć Iglic.md",
-    "Lore/Imperator.md",
     "Lüna.md",
-    "Wydarzenia/Bitwa Zaćmienia.md",
+    "Postacie/Ava Schieberg.md",
     "Postacie/Hesefa Pretres.md",
-    "Postacie/Scientia Incariante.md",
-    "Lore/Stelia.md",
-    "Lore/Miesiąc Imperialny.md",
-    "Wioska W Górach.md",
-    "Białe Piaski.md",
-    "Lore/Ludy Nocy.md",
-    "Lore/magia.md",
-    "Wydarzenia/Wojna Czystki Krwi.md",
-    "Postacie/Niema.md",
-    "Postacie/Armada Dioge Henrigo Veleach.md",
-    "Postacie/Dallian Plateur.md",
->>>>>>> Stashed changes
+    "Postacie/Natannes Heistrom.md",
     "Lore",
     "Wydarzenia",
     "Miejsca",

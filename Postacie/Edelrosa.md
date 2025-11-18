@@ -6,4 +6,4 @@ tags:
 ---
 Melodia [[Iriand Augu]]. Żona [[Hyuurnen Rikkellen]]
 
-Obecna dyrektorka universytetu, od czasów [[Klasa Livonii]].
+Obecna dyrektorka universytetu, od czasów [[klasa Livonii]].
