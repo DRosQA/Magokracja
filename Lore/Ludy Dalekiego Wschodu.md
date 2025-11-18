@@ -1,2 +1,0 @@
-[[Lud Solar]]
-[[Lud Panów]]

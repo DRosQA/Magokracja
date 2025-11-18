@@ -1,0 +1,1 @@
+Istoty [[Devi]] (prawdopodobnie) sprzed [[Cywilizacja Szlachetnych]], pierwsi, którzy dominowali na planecie. Czemu odeszli? Nie wiadomo.

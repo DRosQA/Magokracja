@@ -1,1 +1,0 @@
-[[Ludy Północy]]

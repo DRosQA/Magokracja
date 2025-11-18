@@ -6,16 +6,17 @@ Istnieje też instytucja **Rozjemcy Mianowanego**, tj. opsoby wykonującej czę�
 
 # Znani Rozjemcy
 - [[Lucy Shealez]]
-- L'aemon "Jej kwaśność" Nouvell-Rikkelen, Lord Imperialnej Fortecy
-- Beson Fonche, pan na zamku Dardon, marszałek polowy Złotej Gwardii
+- L'aemon "Jej kwaśność" Nouvell-Rikkelen, niejaka _Lord Imperialnej Fortecy_, cokolwiek to znaczy
+- Beson Fonche, pan na zamku Dardon, z własnej woli wciąż marszałek polowy Złotej Gwardii
 - [[Silcair Hoppenberg]]
+- [[Sareed Nahak Souaz]]
 - Ali Ogedba Raffani, lider oazy Makabba i haremu swego imienia
-- Hergeld Gasshoffen, pani na zamku Gerdan, sierżant Chorągwi Imperium
-- [[Abradean Garghais]] (były)
-- [[Markus Pretres]] (były)
+- Hergeld Gasshoffen, pani na zamku Gerdan, z własnej woli wciąż sierżant Chorągwi Imperium
+- [[Abradean Garghais]] (niby emerytowany)
+- [[Markus Pretres]] - były Rozjemca na tereny przygraniczne
 - [[Magred Puyol]]
 - [[Russ Berggrath]]
-- Bwati Sulan Asa Turukibe, Rozjemca na [[Ludy Południa]]
+- Bwati Sulan Asa Turukibe, Rozjemca na ludy Południa (nie mówi się tego głośno, ale podobno to figurant pod butem [[Iriand Augu]])
 - [[Matthindrik Heistrom]] - ostatni Pierwszy Rozjemca
 - Constaliyar Soyescari, głowa rodu, książę Marte, prof. s. Świa. (emerytowany Pierwszy Rozjemca, przed Matthindrikiem)
 - Domline Deviscari, Rozjemca Mianowany przez Lucy Shealez na sprawy miasta Krondstadt

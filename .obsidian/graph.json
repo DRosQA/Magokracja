@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Hel  ",
       "color": {
         "a": 1,
-        "rgb": 10376192
+        "rgb": 13923336
       }
     },
     {
@@ -25,14 +25,14 @@
       "query": "tag:#Psyh  ",
       "color": {
         "a": 1,
-        "rgb": 16702040
+        "rgb": 16773468
       }
     },
     {
       "query": "tag:#Iv  ",
       "color": {
         "a": 1,
-        "rgb": 38845
+        "rgb": 3729663
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#Lune  ",
       "color": {
         "a": 1,
-        "rgb": 947456
+        "rgb": 7667298
       }
     },
     {
@@ -60,21 +60,21 @@
       "query": "tag:#Vanta  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 524416
       }
     },
     {
       "query": "tag:#Vorel  ",
       "color": {
         "a": 1,
-        "rgb": 5197647
+        "rgb": 15916286
       }
     },
     {
       "query": "tag:#Strumień  ",
       "color": {
         "a": 1,
-        "rgb": 4941
+        "rgb": 16766330
       }
     }
   ],
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1166089157945639,
+  "scale": 0.08317427835926887,
   "close": false
 }

@@ -1,4 +1,4 @@
 
 [[Soye]]
 [[Siły Wyższe]]
-[[Sędzia Pokoju]]
+[[Siostrzana Iglica|Sędzia Pokoju]]

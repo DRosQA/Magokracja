@@ -18,7 +18,7 @@ Jeden z jego kroków przez Iv sprawił, że utknął na tej warstwie. Tam znalaz
 
 # Przygody
 Podróżując jako uczeń Eimhricka i posłaniec rebelii, Ciaran spotkał wiele ciekawych osób i zobaczył wiele dziwów.
-- wykreował magią oazę na pustyni dla [[Ludy Nocy]]
+- wykreował magią oazę na pustyni dla [[Siostrzana Iglica|ludy Nocy]]
 - zaznajomił się z [[Julius Pretres]], którego ceni za społecznościowe podejście
 - odwiedził z Eimhrickiem [[Kraina Qa]], gdzie poznał [[Maygren]] i [[Echo Scari]], oraz był świadkiem pieczętowania jednej z cyklicznych eksplozji/rozlewów Estarosy
 - rozmawiał z Lucerną w [[Posiadłość Lucjusza]]

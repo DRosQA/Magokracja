@@ -28,7 +28,7 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
   Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’
 + Bruinia
   Cel: wzmacnianie armii, marynarki oraz siły magów
-+ Augu
++ Augu (lud Południa, na słowo honoru część Imperium)
   Cel: wzmocnienie bezpieczeństwa granic dalekiego południa
 + Tertusa
   Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza
@@ -46,31 +46,36 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
   Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów
 
 # Mniejsze rody
-* Alleinas (Comnouve)
-* Plateur (Comnouve)
-* Glyieus (Comnouve)
-* Nouvell (Comnouve)
-* Sanler (Heistrom)
-* Berggrath (Heistrom)
-* Rikellen (Heistrom)
-* Plieach (Bruinia)
-* Casanais (Bruinia)
-* Tamcibay (Augu)
-* Kidapis (Augu)
-* Nasizar (Tertusa)
-* Tegeura (Tertusa)
-* Galech (Tertusa)
-* Mumes (Tertusa)
-* Vatounet (Soyescari)
-* Deviscari (Soyescari)
-* Glieva (Veleach)
-* De Korylion (Pretres)
-* Attaliate (Pretres)
-* Di Lauberg (Pretres)
-* Taragain (Shealez)
-* Torvach (Schieberg)
-* Svader (Schieberg)
-* Horenquist (Schieberg)
-* Von Alvibraten (Maygren)
-* Hask (Maygren)
-* Erimt (Maygren)
+* Alleinas (podwładni Comnouve)
+* Plateur (podwładni Comnouve)
+* Glyieus (podwładni Comnouve)
+* Nouvell (podwładni Comnouve)
+* Sanler (podwładni Heistrom)
+* Berggrath (podwładni Heistrom)
+* Rikellen (podwładni Heistrom)
+* Plieach (podwładni Bruinia)
+* Casanais (podwładni Bruinia)
+* Tamcibay (podwładni Augu, lud Południa)
+* Kidapis (podwładni Augu, lud Południa)
+* Nasizar (podwładni Tertusa)
+* Tegeura (podwładni Tertusa)
+* Galech (podwładni Tertusa)
+* Mumes (podwładni Tertusa)
+* Vatounet (podwładni Soyescari)
+* Deviscari (podwładni Soyescari)
+* Glieva (podwładni Veleach)
+* De Korylion (podwładni Pretres)
+* Attaliate (podwładni Pretres)
+* Di Lauberg (podwładni Pretres)
+* Taragain (podwładni Shealez)
+* Torvach (podwładni Schieberg)
+* Svader (podwładni Schieberg)
+* Horenquist (podwładni Schieberg)
+* Von Alvibraten (podwładni Maygren)
+* Hask (podwładni Maygren)
+* Erimt (podwładni Maygren)
+
+# Odszczepieńcy
+* Lud Siły (lud Południa, chcą dołączyć do [[Siostrzana Iglica|ludów Piasków]])
+* Ludy Północy (luźno podwładni Rikellen i Berggrath)
+* klan Strom (luźno podwładni Heistrom)

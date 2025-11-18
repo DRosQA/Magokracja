@@ -5,7 +5,7 @@ tags:
   - Strumień
   - człowiek
 ---
-Aktualna Matrona [[Ludy Południa]] i rodów podległych Augu. 
+Aktualna Matrona ludów Południa [[Imperium]]. 
 
 W jednej z iteracji Strumienia była [[Leypia Mekontion]] - w tej formie, była zmanipulowana przez [[Calicus Deleh Diozie Tertusa]] ([[manipulacja]]???). Uwolniła się od tego problemu dopiero "pozbywając się" skóry Leypii dzięki interwencji [[Lucy Shealez]].
 

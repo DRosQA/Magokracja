@@ -2,7 +2,7 @@ Organizacja rebeliancka złożona z [[Renegat imperialny|renegatów]], prowadzon
 
 Uważali oni, że działają w imieniu [[Kotara]]. Przynajmniej taka była oficjalna wersja.
 
-Przez długi czas dążyli do "naprawy" Imperium, wykazując jak mało przygotowane jest na wiele problemów: akty terrorystyczne takie jak ich, ponowne przybycie [[Spójności|bogowie]] czy istoty zza Kotary, wojnę z [[Ludy poza Imperium]] itp.  Sprawiło to, że ciężko było ich osądzić, bo przecież cele mieli pro-imperialne / Matthindrik zyskał posłuch niektórych [[Rozjemcy imperialni]].
+Przez długi czas dążyli do "naprawy" Imperium, wykazując jak mało przygotowane jest na wiele problemów: akty terrorystyczne takie jak ich, ponowne przybycie [[Spójności|bogowie]] czy istoty zza Kotary, wojnę z [[Ludy Zaćmienia]] itp.  Sprawiło to, że ciężko było ich osądzić, bo przecież cele mieli pro-imperialne / Matthindrik zyskał posłuch niektórych [[Rozjemcy imperialni]].
 
 Ostatecznie po [[Bitwa o Caspię]], ich członkowie w większości zostali skazani na dożywocie zamiast na śmierć, jak zwyczajowo jest dla renegatów.
 

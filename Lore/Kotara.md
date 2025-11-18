@@ -1,7 +1,7 @@
 # Kotara jako osoba
 W sali [[Eclipse]] tańczy [[Vorel|biała]] istota z [[Vanta|czarnym woalem]], wyglądająca jak [[Cywilizacja Przodków|Skiaele]]. Ten jej taniec Eclipse nazwał Kotarą. 
 
-W Imperium, ze względu na spektra [[magia]], wśród [[Ludy Północy]] Kotara jest synonimem dla [[Cień]] i czasem wyznawana jako religia (nielegalnie). 
+W Imperium, ze względu na spektra [[magia]], wśród [[Imperium|ludów Północy]] Kotara jest synonimem dla [[Cień]] i czasem wyznawana jako religia (nielegalnie). 
 # Kotara jako koncept
 
 Naukowcy zajmujący się [[Spójności|Iglicami]] wiedzą, że Spójność może generować "kopię"/nakładkę na to, co jest nazywane naukowo Kotarą, tj. faktyczny rejestr istnienia świata. 

@@ -25,7 +25,6 @@ Gdy na tron wchodzi [[Natannes Heistrom]], Russ nie jest pewien jego siły i bar
 
 Dopiero, gdy [[Lucy Shealez]] i [[Lucjusz Alvibraten]] są w stanie zrozumieć jego historię i pomóc mu z wszechogarniającym poczuciem winy, oraz uświadomić, że w gdyncie rzeczy żadne z jego rodzeństwa nigdy nie istniało (poza Oscailem), jest on w stanie się prawdziwie ogarnąć i uwolnić Krystynę. 
 
-Dzisiaj czasem objawia się jako osobowość "natywnego" Russa, nieokrzesanego i bezpośredniego człowieka [[Ludy Północy]], a czasem jako "Starszy brat Russa", czyli w gruncie rzeczy Uspokajający Powój, więc wydaje się, że jakaś forma wieloosobowości wciąż istnieje, ale pasywnie i pokojowo (bardziej jako wzajemne doradztwo). 
+Dzisiaj czasem objawia się jako osobowość "natywnego" Russa, nieokrzesanego i bezpośredniego człowieka z dalekiej Północy, a czasem jako "Starszy brat Russa", czyli w gruncie rzeczy Uspokajający Powój, więc wydaje się, że jakaś forma wieloosobowości wciąż istnieje, ale pasywnie i pokojowo (bardziej jako wzajemne doradztwo). 
 
-W dzisiejszych czasach zostaje oddelegowany do zaprowadzenia pokoju na terenach Północy. 
-
+W dzisiejszych czasach oficjalnie zostaje oddelegowany do zaprowadzenia pokoju na terenach Północy. 

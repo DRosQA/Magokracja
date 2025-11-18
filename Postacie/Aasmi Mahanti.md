@@ -1,0 +1,1 @@
+Liderka grupy [[Poszukujące]] oraz nauczycielka grupy [[strażniczki Ojca Narodów]]. Jej dążeniem jest przewyższyć [[Iriand Augu]].

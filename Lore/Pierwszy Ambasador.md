@@ -1,3 +1,3 @@
 Nowo utworzony przez [[Natannes Heistrom]] tytuł w [[Imperium]], noszony przez [[Besine de Korylion]].
 
-Do obowiązków należy nadzór nad relacjami międzynarodowymi z [[Ludy poza Imperium]].
+Do obowiązków należy nadzór nad relacjami międzynarodowymi z państwami/ludami zagranicy.
