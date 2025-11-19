@@ -4,8 +4,8 @@ tags:
   - Mag/Kolorów
   - człowiek
 ---
-Brat [[Antvel Heinster]]. Podjął w [[Drugi Cykl]] był jednym z [[Przodkowie]], który podjął kolor many inny niż ich natywne [[Soye]] aby zbudować [[Arcykryształ Soye]] i stworzyć wieczny Pokój.
-Doradca swojego brata pozostający w [[Lune]]. Jego Melodią jest [[Artrosa]].
+Brat [[Antvel Heinster]]. W [[Cykl|Drugim Cyklu]] był jednym z [[Przodkowie]], który podjął kolor many inny niż ich natywne [[Soye]] aby zbudować [[Arcykryształ Soye]] i stworzyć wieczny Pokój.
+Doradca swojego brata pozostający w [[Lune]]. Jego Melodią jest [[Ogrody Rosa|Artrosa]].
 
 Varilyan do Antvela:
 "Jestem prorokiem Strumienia z odpowiedziami, których szukasz. Otworzyłem Bramę czasu, widzę przeszłość i przyszłość biegnące swobodnie. Jest Cykl, gdzie pomagam ci dotrzeć do domu. Ale to nie jest świat, który znam. Widzę pieśń o skrytej miłości. Widzę poświęcenie towarzyszy. Widzę sceny zdrady. I ostatnią wolę brata. Widzę cię na krawędzi śmierci. Widzę, jak wypuszczasz ostatni oddech. Widzę mężczyznę, który wraca do domu żywy. Ale to już nie jesteś ty."

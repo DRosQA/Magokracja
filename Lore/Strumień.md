@@ -16,6 +16,6 @@ W takiej formie, osoba wciąż normalnie funkcjonuje, ale część jej "świadom
 
 Duchy te nazywane są _cieniami_.
 
-Podejrzewamy, że [[manipulacja]] [[Wróg]] działa właśnie w ten sposób.
+Podejrzewamy, że [[manipulacja]] [[Wróg|Wroga]] działa właśnie w ten sposób.
 
-Istoty przebywające poza Strumieniem poruszają się po samym **dnie** [[Kotara|Głębokiej Kotary]] aby móc oddzielić się od bycia zapisywanym z Kotarze i całkowicie niepostrzegalnym, nawet jako [[echo]].
+Istoty przebywające poza Strumieniem, _cienie_, poruszają się po samym **dnie** [[Kotara|Głębokiej Kotary]] aby móc oddzielić się od bycia zapisywanym z Kotarze i całkowicie niepostrzegalnym, nawet jako [[echo]].

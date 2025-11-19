@@ -20,13 +20,14 @@ W 1383 okazało się jednak, że bycie zniszczonym przez Pył nie jest tak ostat
 Później dowiedział się, że jego przyjaciół odtworzył [[Scari]], ponieważ potrzebował ich do dokończenia swojego Sądu, poprzez przywrócenie ich esencji i związanie z ciałami zmarłych w bitwie jakiś czas temu żołnierzy - [[Joala Knadr]] i [[Orton Knadr]]. Esencje tych czterech osób wymieszały się, "zmuszając" Lucę do poznania swoich przyjaciół na nowo.
 
 Ich historia zakończyła się w orszaku Imperatorowej [[Besine de Korylion]], podczas starcia z renegatami dowodzonymi przez [[Darrko Comnouve]] w posiadłości Beaucus. Aby powstrzymać potężny czar [[Soye]] przed zdominowaniem bitwy, poświęcili swoje istnienia.
-# Edelrosa
 
-W jednej z iteracji Strumienia, Luca odbył kilkutygodniową podróż z [[Edelrosa]], Joalą i Ortonem. W jej trakcie właśnie odkrył ich połączenie z jego zmarłymi przyjaciółmi, i pomógł im samym rozprawić się z problemami, jakie to powodowało w ich umysłach. Zaprzyjaźnił się także z Edelrosą, między innymi dlatego, że ich 'melodie' rezonowały ze sobą bardzo dobrze.
+# Edelrosa
+W jednej z iteracji Strumienia, Luca odbył kilkutygodniową podróż z [[Ogrody Rosa|Edelrosa]], Joalą i Ortonem. W jej trakcie właśnie odkrył ich połączenie z jego zmarłymi przyjaciółmi, i pomógł im samym rozprawić się z problemami, jakie to powodowało w ich umysłach. Zaprzyjaźnił się także z Edelrosą, między innymi dlatego, że ich 'melodie' rezonowały ze sobą bardzo dobrze.
 
 Luca do Edelrosy, gdy opuszczała Caspię, aby rozprawić się ze swoją schedą jako Różą i jako "córką" Commenca: “Idź jeśli musisz, ale czekamy na twój powrót.”
+
 # Nova
 Członek [[Artefaktyczne Społeczeństwo]] będący tamtejszą manifestacją zarówno Luci, jak i Lewej (a także Prawej (?)). Twór [[Spójność Victoria]] w przyszłości.
 
 Walczył z _Nova Tenebrae_, artefaktyczną manifestacją swojego brata, Platona będącego pod wpływem [[manipulacja]]. Próbował on przejąć kontrolę nad Artefaktycznymi i zaciągnąć Lucę z powrotem do domu, widząc w jego odejściu z domu rodzinnego przyczynę rozpadu rodziny i rosnącego emocjonalnego dystansu. Nova Tenebrae został zniszczony wspólną siłą Artefaktycznych, powodując, że iteracja Strumienia w której Artefaktyczni są [[manipulacja|kontrolowani]] nie mogła się już wydarzyć.
-Jest to odbicie [[Drugi Cykl|historii opowiedzianej przez Scariego na temat pierwowzoru Artefaktycznego Społeczeństwa]] w Spójnościach dryfujących pomiędzy cyklami - choć tym razem z lepszym zakończeniem.
+Jest to odbicie [[Cykl|historii opowiedzianej przez Scariego na temat pierwowzoru Artefaktycznego Społeczeństwa]] w Spójnościach dryfujących pomiędzy cyklami - choć tym razem z lepszym zakończeniem.

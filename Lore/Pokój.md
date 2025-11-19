@@ -14,7 +14,7 @@ To, jaki Symbol się zbuduje, zależy od tego kto "wygra" spośród pięciu osó
 [[Ciaran Conejero]] widział w [[Podwodny Pałac Komnena]] w sali z tymi pięcioro także [[Lüna]].
 # Warunki Pokoju
 - posiadanie "po swojej stronie"
-	- conajmniej 1 [[Stelia]]
+	- conajmniej 1 [[Steliae]]
 	- conamnniej 1 Klucz spośród tzw. [[Pięć Iglic]]
 	- wybranie "plusa" w [[magia kolorów|Próbie Psyh]]
 - objawienie się [[Inkarra]] (nastąpiło)

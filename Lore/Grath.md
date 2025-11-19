@@ -1,5 +1,6 @@
 Określenie z zamierzchłych czasów na istoty zdolne zabijać fałszywych [[Spójności|bogów]] , w furii zakończyć całe cywilizacje, w skrajnej potędze planety a niektóre nawet zakończyć Cykl.
 
-[[Stalokrew|Asha Grath]]
-[[Derniere]]
-Skjoergen
+# Znane Grath
+ - [[Stalokrew]]
+- [[Derniere]]
+- Skjoergen

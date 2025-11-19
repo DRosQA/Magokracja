@@ -5,11 +5,12 @@ tags:
 aliases:
   - Pałac Maygrena
 ---
-Jest miejscem tranzytowym dla tubylców [[Psyh]] i [[Nute]] - miejsce zetknięcia i zmieszania tych warstw, oraz miejsce spotkań znamienitych i potężnych istot [[Psyh]] i [[Soye]].
+Jest miejscem tranzytowym dla tubylców [[Psyh]] i [[Nute]] - miejsce zetknięcia i zmieszania tych warstw, oraz miejsce spotkań znamienitych i potężnych istot Psyh i [[Soye]].
 
-Natywni mieszkańcy to [[quaka-tao]].
+Natywni mieszkańcy to quaka-tao.
 
-To tutaj Maygren pomaga [[Eimhrick]] "uspokoić" [[Estarosa]] raz na jakiś czas.
+To tutaj Maygren pomaga [[Eimhrick]]owi "uspokoić" [[Ogrody Rosa|Estarosa]] raz na jakiś czas.
+
 # Miejsca
 - Pałac Maygrena, miejsce urzędowania [[Maygren]]
 - Bazar, miejsce wymiany towarów, poglądów i kultury między podróżnikami

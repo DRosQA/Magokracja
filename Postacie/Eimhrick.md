@@ -9,14 +9,13 @@ tags:
 aliases:
   - Czujny Powój
 ---
-W [[Pierwszy Cykl]] przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
+W Pierwszym Cyklu przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
-Pochodzi ze [[Świat Pyłu]], oficjalnie jako "Czujny [[Powój]]" jest jego [[Strażnik]]iem, ale prawdopodobnie jest (też) Strażnikiem [[Estarosa]]. Dzisiaj champion [[Iv]].
+Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie jako "Czujny Powój" jest jego [[Strażnik]]iem, ale jest (też) Strażnikiem [[Ogrody Rosa|Estarosa]]. Dzisiaj champion [[Iv]].
 
+Przełożony/towarzysz [[Nagrar-Stirn]]a. Nauczyciel [[Ciaran Conejero]].
 
-Przełożony/towarzysz [[Nagrar-Stirn]]. 
-
-Jeden z pięciu decydujących o [[Pokój]]. 
+Jeden z pięciu decydujących o [[Pokój]]. Jego Melodią jest [[Steliae|Delirum]].
 
 "Lie to all even if you do not mean it, they will not be disappointed."
 "If someone threatens you with ‘death’, tell them, Death is your friend."

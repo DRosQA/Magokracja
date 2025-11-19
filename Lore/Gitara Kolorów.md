@@ -2,4 +2,4 @@
 aliases:
   - gitarka
 ---
-[[Estarosa]]
+[[Ogrody Rosa|Estarosa]]

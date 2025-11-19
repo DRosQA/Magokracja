@@ -1,1 +1,1 @@
-Z ludu [[Noc Obsydianu]], jedna z [[Poszukujące]]
+Z ludu [[Siostrzana Iglica|Nocy Obsydianu]], jedna z [[Poszukujące]].

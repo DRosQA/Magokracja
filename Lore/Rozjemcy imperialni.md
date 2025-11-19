@@ -9,7 +9,7 @@ Istnieje też instytucja **Rozjemcy Mianowanego**, tj. opsoby wykonującej czę�
 - L'aemon "Jej kwaśność" Nouvell-Rikkelen, niejaka _Lord Imperialnej Fortecy_, cokolwiek to znaczy
 - Beson Fonche, pan na zamku Dardon, z własnej woli wciąż marszałek polowy Złotej Gwardii
 - [[Silcair Hoppenberg]]
-- [[Sareed Nahak Souaz]]
+- Sareed Nahak Souaz, przyjaciel Silcair'a, technomag, który przywrócił do funkcjonalności [[Spójności|Calico]], proces 
 - Ali Ogedba Raffani, lider oazy Makabba i haremu swego imienia
 - Hergeld Gasshoffen, pani na zamku Gerdan, z własnej woli wciąż sierżant Chorągwi Imperium
 - [[Abradean Garghais]] (niby emerytowany)

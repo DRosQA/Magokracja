@@ -2,6 +2,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami (niektórymi przej
 
 # Ludy Nocy
 * Białe Piaski
+  Książęcy ród Shayat
 - Złote Piaski
 - Czarne Piaski
 - Lud Nieba
@@ -12,8 +13,10 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami (niektórymi przej
 * Lud Panów
 * Lud Mistrzów Rzemiosł
 * Lud Solar
+  Ojciec Narodów
 
 # Znane procesy
+- Egzekutor [[Artefaktyczne Społeczeństwo|Alba]]
 * Tron [[Tribon Sima Apaleo Tertusa|Tribia]]
 * Najwyższy Tron Siostrzanej Iglicy, Jawhad Król Królów
 

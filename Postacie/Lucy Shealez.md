@@ -10,7 +10,7 @@ Doktor magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy imperialni]] z pole
 
 W ostatnich miesiącach podróżuje/podróżowała z [[Lucjusz Alvibraten]], [[Luca Attaliate]] i [[Ciaran Conejero]].
 
-Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, [[Hagarth-Satra]]. Jej Melodia to [[Ferarosa]], a jej Powój to [[Acnologia]].
+Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, [[Hagarth-Satra]]. Jej Melodia to [[Ogrody Rosa|Ferarosa]], a jej Powój to [[Acnologia]].
 
 Związana ze [[Świat Pyłu]] jako [[Siostra w Pyle]]. Posługuje się każdym [[Pył]] poza Białym.
 

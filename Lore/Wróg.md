@@ -9,4 +9,4 @@ Od długiego czasu, mąci innym w planach, pozostając niewykrytym. Prawdopodobn
 
 Jego działania znane są jako [[manipulacja|Infekcja Pierwszej Cywilizacji]].
 
-[[Artrosa]], dotknięta ostatecznym odejściem istoty, z którą była związana, zasugerowała, że _wróg_ to niekoniecznie jedna osoba, że "każdy sobie może wybrać/stworzyć swojego".
+[[Ogrody Rosa|Artrosa]], dotknięta ostatecznym odejściem istoty, z którą była związana, zasugerowała, że _wróg_ to niekoniecznie jedna osoba, że "każdy sobie może wybrać/stworzyć swojego".

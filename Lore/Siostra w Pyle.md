@@ -6,5 +6,5 @@ Jest ich zawsze dwie, z czego jedną z nich jest zawsze [[Cisza]].
 - [[Cilla Scari]] - posiada wzrok w Świecie Pyłu (jednym okiem, które nie widzi w Devi)
 # Pierwsze Siostry w Pyle:
 - [[Hagarth-Satra]]
-- [[Ferarosa]]
+- [[Cisza]]-Róża (jako Ferarosa)
 xxx (???)

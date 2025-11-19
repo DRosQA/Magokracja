@@ -1,1 +1,1 @@
-[[Struniarze]]
+[[Imperium|Struniarze]]

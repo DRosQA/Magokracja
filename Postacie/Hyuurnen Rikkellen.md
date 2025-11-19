@@ -1,1 +1,1 @@
-Żona [[Edelrosa]].
+Żona [[Ogrody Rosa|Edelrosa]].

@@ -12,7 +12,7 @@ Przeciw "Kryształowym Imperatorom" ([[Czerwona Wilczyca]] i [[Eriend Grath]]) s
 
 Przeciw liderowi Lokajów, [[Matthindrik Heistrom]], miał stanąć Calicus. Użył on swoich Iglic aby zbombardować swojego przeciwnika, ale nie trafił go - jak się potem okazało, specjalnie.
 
-Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
+Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Ogrody Rosa|Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
 
 [[Lucy Shealez]], [[Luca Attaliate]] i [[Lucjusz Alvibraten]] staneli na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius]].
 
@@ -20,7 +20,7 @@ Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwan
 W wyniku wydarzeń w sali tronowej, wszyscy Rozjemcy i inni ważni ludzie ostatecznie zaakceptowali Natannesa jako Imperatora.
 W wyniku samej bitwy, poddali się Lokaje Kotary i rozpoczęto aresztowania i sądy nad członkami [[rebelia]].
 Commenc odpuścił swoje anty-imperialne dążenia. 
-Ginie [[Pierwszy Protektor Schieberg]]
+Ginie [[Protektorzy imperialni|Pierwszy Protektor Schieberg]].
 Ze względu na łatwość skorumpowania kogoś z tak dużą władzą, zlikwidowane zostają stanowiska Pierwszych [[Rozjemcy imperialni]] i [[Protektorzy imperialni]]
 Umacnia się stanowisko [[Pierwszy Mag]], które w celu udobruchania go/gestu zgody ze Strom otrzymuje Commenc.
 Powstaje stanowisko [[Pierwszy Asasyn]]

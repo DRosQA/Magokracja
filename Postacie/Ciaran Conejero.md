@@ -6,15 +6,15 @@ tags:
 ---
 [[Renegat imperialny]] i posłaniec dla [[rebelia]]. 
 
-Przyjaciel i uczeń [[Eimhrick]]. Aktualnie pracuje dla [[Lucy Shealez]]. Przyjaciel [[Markus Pretres]] i [[Hesefa Pretres]]
+Przyjaciel [[Markus Pretres]], [[Hesefa Pretres]] i [[Eimhrick]], którego jest uczniem. Aktualnie pracuje dla [[Lucy Shealez]]. 
 
-Od urodzenia cierpi na [[manachoroba]] zaburzającą jego zmysły (synestezja z [[kolory many]]). Przez większość życia niewidoczny dla [[Melodia]] ze względu na brak swojej własnej Melodii, dopóki nie zżarł [[kwiat lucerny]], który po rozmowie (!) z nim podarowała mu sama [[Lucerna]]. 
+Od urodzenia cierpi na [[manachoroba]] zaburzającą jego zmysły (synestezja z [[kolory many]]). Przez większość życia niewidoczny dla Melodiaes ze względu na brak swojej własnej Melodii, dopóki nie zżarł _kwiatu lucerny_, który po rozmowie (!) z nim podarowała mu sama [[Lucerna]]. 
 Ostatnio uzyskał własną Melodię o imieniu [[Nadzieja]]. Wcześniej myślał, że jego Melodią jest [[Laxus Viridian]]. 
 
 # Młodość
 Ciaran nie pochodzi ze szlacheckiej rodziny, jak większość magów. Nauki magii w Akademii Sulamis zostały mu zasponsorowane przez patrona, któremu potem miał służyć. Niestety, często wdawał się w konflikty z innymi uczniami, którym nie w smak było towarzystwo wieśniaka. Problem ten miał swoją kulminację w sporze z dręczącym go od dłuższego czasu Fransedo Marya Casanais, którego Ciaran przypadkiem mocno poparzył w samoobronie. Bojąc się kary, uciekł, po raz pierwszy wykorzystując swoją więź z [[Iv]]. Tak technicznie stał się renegatem, choć dzisiaj ma na koncie o wiele więcej i dużo gorszych wykroczeń przeciw Imperium. 
 
-Jeden z jego kroków przez Iv sprawił, że utknął na tej warstwie. Tam znalazł go właśnie Eimhrick i wziął pod opiekę, nauczając go magii kolorów razem z [[Estarosa]] i [[Nagrar-Stirn]]. Ostatnimi czasy poddaje on w wątpliwość, czy utkniecie i spotkanie to było całkiem przypadkowe. 
+Jeden z jego kroków przez Iv sprawił, że utknął na tej warstwie. Tam znalazł go właśnie Eimhrick i wziął pod opiekę, nauczając go magii kolorów razem z [[Ogrody Rosa|Estarosa]] i [[Nagrar-Stirn]]. Ostatnimi czasy poddaje on w wątpliwość, czy utkniecie i spotkanie to było całkiem przypadkowe. 
 
 # Przygody
 Podróżując jako uczeń Eimhricka i posłaniec rebelii, Ciaran spotkał wiele ciekawych osób i zobaczył wiele dziwów.

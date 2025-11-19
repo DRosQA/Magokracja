@@ -79,3 +79,4 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
 * Lud Siły (lud Południa, chcą dołączyć do [[Siostrzana Iglica|ludów Piasków]])
 * Ludy Północy (luźno podwładni Rikellen i Berggrath)
 * klan Strom (luźno podwładni Heistrom)
+* Struniarze (obraźliwa nazwa na jeden z klanów Ludu Strun, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt)

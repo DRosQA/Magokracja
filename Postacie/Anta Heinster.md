@@ -1,1 +1,1 @@
-Ciało-host dla [[Antarosa]]. Obecnie pełnoprawna osoba.
+Ciało-host dla [[Ogrody Rosa|Antarosa]]. Obecnie pełnoprawna osoba.
