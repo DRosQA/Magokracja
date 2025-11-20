@@ -1,8 +1,8 @@
 Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]].
 
 # Historia
-1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogowie]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej
-2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie
+1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
+2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
 3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą bogów.
 4. 0 - "Wojna Wyzwolenia" - stworzenie [[Eon]] przez ludzi, które pozwalają pokonać bogów. 
 5. około 175 - 225  - wokół magów tworzą się szlacheckie domy i magokratyczne państwa. 
@@ -15,11 +15,11 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada Dioge Henrigo Veleach]] ze Spektrum Emocji
 9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium
-10. 817 - 856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur
+10. 817 - 856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Aillia Comnouve na czele.
-12. około 1024 - 1124 - Złoty Wiek Imperium
-13. 1340 - wydanie [[Edykt o Restoracji Imperium]]
-14. 1383 - czasy obecne: ważny [[Miesiąc Imperialny]], [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]]
+12. około 1024 - 1124 - Złoty Wiek Imperium.
+13. 1340 - wydanie [[Edykt o Restoracji Imperium]].
+14. 1383 - czasy obecne: ważny [[Miesiąc Imperialny]] zwieńczony [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]].
 
 # Wielkie rody
 * Comnouve

@@ -17,6 +17,6 @@ To, jaki Symbol się zbuduje, zależy od tego kto "wygra" spośród pięciu osó
 	- conajmniej 1 [[Steliae]]
 	- conamnniej 1 Klucz spośród tzw. [[Pięć Iglic]]
 	- wybranie "plusa" w [[magia kolorów|Próbie Psyh]]
-- objawienie się [[Inkarra]] (nastąpiło)
+- objawienie się [[Siły Wyższe|Inkarra]] (nastąpiło)
 - konkluzja historii [[Stalokrew]]
 - konkluzja [[Bitwa Zaćmienia]]
