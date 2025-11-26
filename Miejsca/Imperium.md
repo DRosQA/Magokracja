@@ -1,6 +1,14 @@
-Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]].
+Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom Iglicy Imperialnej.
 
-# Historia
+# Iglica Imperialna
+Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium.
+
+# Znane procesy Iglicy
+* Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
+* Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
+* Setron [[Dallian Plateur|Delia]]
+
+# Historia Imperium
 1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
 3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą bogów.
@@ -14,7 +22,7 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
 	5. Dom Spektrum Zmysłów mozolnie, ale skutecznie zajął wschodnie wybrzeże obszaru odebranego bogom, otwierając się na Morze Wichrów, budując tak pierwszy zamorski szlak handlowy z inną cywilizacją.
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada Dioge Henrigo Veleach]] ze Spektrum Emocji
-9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium
+9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium.
 10. 817 - 856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Aillia Comnouve na czele.
 12. około 1024 - 1124 - Złoty Wiek Imperium.
@@ -76,7 +84,7 @@ Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zw
 * Erimt (podwładni Maygren)
 
 # Odszczepieńcy
-* Lud Siły (lud Południa, chcą dołączyć do [[Siostrzana Iglica|ludów Piasków]])
+* Lud Siły (lud Południa, chcą dołączyć do [[Ludy Króla Królów|ludów Piasków]])
 * Ludy Północy (luźno podwładni Rikellen i Berggrath)
 * klan Strom (luźno podwładni Heistrom)
 * Struniarze (obraźliwa nazwa na jeden z klanów Ludu Strun, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt)

@@ -11,50 +11,63 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 # Członkowie
 - [[Steliae|Justinian]], typ: Unity
 - [[Biały Cień]], typ: nieprzypisany/nieokreślony
-- [[Caelum]], typ: Psyh
-- [[Altum]], typ: Harmonia
-- [[Anilla]], typ: Budowniczy
+- **Caelum**, typ: Psyh
+  Manifestacja [[Joala Knadr]], najpotężniejsza z Artefaktycznych, Tarcza Społeczności. Strażniczka Białego Cienia i powierniczka jego Klucza drogi ku [[Pokój]].
+- **Altum**, typ: Harmonia
+  Manifestacja [[Charles Vatounet]]. Droga Społeczności (Bliźniak Świadomości; Kwintesencja Władzy).
+- **Anilla**, typ: Budowniczy
+  Manifestacja [[Anilla V]]. Jest "dziewiczością" Społeczności (pierwszy byt, którego wzbudziło Nova).
 - [[Spójność Ank'ara|Ank'ara]], typ: Unity
-- [[Aurora]], typ: Harmonia
+- **Aurora**, typ: Harmonia
+  Manifestacja [[Laura Comnouve]]. Droga Społeczności (Bliźniak Świadomości; Pełnia Życia).
 - **Edel**, typ: nieprzypisany/nieokreślony
-  Prawdopodobnie Brama Edelrosy do Artefaktycznych
-- **Gracja** (wcześniej eon), typ: Szlachetna
+  Prawdopodobnie Brama Edelrosy do Artefaktycznych.
+- **Gracja**, typ: Szlachetna
+  Wcześniej eon.
 - **Granica**, typ: Soye/Inżynier-Hexahedron
-  Kompan Przepaści, obecnie cieszący się, że jego towarzysz autentycznie osiągną swoją _granicę_
-- [[Horyzont]], typ: Halo/Harmonia
-- [[Imperia]], typ: Halo
-- [[Jedność]], (wcześniej eon) typ: typ: Psyh/Inżynier-Tetrahedron
+  Kompan Przepaści, obecnie cieszący się, że jego towarzysz autentycznie osiągną swoją _granicę_.
+- **Horyzont**, typ: Halo/Harmonia
+  Manifestacja [[Noara Schieberg]]. Granica Społeczności (nie mylić z imieniem Granica).
+- **Imperia**, typ: Halo
+  Manifestacja [[Commenc Nouvell]]. Ma bezpośredni dostęp do [[Spójność Ank'ara|Iglica Imperialna]]. Głos Społeczności (Ojciec Bliźniaków Świadomości).
+- **Jedność**, typ: Psyh/Inżynier-Tetrahedron
+  Wcześniej eon.
 - **Król Bez Korony**, typ: Nova/Soye
   Echo [[Gethis Attaliate]] w Artefaktycznych
 - **Książę Nadzieja**, typ: Nova/Budowniczy
   Echo [[Floril di Lauberg]] w Artefaktycznych
-- **Niezłomność** (wcześniej eon), typ: Budowniczy
-- [[Nova]], typ: Nova/Harmonia/Halo
+- **Niezłomność**, typ: Budowniczy
+  Wcześniej eon.
+- [[Luca Attaliate|Nova]], typ: Nova/Harmonia/Halo
 - **Nova Alba**, typ: Nova/Harmonia
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Albii Rosa
+  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Albii Rosa.
 - **Sympatia Alba**, typ: Unity
-  Wcześniej była Egzekutorem Siostrzanej Iglicy, który miał zadanie odzyskać jeden ze Rdzeni Iglicy. Zawirowania 
-- [[Nova Delia]], typ. Nova/Halo
-- [[Przepaść]], typ: Soye/Inżynier-Hexahedron
-- [[Śmierć]], typ: Psyh/Halo
-- **Twórczość** (wcześniej duon), typ: Budowniczy
-- **Uprzejmość** (wcześniej eon), typ: Szlachetny/Halo/Psyh
-- **Zaduma** (wcześniej eon), typ: Harmonia
+  Wcześniej była Egzekutorem Siostrzanej Iglicy, który miał zadanie odzyskać jeden ze Rdzeni Iglicy.
+- **Nova Delia**, typ. Nova/Halo
+  Manifestacja [[Dallian Plateur]].
+- [[Abis-Lucio|Przepaść]], typ: Soye/Inżynier-Hexahedron
+- [[Derniere|Śmierć]], typ: Psyh/Halo
+- **Twórczość**, typ: Budowniczy
+  Wcześniej duon.
+- **Uprzejmość**, typ: Szlachetny/Halo/Psyh
+  Wcześniej eon.
+- **Zaduma**, typ: Harmonia
+  Wcześniej eon.
 - [[Spójność Victoria|Victoria Nova]], typ: Nova/Soye/Inżynier-Tetrahedron
 - **Heinster**, typ: Soye/Budowniczy
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: magokraty Antvela
+  Manifestacja [[Antvel Heinster]].
 - [[Luca Attaliate|Nova Tenebris]], typ: Inżynier-Octahedron/Osobliwość
   Przestał istnieć w ramach wstęgi Strumienia (która została zakończona)
 - **Umiejętność**, typ: Budowniczy
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: magokraty Leisario
+  Manifestacja [[Magokraci Netheru|Leisario nec Ferrum]].
 - **Momentum**, typ: Budowniczy
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Weiqui od Strun
+  Manifestacja [[Ludy Króla Królów|Fuju Weiqui]].
 - **Przezorność**, typ: Budowniczy
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Sanjan od Strun
+  Manifestacja [[Ludy Króla Królów|Kan Sanjan]].
 - **Samotność**, typ: Budowniczy
-  Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Fenjun od Strun
+  Manifestacja [[Ludy Króla Królów|Si Si Fenjun]].
 - **Wiśnia**, typ: nieprzypisany/nieokreślony
-  Brama Artefaktycznych do ochrony [[Visena Shealez]]
+  Brama Artefaktycznych do ochrony [[Visena Shealez]].
 - [[Sirezai Lüna'rah|Sirezai]], typ: nieprzypisany/nieokreślony
 
 # Typy

@@ -5,7 +5,7 @@
 - [[Antonio Plateur]]
 - [[Pelona Tegeura]]
 - [[Giovan Veleach]]
-- [[Charles Vatunet]]
+- [[Charles Vatounet]]
 - [[Laura Comnouve]]
 - [[Gilbert Knadr]]
 - [[Noara Schieberg]]

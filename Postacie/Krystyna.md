@@ -3,7 +3,7 @@ tags:
   - Konstrukt
   - Hel
 ---
-Konstrukt stworzony przez [[Piekielny Ogień]] w celu pokojowego kontaktu z ludźmi w czasach gdy ci próbowali uwolnić się od zepsutej [[Iglica Imperialna]].
+Konstrukt stworzony przez [[Piekielny Ogień]] w celu pokojowego kontaktu z ludźmi w czasach gdy ci próbowali uwolnić się od zepsutej [[Spójność Ank'ara|Iglica Imperialna]].
 Przybyła w momencie, gdy tworzone były [[eon]]. Przekazała tam ludziom klucz ?? potrzebny do aktywacji eonów.  
 
 "Dobita" przez [[Commenc Nouvell]], w rzeczywistości jej ciało istniało dalej, przez wieki odczuwając niesamowity ból [[Psyh]], a jej gorycz rosła. 

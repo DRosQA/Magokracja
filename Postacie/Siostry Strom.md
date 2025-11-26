@@ -3,7 +3,7 @@ aliases:
   - Strom
 tags:
 ---
-Jedno z "pierwszych [[Pokolenie po bogach|pokoleń]] po [[Spójności|bogach]]" jak nazywali je ludzie, zaistniałe w Czwartym [[Cykl]]u na warstwie Devi, tj. twór zrobiony przez [[Spójności|Egzekutora]] od [[Iglica Imperialna]] (przez co posiadające jedną z większych potęg pośród 1szego pokolenia).
+Jedno z "pierwszych [[Pokolenie po bogach|pokoleń]] po [[Spójności|bogach]]" jak nazywali je ludzie, zaistniałe w Czwartym [[Cykl]]u na warstwie Devi, tj. twór zrobiony przez [[Spójności|Egzekutora]] od [[Spójność Ank'ara|Iglica Imperialna]] (przez co posiadające jedną z większych potęg pośród 1szego pokolenia).
 
 W rzeczywistości, jest to twór [[Cień]], który przejęło rdzeń Iglicy po jej wyłączeniu, i podszyło się pod rozkazy Iglicy przekazywane do swoich maszyn-procesów, ich ręką tworząc siostry Strom jako swoich agentów.
 

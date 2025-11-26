@@ -1,1 +1,1 @@
-Elitarne wojowniczki chroniące [[Siostrzana Iglica|Ojca Narodów]]. Od dziecka poddawane ciężkiemu wpływowi [[mana]]'y Lune celem wcielania jak największej ilości magii i umiejętności mistycznych bez potrzeby wykonania testu [[magia kolorów]].
+Elitarne wojowniczki chroniące [[Ludy Króla Królów|Ojca Narodów]]. Od dziecka poddawane ciężkiemu wpływowi [[mana]]'y Lune celem wcielania jak największej ilości magii i umiejętności mistycznych bez potrzeby wykonania testu [[magia kolorów]].

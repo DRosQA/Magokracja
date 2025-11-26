@@ -7,4 +7,4 @@ Istota swobodnie podróżująca po warstwach. Posiadająca wielki wpływ na to, 
 Jeśli jest cielesny, to przybiera postać młodzieńca, ledwie żaka, imieniem Ollie [[Berggrath]].
 
 Były [[Cesarz Złoty Powój]], przedostatni.
-Kolega [[Charles Vatunet]], [[Laura Comnouve]] i [[Calicus Deleh Diozie Tertusa]].
+Kolega [[Charles Vatounet]], [[Laura Comnouve]] i [[Calicus Deleh Diozie Tertusa]].

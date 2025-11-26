@@ -10,7 +10,7 @@ Jego Melodią jest [[Ogrody Rosa|Lilarosa]], a Powojem [[Abis-Lucio]]. Były ucz
 Brat [[Luille Alvibraten]] i [[Leofast Alvibraten]].
 Jego ojciec, Xavrik, był kiedyś jednym z [[asasyni imperialni]]; jego zadaniem było pilnowaniem matki Lucjusza, Melgerd, ze względu na jej silne połączenia z religią wyznającą [[Kotara]].
 
-Jest szeroko znany z braku poszanowania dla własnego życia: swój status Łowcy zdobył jako żak/uczeń, poprzez niemal popełnienie samobójstwa w starciu z [[Eon]] - w emocjach przypadkiem otworzył przejście, przez które przeszedł i połączył się z nim [[Przepaść]], co zatrzymało eona i zostało uznane za zdany test Łowcy. Dotąd nie do końca wiadomo jednak, czym Przepaść jest, skąd pochodzi i dlaczego się pojawił. 
+Jest szeroko znany z braku poszanowania dla własnego życia: swój status Łowcy zdobył jako żak/uczeń, poprzez niemal popełnienie samobójstwa w starciu z [[Eon]] - w emocjach przypadkiem otworzył przejście, przez które przeszło i połączyło się z nim coś, co określiło się per "Przepaść" (by ostatecznie zakorzenić się, jako Powój Lucjusza), co zatrzymało eona i zostało uznane za zdany test Łowcy. Dotąd nie do końca wiadomo jednak, czym Przepaść jest, skąd pochodzi i dlaczego się pojawił. 
 
 "Cierpi" na [[manachoroba]] sprawiającą, że magia - zarówno pozytywna jak i negatywna - działa na niego o wiele silniej. 
 

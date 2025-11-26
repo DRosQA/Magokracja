@@ -29,6 +29,6 @@ Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków
 Zakończony poprzez [[manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz [[Cywilizacja Artefaktu]] i wszystkiego w [[Świat Pyłu]]).
 
 # Czwarty
-Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Siostrzana Iglica|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
+Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
 
 Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji.

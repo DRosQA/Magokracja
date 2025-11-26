@@ -26,7 +26,7 @@ Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawi
 # Konsekwencje
 Choć przywoływanie Derniere zostało zatrzymane, nigdy nie "powrócił" on tam, skąd przybył, tj. wciąż ostatecznie postawił na tej warstwie stopę i w końcu będzie musiał przybyć faktycznie i **Dokonać Zmiany**. 
 
-Ten problem znany jest wśród [[Siostrzana Iglica|ludów poza Imperium]] jako wyprorokowana "Nieuchronna Bitwa Zaćmienia" która ma wydarzyć się w przyszłości, a właściwie to w czasie [[Zjazd dyplomatyczny w Krondstadt]]. 
+Ten problem znany jest wśród [[Ludy Króla Królów]] jako wyprorokowana "Nieuchronna Bitwa Zaćmienia" która ma wydarzyć się w przyszłości, a właściwie to w czasie [[Zjazd dyplomatyczny w Krondstadt]]. 
 
 Dla Nelsona, Bitwa Zaćmienia w gruncie rzeczy nigdy się nie skończyła i od tamtego czasu jako istota [[Hel]] cierpi wieczne katusze, stąd też ponad wszystko pragnie jej zakończenia. 
 Derniere stał się jego najlepszym przyjacielem, gdyż Nelson jako jedyny wyciągnął do niego rękę w tamtym momencie. W zamian, Derniere towarzyszy mu teraz w jego cierpieniu. 

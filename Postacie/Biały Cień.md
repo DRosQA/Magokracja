@@ -12,7 +12,7 @@ Wypadkowa trzech połączonych istot/osobowości:
 - [[Natannes Heistrom]]
 - [[Cień]]
 - [[Komnen Merdrada Attour Bruinia]]
-aczkolwiek Cień jest najbardziej dominującą częścią (podobnie jak [[Nova]]/Luca/Lewa). Funkcjonalnie podobnie jak [[eon|trion]].
+aczkolwiek Cień jest najbardziej dominującą częścią. Funkcjonalnie podobnie jak [[eon|trion]].
 
 Ukazuje się czasem w formie liso-irbisa, którą kojarzymy głównie z Komnenem - w tej formie, [[Lucjusz Alvibraten]] "przywiązał" Komenana jako doradcę Imperatora Heistrom w swojej [[Biblioteka Lucjusza]].
 

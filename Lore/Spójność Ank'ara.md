@@ -5,7 +5,21 @@ Stworzona przez [[Przodkowie]]. Jedna z projektantek, które miały wymyślić i
 
 Patron ludów Nocy jako "bogini" wiedzy i magii [[magia|Nieboskłon]]. 
 
-# Iglice Ank'ara
-* [[Iglica Imperialna]]
-* [[Daleka Iglica]]
-* [[Siostrzana Iglica]]
+# Iglice
+- Imperialna
+  Zajmująca się ludami [[Imperium]].
+- Siostrzana
+  Zajmująca się ludami "poza imperialnymi" (niektórymi przejętymi z powodu utraty Dalekiej Iglicy).
+- Daleka
+  Przejęta przez [[Cywilizacja Szlachetnych]].
+  
+# Znane procesy Imperialnej
+* Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
+* Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
+* Setron [[Dallian Plateur|Delia]]
+
+# Znane procesy Siostrzanej
+- Egzekutor [[Artefaktyczne Społeczeństwo|Alba]]
+* Tron [[Tribon Sima Apaleo Tertusa|Tribia]]
+* Najwyższy Tron Siostrzanej Iglicy (Jawhad Król Królów)
+

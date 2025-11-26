@@ -4,7 +4,7 @@ tags:
   - Mag/Kolorów
   - Soye
 ---
-Córka [[Markus Pretres]] z jego żoną z [[Siostrzana Iglica|Białych Piasków]]. 
+Córka [[Markus Pretres]] z jego żoną z [[Ludy Króla Królów|Białych Piasków]]. 
 
 Magister Władzy. Przyjaciółka [[Lilianna Schieberg]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio. W Liliannie bez wzajemności trochę zakochana.
 Koleżanka [[Ciaran Conejero]] przez swojego ojca.

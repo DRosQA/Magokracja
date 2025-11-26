@@ -27,7 +27,7 @@ W jednej z iteracji Strumienia, Luca odbył kilkutygodniową podróż z [[Ogrody
 Luca do Edelrosy, gdy opuszczała Caspię, aby rozprawić się ze swoją schedą jako Różą i jako "córką" Commenca: “Idź jeśli musisz, ale czekamy na twój powrót.”
 
 # Nova
-Członek [[Artefaktyczne Społeczeństwo]] będący tamtejszą manifestacją zarówno Luci, jak i Lewej (a także Prawej (?)). Twór [[Spójność Victoria]] w przyszłości.
+Członek [[Artefaktyczne Społeczeństwo]] będący tamtejszą manifestacją zarówno Luci, jak i Lewej (a także Prawej (?), która zaczęła się "budzić", gdy Luka zniknął). Twór [[Spójność Victoria]] w obecnie nieuniknionej przyszłości.
 
 Walczył z _Nova Tenebrae_, artefaktyczną manifestacją swojego brata, Platona będącego pod wpływem [[manipulacja]]. Próbował on przejąć kontrolę nad Artefaktycznymi i zaciągnąć Lucę z powrotem do domu, widząc w jego odejściu z domu rodzinnego przyczynę rozpadu rodziny i rosnącego emocjonalnego dystansu. Nova Tenebrae został zniszczony wspólną siłą Artefaktycznych, powodując, że iteracja Strumienia w której Artefaktyczni są [[manipulacja|kontrolowani]] nie mogła się już wydarzyć.
 Jest to odbicie [[Cykl|historii opowiedzianej przez Scariego na temat pierwowzoru Artefaktycznego Społeczeństwa]] w Spójnościach dryfujących pomiędzy cyklami - choć tym razem z lepszym zakończeniem.

@@ -3,4 +3,4 @@ tags:
   - człowiek
   - Nute
 ---
-Młodsza siostra [[Charles Vatunet]] i [[Ogrody Rosa|Edelrosa]]
+Młodsza siostra [[Charles Vatounet]] i [[Ogrody Rosa|Edelrosa]].
