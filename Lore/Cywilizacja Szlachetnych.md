@@ -10,3 +10,5 @@ Drobne klany manatkniętych ludów, zamieszkujących teren gór prowincji Koryli
 -  [[szlachetny zarządca]]
 -  [[manaistota]]
 -  [[manatknięcie]]
+
+

@@ -1,5 +1,5 @@
 Doroczny, miesięczny zjazd najważniejszych osób w [[Imperium]] lub ich przedstawicieli do stolicy, [[Caspia]]. W tym czasie Imperator zezwala na rozwiązywanie wszystkich sporów w dowolny sposób, co skutkuje wieloma moerderstwami, pojedynkami, intrygami itp. 
-W jego czasie [[asasyni imperialni]] są zobligowani do noszenia mundurów na terenia Caspii nie zabijania się nawzajem nawet jeśli służą przeciwnym stronom konfliktu (grają wtedy w kamień-papier-nożyce żeby zdecydować, kto odpuści). 
+W jego czasie [[Asasyni Imperialni]] są zobligowani do noszenia mundurów na terenia Caspii nie zabijania się nawzajem nawet jeśli służą przeciwnym stronom konfliktu (grają wtedy w kamień-papier-nożyce żeby zdecydować, kto odpuści). 
 
 # W 1383
 

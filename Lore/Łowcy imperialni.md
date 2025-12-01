@@ -2,7 +2,7 @@ Stanowisko w [[Imperium]] przyznawane tradycyjnie po teście siły, np przez prz
 Do obowiązków łowcy należy polowanie na [[Spójności|bogów]], istoty zza [[Kotara]] i wszystkie inne siły podobnego kalibru i rodzaju.
 
 # Znani Łowcy
-- [[Iriand Augu]], osobiście i jako Leypia (w tej iteracji Strumienia, aktualna nie-Iriand Leypia nigdy nie była Łowcą)
+- [[Iriand Augu]], osobiście i jako Leypia Mekontion (w tej iteracji Strumienia, aktualna nie-Iriand Leypia nigdy nie była Łowcą)
 - [[Scari]]
 - [[Lucjusz Alvibraten]]
 - [[Leon Heistrom]]

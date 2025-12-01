@@ -1,1 +1,1 @@
-Elitarna formacja jeżdżców [[Imperium]].
+Elitarna formacja jeźdźców [[Imperium]].

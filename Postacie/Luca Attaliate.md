@@ -4,7 +4,7 @@ tags:
   - Mag/Kolorów
   - Devi
 ---
-Licencjat magii Życia, jeden z [[asasyni imperialni]], rzemieślnik-inżynier golemów.
+Licencjat magii Życia, jeden z [[Asasyni Imperialni]], rzemieślnik-inżynier golemów.
 Za młodu stracił lewe ramię w "przypadkowym" starciu z Kryształowymi Imperatorami ([[Eriend Grath]] i [[Czerwona Wilczyca]]). Od tego czasu ma fobię przed magią [[Pył]].
 Aby zastąpić brak ręki, stworzył magiczną protezę, w niejasny dla siebie sposób czyniąc ją samoświadomą i tworząc [[Lewa]].
 

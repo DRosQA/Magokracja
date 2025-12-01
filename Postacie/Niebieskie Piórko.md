@@ -6,7 +6,7 @@ tags:
   - Mag/Kolorów
   - Konstrukt
 ---
-Imperium zna go jako jeden z [[asasyni imperialni]] w wielkim kapeluszu z ogromnym, niebieskim piórem. Zwykle służył pod [[Abradean Garghais]] w towarzystwie [[Leypia Mekontion]] i [[Dallian Plateur]]. Profesor [[Kotara]], nauczyciel [[Zielone Piórko]].
+Imperium zna go jako jeden z [[Asasyni Imperialni]] w wielkim kapeluszu z ogromnym, niebieskim piórem. Zwykle służył pod [[Abradean Garghais]] w towarzystwie [[Leypia Mekontion]] i [[Dallian Plateur]]. Profesor [[Kotara]], nauczyciel [[Zielone Piórko]].
 
 Jego autorstwa była słynna książka, która miała tylko 1 pustą stronę, ale po jej przewróceniu pojawiała się nowa, a stara znikała. Była to wielka zagwozdka dla magów jego spektrum, gdyż sądzono że wielka wiedza przyjdzie temu kto tę książkę "rozwiąże". 
 Podczaj [[Miesiąc Imperialny]] w 1383 dowiedzieliśmy się od [[Calicus Deleh Diozie Tertusa]], że każdy Piórko miał swoja książkę, twierdząc żę właśnie ta jest jedyna i oryginalna. Wiedział on to, gdyż "rozwiązał" jedną z tych książek. 

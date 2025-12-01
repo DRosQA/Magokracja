@@ -6,7 +6,7 @@ tags:
   - Decydujący
 aliases:
 ---
-Doktor magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy imperialni]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
+Doktor magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy Imperialni]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
 
 W ostatnich miesiącach podróżuje/podróżowała z [[Lucjusz Alvibraten]], [[Luca Attaliate]] i [[Ciaran Conejero]].
 

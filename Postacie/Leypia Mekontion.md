@@ -3,6 +3,6 @@ tags:
   - człowiek
   - Mag
 ---
-W jednej z iteracji Strumienia była [[Łowcy imperialni|Łowca]] podrużująca z [[Abradean Garghais]] ponieważ była wtedy [[Iriand Augu]]. Po ich rozłączeniu, jest tzw. "Łowcą Bestii" na Południu, chroniacym lokalne społeczności przez manastworzeniami z dżungli. 
+W jednej z iteracji Strumienia była [[Łowcy Imperialni|Łowca]] podróżująca z [[Abradean Garghais]] ponieważ była wtedy [[Iriand Augu]]. Po ich rozłączeniu, jest tzw. "Łowcą Bestii" na Południu, chroniącym lokalne społeczności przed manastworzeniami z dżungli południa.
 
-Matka [[asasyni imperialni|Alara Mekontion]]. 
+Starsza siostra [[Asasyni Imperialni|Alary Mekontion]]. 

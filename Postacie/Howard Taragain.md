@@ -4,4 +4,4 @@ tags:
   - człowiek
   - Mag
 ---
-Były jeździec formacji [[Chorągiew Imperialna]] w randze chorążego. Biologiczny ojciec [[Davh Heinster]].
+Były jeździec formacji [[Chorągiew Imperialna]] w randze chorążego. Biologiczny ojciec [[Magokraci Netheru|Davh Heinstera]].

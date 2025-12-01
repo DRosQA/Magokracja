@@ -11,4 +11,4 @@ Wierny doktrynie [[Nasizar Tertusa]]
 
 Dążył do zdobycia jednego z [[Tron]] [[Ludy Króla Królów]], co też mu się udało. Odpowiedzialny za zlecenie zabójstwa [[Antonia Bruinia]], co ściągnęło mu na głowę [[Czerwoni Egzekutorzy]] i spowodowało jego upadek ale i wyciągnęło, że był [[manipulacja|manipulowany]].
 
-Aktualnie podopieczny [[Julius Pretres]] jako Sędzia Pokoju, funkcja równa [[Rozjemcy imperialni]] ludów poza Imperium.
+Aktualnie podopieczny [[Julius Pretres]] jako Sędzia Pokoju, funkcja równa [[Rozjemcy Imperialni]] ludów poza Imperium.

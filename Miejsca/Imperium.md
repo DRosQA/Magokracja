@@ -1,13 +1,21 @@
 Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom Iglicy Imperialnej.
 
 # Iglica Imperialna
-Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium.
+Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która zakotwiczyła się w stolicy, [[Caspia]].
 
 # Znane procesy Iglicy
 * Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
 * Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
 * Setron [[Dallian Plateur|Delia]]
 
+# Stanowiska/formacje imperialne
+- [[Rozjemcy Imperialni]]
+- [[Protektorzy Imperialni]]
+- [[Chorągiew Imperialna]]
+- [[Złota Gwardia]]
+- [[Asasyni Imperialni]]
+- [[Łowcy Imperialni]]
+- 
 # Historia Imperium
 1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
