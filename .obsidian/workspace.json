@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/Luca Attaliate.md",
+                "file": "Lore/Przedmioty Estarosy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luca Attaliate"
+              "title": "Przedmioty Estarosy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "darrko",
+                "query": "Przedmioty Estarosy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5330b8917c90cc0",
+  "active": "e7d3ba927e3a8779",
   "lastOpenFiles": [
+    "Postacie/Cisza.md",
+    "Lore/Przedmioty Estarosy.md",
+    "Miejsca/Ogrody Rosa.md",
+    "Postacie/Lilianna Schieberg-Rosa.md",
+    "estarosa.md",
+    "Postacie/Niebieskie Piórko.md",
+    "Postacie/Livonia Rosa.md",
+    "Lore/Klasa Livonii.md",
+    "Postacie/Luca Attaliate.md",
     "Postacie/Darrko Comnouve.md",
     "Postacie/Scari.md",
     "Lore/manipulacja.md",
@@ -189,15 +198,6 @@
     "Postacie/Lucy Shealez.md",
     "Postacie/Neron.md",
     "Postacie/Iriand Augustus.md",
-    "Lore/echo.md",
-    "Lore/Cywilizacja Przodków.md",
-    "Postacie/Cesarz Złoty Powój.md",
-    "Lore/Przodkowie.md",
-    "Lore/Cywilizacja Artefaktu.md",
-    "Lore/Pokój.md",
-    "Lore/Artefaktyczne Społeczeństwo.md",
-    "Miejsca/Ogrody Rosa.md",
-    "Drugiego Cyklu.md",
     "Untitled.base",
     "Untitled",
     "Lore",

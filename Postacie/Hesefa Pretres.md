@@ -6,7 +6,7 @@ tags:
 ---
 Córka [[Markus Pretres]] z jego żoną z [[Ludy Króla Królów|Białych Piasków]]. 
 
-Magister Władzy. Przyjaciółka [[Lilianna Schieberg]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio. W Liliannie bez wzajemności trochę zakochana.
+Magister Władzy. Przyjaciółka [[Lilianna Schieberg-Rosa]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio. W Liliannie bez wzajemności trochę zakochana.
 Koleżanka [[Ciaran Conejero]] przez swojego ojca.
 
 Przez jakiś czas pod wpływem [[manipulacja]], przez którą (oraz jego związek z Lilianną) próbowała zabić [[Lucjusz Alvibraten]] w trakcie [[Miesiąc Imperialny]]. Nie wiadomo, czy celem tej manipulacji ostatecznie był Lucjusz, czy ona jako osoba związana ze Stelią, czy była tylko dojściem do Antonii etc.

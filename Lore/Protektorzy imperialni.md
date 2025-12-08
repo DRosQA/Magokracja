@@ -9,4 +9,4 @@ Istnieje też instytucja **Protektora Mianowanego**, tj. opsoby wykonującej cz�
 - [[Markus Pretres]], Imperialny Protektor Korylionu (były)
 - **Francis Vatounet**, Imperialny Protektor Vazar, książę Vazar, dr. s. Świadomości (były)
 - **Palmira Knadr-Vatounet**, Protektorka mianowana księstwa Vazar przez Lucy Shealez, Szkarłatna Brygada Straży Imperium, kapitan dr. s.Świa.
-- _Pierwszy Protektor z domu Schieberg_ - dziadek [[Lilianna Schieberg]]
+- _Pierwszy Protektor z domu Schieberg_ - dziadek [[Lilianna Schieberg-Rosa]]
