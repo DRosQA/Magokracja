@@ -11,7 +11,7 @@ aliases:
 ---
 W Pierwszym Cyklu przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
-Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie jako "Czujny Powój" jest jego [[Strażnik]]iem, ale jest (też) Strażnikiem [[Ogrody Rosa|Estarosa]]. Dzisiaj champion [[Iv]].
+Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie jako "Czujny Powój" jest jego [[Strażnik]]iem, ale jest (też) Strażnikiem [[Estarosa]]. Dzisiaj champion [[Iv]].
 
 Przełożony/towarzysz [[Nagrar-Stirn]]a. Nauczyciel [[Ciaran Conejero]].
 

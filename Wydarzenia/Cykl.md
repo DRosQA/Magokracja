@@ -2,7 +2,7 @@ Czas formowania się oraz istnienia światów na warstwach many. Przed zaistnien
 
 # Przed Cyklami
 Zanim nastąpiły Cykle, sugeruje się, że "istniało" mgliste "coś/wszystko", realne, namacalne, z zasadami ale całkowicie innymi, niż obecne "coś/wszystko".
-W każdym razie wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa. Stamtąd potencjalnie jest [[Ogrody Rosa|Estarosa]] i [[Lucerna]], ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).
+W każdym razie wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa. Stamtąd potencjalnie jest [[Estarosa]] i [[Lucerna]], ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).
 
 # Pierwszy
 Podczas tego Cyklu powstało dominujące nad warstwami _imperium_, prowadzone przez [[Hagarth-Satra]], przy boku której byli _doradca tronu_ [[Eimhrick]] oraz _obrońca tronu_ [[Nagrar-Stirn]].

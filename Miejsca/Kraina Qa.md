@@ -9,7 +9,7 @@ Jest miejscem tranzytowym dla tubylców [[Psyh]] i [[Nute]] - miejsce zetknięci
 
 Natywni mieszkańcy to quaka-tao.
 
-To tutaj Maygren pomaga [[Eimhrick]]owi "uspokoić" [[Ogrody Rosa|Estarosa]] raz na jakiś czas.
+To tutaj Maygren pomaga [[Eimhrick]]owi "uspokoić" [[Estarosa]] raz na jakiś czas.
 
 # Miejsca
 - Pałac Maygrena, miejsce urzędowania [[Maygren]]

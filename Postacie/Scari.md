@@ -13,4 +13,4 @@ We współczesnych czasach przez jakiś czas działa jako [[Łowcy Imperialni|Ł
 
 Jego osąd jest nieznany, ale ponieważ nie zniszczył Noary, prawdopodobnie uznał ją za niewinną zarzucanych jej przez Antvela czynów (ale niekoniecznie niewinną w ogóle czegokolwiek :D).
 
-Pełnił funkcję [[Strażnik]]a [[Ogrody Rosa|Estarosa]] przed [[Eimhrick]]iem (nie wiadomo, czy zmiana warty była dobrowolna; możliwe, że została wywołana przez powołanie do osądu Noary).
+Pełnił funkcję [[Strażnik]]a [[Estarosa]] przed [[Eimhrick]]iem (nie wiadomo, czy zmiana warty była dobrowolna; możliwe, że została wywołana przez powołanie do osądu Noary).

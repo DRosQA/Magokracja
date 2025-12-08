@@ -28,7 +28,7 @@ Jedna z [[Ogrody Rosa]] dla [[Vorel]], jedyna która jest także Steliae. Jest p
 # Niema
 Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
 Jest Symbolem ekstremalnego Stanu Many uzewnętrzniającego się magicznie, tj. [[magioklizm]].
-Została zmanifestowana/wymuszona przez Eimhricka/[[Ogrody Rosa|Estarosa]] - w wizji nie było jasne który. 
+Została zmanifestowana/wymuszona przez Eimhricka/[[Estarosa]] - w wizji nie było jasne który. 
 Z jakiegoś powodu, coś o niej wiedzą Struniarze w [[Wioska W Górach]] - być może właśnie dlatego byli na celowniku wielu osób/sił. 
 
 do [[Wróg]]
