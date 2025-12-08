@@ -2,4 +2,4 @@
 tags:
   - Konstrukt
 ---
-Konstrukt stworzony przez [[Octavian Krwawy]] aby 
+Konstrukt stworzony przez [[Octavian|Octavian Krwawy]]. xxx

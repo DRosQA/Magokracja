@@ -18,7 +18,7 @@ Jedna z pięciu decydujących o [[Pokój]].
 # Przygody
 - Dużą część swojej młodości poświęciła na poszukiwania zaginionej kuzynki, [[Visena Shealez]]. W tym okresie spotkała też [[Cilla Scari|Calvara Taragain]].
 - Podczas wykonywania zadań dla Garghaisa, zaznajomiła się z [[Liamara Samir Romaba Akallaba]].
-- W [[Vazar]] dźgnęła [[Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] [[Octavian]] - dopóki nie zostanie z tego ogrodu wyciągnięty, nie będzie mógł się ponownie odtworzony w nowym Cyklu. 
+- W [[Vazar]] dźgnęła [[Octavian|Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] Octaviana - dopóki nie zostanie z tego ogrodu wyciągnięty, nie będzie ponownie odtworzony w nowym Cyklu. 
 # Przemyślenia nad pokojem
 “Od mojego przybycia do stolicy miesiąc temu wiele widziałam, wiele rzeczy zrozumiałam, przeanalizowałam i wyciągnęłam wnioski. I chyba po raz pierwszy w życiu sformułowały się moje poglądy w konkretny sposób. 
 
