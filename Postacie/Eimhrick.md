@@ -11,12 +11,16 @@ aliases:
 ---
 W Pierwszym Cyklu przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
-Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie jako "Czujny Powój" jest jego [[Strażnik]]iem, ale jest (też) Strażnikiem [[Estarosa]]. Dzisiaj champion [[Iv]].
+Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie znany tam jako "Czujny Powój" jest jego [[Strażnik]]iem. Widziano go wśród powoji jako wielkiego psa i wszyscy sądzili, że jest powojem, jednak jego związek z [[Czarny powój]] sugeruje inaczej (Powoje nie mogą "mieć" powojów jak ludzie)
 
+Był też Strażnikiem [[Estarosa]], silnie przeciwnym jego uwalnianiu. 
+
+Dzisiaj champion [[Iv]]. 
 Przełożony/towarzysz [[Nagrar-Stirn]]a. Nauczyciel [[Ciaran Conejero]].
 
-Jeden z pięciu decydujących o [[Pokój]]. Jego Melodią jest [[Steliae|Delirum]].
+Jeden z pięciu decydujących o [[Pokój]]. Twierdził, że jego Melodią jest [[Steliae|Delirum]], która nie zaprzeczyła bo się nie odzywa w ogóle. Ostatecznie rozkminiliśmy, że to nieprawda i że jego Melodią jest Estarosa.
 
+# Cytaty
 "Lie to all even if you do not mean it, they will not be disappointed."
 "If someone threatens you with ‘death’, tell them, Death is your friend."
 "Know more than you need; there is always the time to throw off the garbage but never the time to search in the garbage can."

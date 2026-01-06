@@ -1,0 +1,1 @@
+xxx Kentoff 'Czarne Ostrze' McMardan, najemnik ochroniarz, dr. Pyłu

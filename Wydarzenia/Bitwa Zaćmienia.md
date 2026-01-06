@@ -21,7 +21,9 @@ Po tym, jak Derniere przestał przybywać, zaćmienie się skończyło - bańka 
 Wygraną w historii przypisano jednak Spektrum Świadomości, aby zbudować pokój - obawiano się, że zbyt zgojeni Świadomościowcy staną się zgorzkniali, będą się buntować i być może znowu spróbują czegoś równie głupiego. Mistrzem Unii został jednak dowódca faktycznie zwycięskiej armii, który przypisał sobie triumf, gdyż Nelson wyparował fizycznie i nie mógł opisać prawdziwych wydarzeń w tamtym czasie.
 
 # Powody (?)
-Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i jeszcze kogoś z [[Nicość]]/[[Czarny powój]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok Krondstadt).
+Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i [[Eimhrickrosa]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok Krondstadt).
+
+Ponieważ wiemy, że Armada robił to z podpuszczenia Eimhrickrosy, a ten rozmawiał z [[Natannes Heistrom]] o tym planie, można podejrzewać, że cała ta straszna bitwa była po to, żeby rytuał, który był po to, żeby złamać Iuline. 
 
 # Konsekwencje
 Choć przywoływanie Derniere zostało zatrzymane, nigdy nie "powrócił" on tam, skąd przybył, tj. wciąż ostatecznie postawił na tej warstwie stopę i w końcu będzie musiał przybyć faktycznie i **Dokonać Zmiany**. 
@@ -30,3 +32,9 @@ Ten problem znany jest wśród [[Ludy Króla Królów]] jako wyprorokowana "Nieu
 
 Dla Nelsona, Bitwa Zaćmienia w gruncie rzeczy nigdy się nie skończyła i od tamtego czasu jako istota [[Hel]] cierpi wieczne katusze, stąd też ponad wszystko pragnie jej zakończenia. 
 Derniere stał się jego najlepszym przyjacielem, gdyż Nelson jako jedyny wyciągnął do niego rękę w tamtym momencie. W zamian, Derniere towarzyszy mu teraz w jego cierpieniu. 
+
+### Rytuał
+Rytuał czaszek został na razie "wstrzymany" tj. zapobiegliśmy jego dokończeniu przez jego zaburzenie. Zwój i czaszki pozostaja w Czerwonej Jaskini, zapieczętowane "nićmi" Albii i Sympatii.
+
+Sądzimy, że Planem A było, że rytuał ten miała zakończyć przez jego zaburzenie wściekła [[Iuline Phille Dirbair Shayat]] po odkryciu mordu na swojej wiosce i odnalezieniu ciała/czaszki swojego ukochanego brata wśród czaszek tego rytuału.
+Ponieważ zwój i czaszki wciąż istnieją i rytuał można domknąć, pewnie isntnieją jakieś Plany B+ na sprowokowanie Iuline albo kogoś innego.

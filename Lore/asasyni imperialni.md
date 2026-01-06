@@ -1,5 +1,7 @@
 Jednostka do utrzymywania wewnętrznej spójności [[Imperium]]. Założona przez [[Nasizar Tertusa]], w dzisiejszych czasach nie jest już mu bezwzględnie lojalna ponad wszystko, w zamian przysięgając wierność instytucji Imperium. 
 Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemcy Imperialni]]. Dzisiaj oficjalnie dowodzeni przez [[Pierwszy Asasyn]], a faktycznie od lat przez [[Czwórka Asasynów]].
+
+Obecnie "połączeni" z [[Artefaktyczne Społeczeństwo]] dzięki sztyletom projektu Luci, które pozwalają im identyfikować się nawzajem jak dotychczasowe sztylety asasyńskie, ale także kontaktować się z przypisanym Artefaktycznym oraz wyjmować sprzęt z ich przestrzeni w Iv.
 # Znani członkowie
 - [[Luca Attaliate]]
 - [[Pelona Tegeura]]

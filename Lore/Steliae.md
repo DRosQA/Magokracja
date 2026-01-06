@@ -21,16 +21,18 @@ Bardzo mocno poszukuje Pokoju, dążąc do niego poprzez dyplomację (brak rozle
 W przyszłości, gdzie wygrywa plan [[Lucy Shealez]] lub [[Noara Schieberg]] jest [[Imperator]]em, poprzednikiem Avy. 
 
 # Delirum
-Jest Melodią [[Eimhrick]]a (przynajmniej on tak twierdzi), Symbolem spoczynkowego Stanu Many.
+"Chodzi za" Eimrickiem, który dzięki temu udawał, że jest jego Melodią, 
+Jest ona Symbolem spoczynkowego Stanu Many.
 Pierwszy [[Powój]], źródło wszystkich innych Powojów (są jej kopią/częścią/dziećmi).
 Jedna z [[Ogrody Rosa]] dla [[Vorel]], jedyna która jest także Steliae. Jest pierwszą melodią spośród Róż, ich początkiem (tak jak powoje, wszystkie Róże zaistniały również z Delirum).
 
 # Niema
-Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
+Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest to [[Wróg]].
 Jest Symbolem ekstremalnego Stanu Many uzewnętrzniającego się magicznie, tj. [[magioklizm]].
-Została zmanifestowana/wymuszona przez Eimhricka/[[Estarosa]] - w wizji nie było jasne który. 
-Z jakiegoś powodu, coś o niej wiedzą Struniarze w [[Wioska W Górach]] - być może właśnie dlatego byli na celowniku wielu osób/sił. 
+Została zmanifestowana/wymuszona przez [[Eimhrickrosa]]. Być może nie była bez głosu, gdy ją "przywołał" - "ukrycie" jej głosu byłoby w zakresie jego zdolności.
 
+Z jakiegoś powodu, coś o niej wiedzą Struniarze w [[Wioska W Górach]] - być może właśnie dlatego byli na celowniku wielu osób/sił. 
+### Cytaty
 do [[Wróg]]
 I can tell that you've never been true to me
 I can smell that you're acting so fearfully

@@ -4,6 +4,8 @@ aliases:
 ---
 Części danych warstw, podobnie jak Siły Wyższe są inkarnacjami tych warstw. Spełniają funkcję łączników pomiędzy warstwami.
 
+Stworzone przez "zabarwienie" Delirum jakimś kolorem (bo jest ona naturalnie biała, co daje jej możliwość tworzenia). Osobą, która to zrobiła był [[Eimhrickrosa]] - więc prawdopodobnie dlatego Estarosie "brakuje" kolorów, bo zostały inkarnowane jako Róże. 
+
 # Ferarosa
 "Dzika róża", Melodia [[Lucy Shealez]], Ogród [[Hel]].
 Istota objawiająca się potężnym uderzeniem, które ma sprowadzać do parteru tych, którzy sięgają za wysoko.
@@ -35,8 +37,7 @@ Po ludzkiej inkarnacji (nierzeczywistej a jednak!), żona [[Hyuurnen Rikkellen]]
 Obecna dyrektorka Uniwersytetu Imperialnego, od czasów [[klasa Livonii]].
 
 # Estarosa
-[[Estarosa]], taki specjalny rodzynek między Ogrodami.
+[[Estarosa]], taki specjalny rodzynek między Ogrodami. 
 
 # Stelia-Rosa
 Istnieje jedna, wyłamująca się ze schematu może nawet bardziej, niż Estarosa - [[Steliae|Delirum]] - która będąc Ogrodem [[Vorel]] jest jednocześnie Stelią.
-Eimhrick twierdzi, że to jego Melodia.
