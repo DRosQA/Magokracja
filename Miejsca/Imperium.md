@@ -21,7 +21,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
 3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą bogów.
 4. 0 - "Wojna Wyzwolenia" - stworzenie [[Eon]] przez ludzi, które pozwalają pokonać bogów. 
-5. około 175 - 225  - wokół magów tworzą się szlacheckie domy i magokratyczne państwa. 
+5. około 175 - 225 - wokół magów tworzą się szlacheckie domy i magokratyczne państwa. 
 6. do 527 - Wykształcają się regiony kulturowe skorelowane ze spektrami [[magia|magii]]: 
 	1. Dom Spektrum Świadomości dał radę zdobyć znamienitą część centralnych terenów obszaru wyzwolonego spod władzy Bogów; ziem żyznych i lesistych. 
 	2. Dom Spektrum Ciała zajął rozległe tereny południowe jak i utworzył wiele kolonii wzdłuż brzegu Morza Turkusowego, z intencją stworzenia z niego morza wewnętrznego. 
