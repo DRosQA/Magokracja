@@ -1,4 +1,4 @@
-Tytuł władcy ludów na terenach dookoła [[Spójność Ank'ara|Iglica Imperialna]] od czasów [[Imperium]] Trzech Koron.
+Tytuł władcy ludów na terenach dookoła [[Spójność Ank'ara|Iglica Imperialna]] od czasów [[Imperium Czterech Koron]] Trzech Koron.
 Pełny tytuł od drugiego Imperatora (Parnigasa) brzmiał "Majestat Imperialny, Pan [[Pięć Iglic|Pięciu Iglic Imperium]]".
 Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą był _"Namiestnik Imperium"_ ze względu na notkę Nazisara o jego możliwym powrocie. 
 

@@ -7,16 +7,16 @@ Asasyni w tym konflikcie byli podzieleni, ale ostatecznie przekonani przez [[Dal
 
 W tej samej sali [[Iriand Augu]] próbowała wcielić w siebie ostatnie procesy [[Spójność Ank'ara|Iglica Imperialna]] i "naprawić się" (?) poprzez "rozwiązanie" [[tetrahedron]] (?). Okazało się jednak, że jest on [[manipulacja|wirusem]] od [[Calicus Deleh Diozie Tertusa]] i trzeba było ją ratować, co ją bardzo osłabiło i wystawiło na ryzyko porwania przez Calicusa.
 
-# Walki
-Przeciw "Kryształowym Imperatorom" ([[Czerwona Wilczyca]] i [[Eriend Grath]]) stanął [[Commenc Nouvell]], [[Księciunio]] oraz Strom w ciele Natannesa. Był to ostatni moment, kiedy Strom była sobą - podczas starcia, odwołała się do swojego stwórcy, a ten w końcu odpowiedział. [[Cień]] wcielił ją do siebie ponownie, dzięki czemu nawiązał też połączenie z Natannesem. 
+### Walki
+Przeciw "Kryształowym Imperatorom" ([[Czerwona Wilczyca]] i [[Eriend Grath]]) stanął [[Commenc Nouvell]], [[Księciunio]] oraz Strom w ciele Natannesa. Był to ostatni moment, kiedy Strom była sobą - podczas starcia, odwołała się do swojego stwórcy, a ten w końcu odpowiedział. [[Kryształowy Imperator]] Cień wcielił ją do siebie ponownie, dzięki czemu nawiązał też połączenie z Natannesem. 
 
 Przeciw liderowi Lokajów, [[Matthindrik Heistrom]], miał stanąć Calicus. Użył on swoich Iglic aby zbombardować swojego przeciwnika, ale nie trafił go - jak się potem okazało, specjalnie.
 
 Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Ogrody Rosa|Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
 
-[[Lucy Shealez]], [[Luca Attaliate]] i [[Lucjusz Alvibraten]] staneli na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius Emerald Pallentos]].
+[[grupa Lucy]] stanęła na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius Emerald Pallentos]].
 
-# Konsekwencje
+### Konsekwencje
 W wyniku wydarzeń w sali tronowej, wszyscy Rozjemcy i inni ważni ludzie ostatecznie zaakceptowali Natannesa jako Imperatora.
 W wyniku samej bitwy, poddali się Lokaje Kotary i rozpoczęto aresztowania i sądy nad członkami [[rebelia]].
 Commenc odpuścił swoje anty-imperialne dążenia. 

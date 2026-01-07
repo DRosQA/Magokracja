@@ -6,11 +6,11 @@ tags:
 ---
 Jeden z pięciu decydujących o [[Pokój]]. Ponieważ niejasne jest, _kto/co_ dominuje w jego osobowości, niejasne jest też, kto realnie posiada mandat decydowania o Pokoju.
 
-Członek [[Artefaktyczne Społeczeństwo]]. 
+Członek [[Artefaktyczne Społeczeństwo]].
 
 Wypadkowa trzech połączonych istot/osobowości:
 - [[Natannes Heistrom]]
-- [[Cień]]
+- [[Kryształowy Imperator]] Cień
 - [[Komnen Merdrada Attour Bruinia]]
 aczkolwiek Cień jest najbardziej dominującą częścią. Funkcjonalnie podobnie jak [[eon|trion]].
 

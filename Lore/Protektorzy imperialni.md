@@ -1,4 +1,4 @@
-Tytuł w [[Imperium]] przyznawany w celu sprawowania przez dana osobę pieczy i bronienia konkretnego regionu, zwykle odpowiadającemu granicom przedimperialnych królestw/księstw. 
+Tytuł w [[Imperium Czterech Koron]] przyznawany w celu sprawowania przez dana osobę pieczy i bronienia konkretnego regionu, zwykle odpowiadającemu granicom przedimperialnych królestw/księstw. 
 Protektor ma bezpośrednią zwierzchność nad wojskiem danego terenu i wszysktimi zbrojnymi sługami Imperium (np. [[Łowcy Imperialni]], ale nie [[Asasyni Imperialni]] czy [[Chorągiew Imperialna]]) w czasach wojny/konfliktu na tym terenie.
 Każdy Protektor ma do swojej dyspozycji także jedną brygadę [[Złota Gwardia]]. 
 

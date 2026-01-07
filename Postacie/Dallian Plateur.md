@@ -22,7 +22,7 @@ W późniejszym czasie, pomożono im nawiązać na nowo nić porozumienia, dzię
 Przez długi czas, w czasach współczesnych, służył w świcie [[Abradean Garghais]], razem z [[Leypia Mekontion]] i [[Niebieskie Piórko]]. Mieli wiele wielkich przygód, żartując nawet że "ratowali świat co wtorek". 
 # Cisza
 Wciąż poszukując tajemnic, w czasach współczesnych, zaczął zgłębiać tajniki [[kolory many]] i [[Kotara|subkotary]]. Zbudował [[rezonator subkotarowy]] i "wywołał" [[Cisza]]. Ponieważ pojawienie się Ciszy wymaga ciała, z nieznanych dla niego przyczyn sprowadził ją w ciele [[Visena Shealez]]. Podobnie jak w przypadku śmierci Atrniki, opuścił miejsce problemu w szoku. 
-Ostatecznie z pomocą [[Lucy Shealez]] i [[Lucjusz Alvibraten]] udało się rozdzielić Visenę i Ciszę, choć część wiedzy i zdolności Ciszy pozostała w dziewczynie.
+Ostatecznie z pomocą [[grupa Lucy]] udało się rozdzielić Visenę i Ciszę, choć część wiedzy i zdolności Ciszy pozostała w dziewczynie.
 
 # Artefaktyczne społeczeństwo
 Gdy znów próbował odkryć jakieś tajemnice, natrafił na [[Spójność Ank'ara|Ankarrę]] i [[Cisza]]-Egzekutor za rządów Natannes Heistrom. Zlitowały się one nad nim i przywróciły mu pamięć o jego pochodzeniu/prawdziwej formie. Powrócił na łono Spójności i razem z Ankarrą dołączył do [[Artefaktyczne Społeczeństwo]] jako [[Artefaktyczne Społeczeństwo|Nova Delia]].

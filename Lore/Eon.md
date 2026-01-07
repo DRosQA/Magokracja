@@ -1,4 +1,4 @@
-Golemy stworzone przez pięciu wielkich magów z czasów przez [[Imperium]] w celu pokonania [[Spójności|bogowie]]. Miały naśladować ich w formie i potędzie, ale pozostawać poddane ludziom, którzy mieli przeypisane do nich [[Klucze Nasizara]].
+Golemy stworzone przez pięciu wielkich magów z czasów przez [[Imperium Czterech Koron]] w celu pokonania [[Spójności|bogowie]]. Miały naśladować ich w formie i potędzie, ale pozostawać poddane ludziom, którzy mieli przeypisane do nich [[Klucze Nasizara]].
 
 Tworzone poprzez przekształcenie człowieka w istotę many, nie było ta procedura ani przyjemna ani (zwykle) dobrowlna.
 

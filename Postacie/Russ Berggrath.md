@@ -23,7 +23,7 @@ Poznanie na swojej drodze młodego sceptyka i realisty [[Oscail Berggrath|Oscail
 
 Gdy na tron wchodzi [[Natannes Heistrom]], Russ nie jest pewien jego siły i bardzo ją podważa, jednak ostatecznie przed nim klęka po [[Bitwa o Caspię]].
 
-Dopiero, gdy [[Lucy Shealez]] i [[Lucjusz Alvibraten]] są w stanie zrozumieć jego historię i pomóc mu z wszechogarniającym poczuciem winy, oraz uświadomić, że w gruncie rzeczy żadne z jego rodzeństwa nigdy nie istniało (poza Oscailem), jest on w stanie się prawdziwie ogarnąć i uwolnić Krystynę. 
+Dopiero, gdy [[grupa Lucy]] są w stanie zrozumieć jego historię i pomóc mu z wszechogarniającym poczuciem winy, oraz uświadomić, że w gruncie rzeczy żadne z jego rodzeństwa nigdy nie istniało (poza Oscailem), jest on w stanie się prawdziwie ogarnąć i uwolnić Krystynę.
 
 Dzisiaj czasem objawia się jako osobowość "natywnego" Russa, nieokrzesanego i bezpośredniego człowieka z dalekiej Północy, a czasem jako "Starszy brat Russa", czyli w gruncie rzeczy Uspokajający Powój, więc wydaje się, że jakaś forma wieloosobowości wciąż istnieje, ale pasywnie i pokojowo (bardziej jako wzajemne doradztwo). 
 

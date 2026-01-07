@@ -1,1 +1,1 @@
-Elitarna formacja jeźdźców [[Imperium]].
+Elitarna formacja jeźdźców [[Imperium Czterech Koron]].

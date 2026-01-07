@@ -4,5 +4,6 @@ Mieszają kolory [[mana]], tłumacząc Znaczenie na Strukturę, dzięki czemu zw
 Każdy z nich ma ograniczoną pulę kolorów, ale mają dowolność w malowaniu nimi, tj. w interpretacji ich Znaczeń dla kogokolwiek, gdziekolwiek, jakkolwiek chcą. Poza tym zadaniem nie mają wolnej woli. 
 
 # Znani Malarze
-- John Johann (Iv, Hel)
-- Johain Johin (Lune, Psych)
+- John Johnan (Iv, Hel)
+- Johin Johain (Lune, Psyh)
+- 

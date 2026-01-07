@@ -1,0 +1,3 @@
+Ostatni z gatunku "gigantów", nauczyciel [[Eimhrickrosa]], były czempion Iv. Ich cywilizacja jest tak bardzo zapomniana, że wiedza o niej jest w sposób archeologiczny nie do odtworzenia. Według Giganta Czaszek, stąpali oni po planecie przed [[Cywilizacja Szlachetnych|Szalchetnymi]] a Kryształy powstały na szczątkach odchodzących sił Gigantów. Można nazwać to przejście cywilizacyjną tranzycją, od Gigantów do Szlachetnych.
+
+Na planecie można znaleźć szczątki Gigantów, które mają jedną wspólną cechę: wszystkie są skamieniałe i pełne aktywnych manakryształków wszelkich kolorów.

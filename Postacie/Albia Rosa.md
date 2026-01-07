@@ -1,1 +1,1 @@
-Żona [[Lucy Shealez]]
+Żona [[Lucy Shealez]]. xxx

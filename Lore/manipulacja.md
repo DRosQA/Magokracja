@@ -4,12 +4,11 @@ aliases:
 ---
 Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]. Prawdopodobnie pierwszy raz zaistniała jako problem w [[Spójności]] powstałej przed [[Cykl|Trzecim Cyklem]] (pierwszej próbie stworzenia Artefaktycznego Społeczeństwa), a w samym Trzecim Cyklu została uznana za chorobę/szaleństwo, które doprowadziło do upadku [[Pierwsza Cywilizacja]]
 
-# Znane ofiary
+### Znane ofiary
 - [[Tribon Sima Apaleo Tertusa]]
 - [[Varilyan Heinster]]
 - [[Czerwona Wilczyca]]
 - [[Markus Pretres]]
-- [[Hesefa Pretres]]
 - [[Calicus Deleh Diozie Tertusa]]
 - [[Iriand Augustus]]
 - [[Octavian|Octavian Augustus]]
@@ -17,11 +16,10 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Cisza]]-Przodek
 - [[Steliae|Niema]]
 - [[Albia Rosa]]
-- [[Lucjusz Alvibraten]]
-- [[Lilianna Schieberg-Rosa]]
-- [[Lucy Shealez]]
-
-# Kłamstwa Estarosy
+- [[grupa Lucy]]
+- [[grupa Antonia]]
+- 
+### Kłamstwa Estarosy
 Estarosa przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cele wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
 
 Przyznając się do "winy" po zobaczeniu co zrobił innym dzięki Prawej Ręce Lune, personalnie mówił niektórym co im uczynił:

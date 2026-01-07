@@ -1,4 +1,4 @@
-Najbardziej wpływowy harem na terenach rządzonych przez dom [[Imperium|Augu]].
+Najbardziej wpływowy harem na terenach rządzonych przez dom [[Imperium Czterech Koron|Augu]].
 # Członkowie
 - [[Sene Mumes]]
 - [[Obante Kidapis]]

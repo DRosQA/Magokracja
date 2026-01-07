@@ -1,4 +1,4 @@
-Jeden z magokratycznych rodów [[Imperium]].
+Jeden z magokratycznych rodów [[Imperium Czterech Koron]].
 
 [[Grath]]
 [[Derniere]]

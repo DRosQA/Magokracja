@@ -1,14 +1,15 @@
-Historyczna bitwa pomiędzy Spektrum Emocji i Spektrum Świadomości, w czasach dawno przed [[Imperium]].
+Historyczna bitwa pomiędzy Spektrum Emocji i Spektrum Świadomości, w czasach przed [[Imperium Czterech Koron]], tuż przed utworzeniem Unii Dwóch Koron.
 Rok 632 po bogach.
-# Oficjalna wersja wydarzeń
+
+### Oficjalna wersja wydarzeń
 Przeważenie sił nastąpiło w czasie pełnego zaćmienia słońca, pierwszego od czasów obalenia bogów. Na czas kilku minut wszyscy magowie na polu kluczowej bitwy stracili swoją magię (wtedy z niezrozumiałych powodów). Kilka minut przesądziło o zwycięstwie, gdy magowie Spektrum Świadomości przełamali linię wrogich wojsk, dzięki szarży swojej Stalowej Kawalerii, pozostawionej na kluczowy moment bitwy właśnie, która podczas tratowania szeregów, pozabijała pod kopytami koni-golemów wielu wybitnych magów Spektrum Emocji.
 
 Kapitulacja jednego Domu magów przed drugim była szokiem dla reszty magów. Szokiem, którego nie ogarnięto na czas. Dom Spektrum Świadomości nie narzucił hegemonii na pokonanych, wręcz przeciwnie, zbudował z domem Spektrum Emocji Unię. Ze współpracy obu magii, ulepszono Stalową Kawalerię, tchnąc w puste ciała golemów koni i jeźdźców, zasilanie żarem magii Gwiazd, na podobieństwo Eonów. Na czele koalicji stanęła Rada Unijna, składająca się ze znamienitych magów obu rodów, z elekcyjnym Mistrzem Unii na czele, niespodziewanie z rodu Spektrum Emocji, wybranym niemal jednogłośnie - [[Armada Dioge Henrigo Veleach]].
 
-# Prawdziwa (?) wersja wydarzeń
+### Prawdziwa (?) wersja wydarzeń
 Opowiedziana przez [[Nelson Mirtlass]], potwierdzona także w tajnych archiwach Imperium
 
-Zaćmienie sztucznie wywołali magowie strony Spektrum Świadomości. Ich rytuał miał przywołać coś na tyle potężnego, aby zmieść przeciwników. Zaczęli przywoływać [[Derniere]], czego skutkiem ubocznym było wchłanianie przez niego lokalnej [[mana]]/odebranie ludziom w pobliżu możliwości używania magii. Obserwująca bitwę [[Piekielny Ogień]] zauważyła, że może mieć to ogromne konsekwencje (np. pochłonąć cały świat). Zdecydowała się zamknąć problem w "bańce", żeby rozwiązał się sam (jak wszyscy w środku zginą). To jej działanie, ze względu na jej "połączenie" ze słońcem, wywołało zaćmienie.
+Zaćmienie sztucznie wywołali magowie strony Spektrum Świadomości. Ich rytuał miał przywołać coś na tyle potężnego, aby zmieść przeciwników. Zaczęli przywoływać [[Derniere]], czego skutkiem ubocznym było wchłanianie przez niego lokalnej [[mana]]/odebranie ludziom w pobliżu możliwości używania magii. Obserwująca bitwę [[Kryształowy Imperator|Piekielny Ogień]] zauważyła, że może mieć to ogromne konsekwencje (np. pochłonąć cały świat). Zdecydowała się zamknąć problem w "bańce", żeby rozwiązał się sam (jak wszyscy w środku zginą). To jej działanie, ze względu na jej "połączenie" ze słońcem, wywołało zaćmienie.
 Bitwa trwała w tejże "bańce".
 
 Spektrum Emocji poszło w rozsypkę. Ich dowódca [[Armada Dioge Henrigo Veleach]] miał **PLAN** ale odcięcie magii spowodowało, że nie mógł go wykonać i też spanikował i zaczął uciekać. 
@@ -20,12 +21,12 @@ Po tym, jak Derniere przestał przybywać, zaćmienie się skończyło - bańka 
 
 Wygraną w historii przypisano jednak Spektrum Świadomości, aby zbudować pokój - obawiano się, że zbyt zgojeni Świadomościowcy staną się zgorzkniali, będą się buntować i być może znowu spróbują czegoś równie głupiego. Mistrzem Unii został jednak dowódca faktycznie zwycięskiej armii, który przypisał sobie triumf, gdyż Nelson wyparował fizycznie i nie mógł opisać prawdziwych wydarzeń w tamtym czasie.
 
-# Powody (?)
+### Powody (?)
 Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i [[Eimhrickrosa]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok Krondstadt).
 
 Ponieważ wiemy, że Armada robił to z podpuszczenia Eimhrickrosy, a ten rozmawiał z [[Natannes Heistrom]] o tym planie, można podejrzewać, że cała ta straszna bitwa była po to, żeby rytuał, który był po to, żeby złamać Iuline. 
 
-# Konsekwencje
+### Konsekwencje
 Choć przywoływanie Derniere zostało zatrzymane, nigdy nie "powrócił" on tam, skąd przybył, tj. wciąż ostatecznie postawił na tej warstwie stopę i w końcu będzie musiał przybyć faktycznie i **Dokonać Zmiany**. 
 
 Ten problem znany jest wśród [[Ludy Króla Królów]] jako wyprorokowana "Nieuchronna Bitwa Zaćmienia" która ma wydarzyć się w przyszłości, a właściwie to w czasie [[Zjazd dyplomatyczny w Krondstadt]]. 

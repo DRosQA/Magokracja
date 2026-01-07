@@ -1,1 +1,1 @@
-[[Pierwszy Ambasador]]
+[[Pierwszy Ambasador]]. xxx

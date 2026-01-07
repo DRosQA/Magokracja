@@ -1,1 +1,1 @@
-Miasto w [[Imperium]]
+Miasto w [[Imperium Czterech Koron]]

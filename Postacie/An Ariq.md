@@ -1,1 +1,1 @@
-[[Imperium|Struniarze]]
+xxx [[Imperium Czterech Koron|Struniarze]].

@@ -4,3 +4,5 @@ Nie mają co do tego wyboru ani woli, jeśli Strażnikowi nic nie przypisano do 
 
 # Znani Strażnicy
 - [[Eimhrick]] ?????
+- [[Heigem Strom]]
+- 

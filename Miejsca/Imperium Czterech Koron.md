@@ -1,14 +1,14 @@
 Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom Iglicy Imperialnej.
 
-# Iglica Imperialna
+### Iglica Imperialna
 Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która zakotwiczyła się w stolicy, [[Caspia]].
 
-# Znane procesy Iglicy
+### Znane procesy Iglicy
 * Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
 * Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
 * Setron [[Dallian Plateur|Delia]]
 
-# Stanowiska/formacje imperialne
+### Stanowiska/formacje imperialne
 - [[Rozjemcy Imperialni]]
 - [[Protektorzy Imperialni]]
 - [[Chorągiew Imperialna]]
@@ -16,7 +16,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 - [[Asasyni Imperialni]]
 - [[Łowcy Imperialni]]
 - 
-# Historia Imperium
+### Historia Imperium
 1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
 3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą bogów.
@@ -37,62 +37,51 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]].
 14. 1383 - czasy obecne: ważny [[Miesiąc Imperialny]] zwieńczony [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]].
 
-# Wielkie rody
-* Comnouve
-  Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr
-+ Heistrom
-  Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’
-+ Bruinia
-  Cel: wzmacnianie armii, marynarki oraz siły magów
-+ Augu (lud Południa, na słowo honoru część Imperium)
-  Cel: wzmocnienie bezpieczeństwa granic dalekiego południa
-+ Tertusa
-  Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza
-+ Soyescari
-  Cel: zdobywanie jak najlepszej pozycji w Imperium, kierowanie losami Imperium
-+ Veleach
-  Cel: rozwój nauki, architektury, sztuki, kultury
-+ Pretres
-  Cel: dalsza ekspansja na ziemie ludów pustyń
-+ Shealez
-  Cel: zmniejszenie kontroli Imperium nad życiem mieszkańców
-+ Schieberg
-  Cel: utrzymanie integralności Imperium
-+ Maygren
-  Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów
+### Wielkie rody
+* Comnouve. Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr.
++ Heistrom. Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’.
++ Bruinia. Cel: wzmacnianie armii, marynarki oraz siły magów.
++ Augu (lud Południa, na słowo honoru część Imperium). Cel: wzmocnienie bezpieczeństwa granic dalekiego południa.
++ Tertusa. Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza.
++ Soyescari. Cel: zdobywanie jak najlepszej pozycji w Imperium, kierowanie losami Imperium.
++ Veleach. Cel: rozwój nauki, architektury, sztuki, kultury.
++ Pretres. Cel: dalsza ekspansja na ziemie ludów pustyń.
++ Shealez. Cel: zmniejszenie kontroli Imperium nad życiem mieszkańców.
++ Schieberg. Cel: utrzymanie integralności Imperium.
++ Maygren. Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów.
 
-# Mniejsze rody
-* Alleinas (podwładni Comnouve)
-* Plateur (podwładni Comnouve)
-* Glyieus (podwładni Comnouve)
-* Nouvell (podwładni Comnouve)
-* Sanler (podwładni Heistrom)
-* Berggrath (podwładni Heistrom)
-* Rikellen (podwładni Heistrom)
-* Plieach (podwładni Bruinia)
-* Casanais (podwładni Bruinia)
-* Tamcibay (podwładni Augu, lud Południa)
-* Kidapis (podwładni Augu, lud Południa)
-* Nasizar (podwładni Tertusa)
-* Tegeura (podwładni Tertusa)
-* Galech (podwładni Tertusa)
-* Mumes (podwładni Tertusa)
-* Vatounet (podwładni Soyescari)
-* Deviscari (podwładni Soyescari)
-* Glieva (podwładni Veleach)
-* De Korylion (podwładni Pretres)
-* Attaliate (podwładni Pretres)
-* Di Lauberg (podwładni Pretres)
-* Taragain (podwładni Shealez)
-* Torvach (podwładni Schieberg)
-* Svader (podwładni Schieberg)
-* Horenquist (podwładni Schieberg)
-* Von Alvibraten (podwładni Maygren)
-* Hask (podwładni Maygren)
-* Erimt (podwładni Maygren)
+### Mniejsze rody
+* Alleinas (podwładni Comnouve).
+* Plateur (podwładni Comnouve).
+* Glyieus (podwładni Comnouve).
+* Nouvell (podwładni Comnouve).
+* Sanler (podwładni Heistrom).
+* Berggrath (podwładni Heistrom).
+* Rikellen (podwładni Heistrom).
+* Plieach (podwładni Bruinia).
+* Casanais (podwładni Bruinia).
+* Tamcibay (podwładni Augu, lud Południa).
+* Kidapis (podwładni Augu, lud Południa).
+* Nasizar (podwładni Tertusa).
+* Tegeura (podwładni Tertusa).
+* Galech (podwładni Tertusa).
+* Mumes (podwładni Tertusa).
+* Vatounet (podwładni Soyescari).
+* Deviscari (podwładni Soyescari).
+* Glieva (podwładni Veleach).
+* De Korylion (podwładni Pretres).
+* Attaliate (podwładni Pretres).
+* Di Lauberg (podwładni Pretres).
+* Taragain (podwładni Shealez).
+* Torvach (podwładni Schieberg).
+* Svader (podwładni Schieberg).
+* Horenquist (podwładni Schieberg).
+* Von Alvibraten (podwładni Maygren).
+* Hask (podwładni Maygren).
+* Erimt (podwładni Maygren).
 
-# Odszczepieńcy
-* Lud Siły (lud Południa, chcą dołączyć do [[Ludy Króla Królów|ludów Piasków]])
-* Ludy Północy (luźno podwładni Rikellen i Berggrath)
-* klan Strom (luźno podwładni Heistrom)
-* Struniarze (obraźliwa nazwa na jeden z klanów Ludu Strun, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt)
+### Odszczepieńcy
+* Lud Siły (lud Południa, chcą dołączyć do [[Ludy Króla Królów|ludów Piasków]]).
+* Ludy Północy (luźno podwładni Rikellen i Berggrath).
+* klan Strom (luźno podwładni Heistrom).
+* Struniarze (obraźliwa nazwa na jeden z klanów Ludu Strun, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt).
