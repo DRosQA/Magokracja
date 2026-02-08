@@ -7,8 +7,8 @@ Pięć interstelarnych [[Melodia]]e. Każda z nich to [[Symbol]] jednego ze [[St
 
 ### Adelanta Lustratia
 Melodia [[Luille Alvibraten]], Symbol lotnego Stanu Many.
-Dominująca istota, przekonuje innych do usrania. 
-Podejrzewamy, że to ona steruje Luillą, a nie jest jej odbiciem jak zwykle Melodie są. 
+Dominująca istota, przekonuje innych do ustąpienia z drogi.
+Podejrzewamy, że to ona steruje Luillą, a nie jest jej odbiciem jak zwykłe Melodie są.
 
 ### Scientia Incariante
 Melodia [[Hesefa Pretres]], Symbol ciekłego Stanu Many. Długi czas Hesefa jej nie słyszała ze względu na [[manipulacja]].
@@ -21,15 +21,16 @@ Bardzo mocno poszukuje Pokoju, dążąc do niego poprzez dyplomację (brak rozle
 W przyszłości, gdzie wygrywa plan [[Lucy Shealez]] lub [[Noara Schieberg]] jest [[Imperator]]em, poprzednikiem Avy i następcą po [[Natannes Heistrom]]. 
 
 ### Delirum
-"Chodzi za" Eimrickiem, który dzięki temu udawał, że jest jego Melodią, 
-Jest ona Symbolem spoczynkowego Stanu Many.
+"Chodzi za" Eimrickiem, który dzięki temu udawał, że ona jest jego Melodią, 
+Jest Symbolem spoczynkowego Stanu Many.
 Pierwszy [[Powój]], źródło wszystkich innych Powojów (są jej kopią/częścią/dziećmi).
 Jedna z [[Ogrody Rosa]] dla [[Vorel]], jedyna która jest także Steliae. Jest pierwszą melodią spośród Róż, ich początkiem (tak jak powoje, wszystkie Róże zaistniały również z Delirum).
 
 ### Niema
-Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest to [[Wróg]].
+Nikt nie wie czyja to Melodia - jest to osoba związana z [[Nicość]], więc nic nie można o niej powiedzieć dokładnie. Jest "Nikim". Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
 Jest Symbolem ekstremalnego Stanu Many uzewnętrzniającego się magicznie, tj. [[magioklizm]].
-Została zmanifestowana/wymuszona przez [[Eimhrickrosa]]. Być może nie była bez głosu, gdy ją "przywołał" - "ukrycie" jej głosu byłoby w zakresie jego zdolności.
+Została zmanifestowana/wymuszona przez [[Eimhrickrosa]] poprzez jakiegoś rodzaju "rytuał", który odbył się w posiadłości Rozjemcy Hoppenberga (prawdopodobnie bez jego wiedzy). Być może nie była bez głosu, gdy ją "przywołał" - "ukrycie" jej głosu byłoby w zakresie jego zdolności.
+Ukryta/uwięziona została w "drzewie przeznaczenia", magicznym konstrukcie zmagających się sił Iv oraz Hel.
 
 Z jakiegoś powodu, coś o niej wiedzą Struniarze w [[Wioska W Górach]] - być może właśnie dlatego byli na celowniku wielu osób/sił.
 
@@ -44,3 +45,13 @@ I can touch but I know you don't feel a thing.
 I can pray but I know you commit a sin.
 I can sense now it's all become clear to see.
 You're no good and you mean no good, treacherously.
+
+Mogę powiedzieć, że nigdy nie byłeś wobec mnie szczery.
+Mogę wywęszyć, że zachowujesz się tak bojaźliwie.
+Mogę usłyszeć to, że pragniesz, bym ciebie słuchała.
+Mogę poczuć, jak we mnie drżą nuty przestrogi.
+
+Mogę dotknąć, ale wiem, że nic nie czujesz.
+Mogę się modlić, ale wiem, że popełniasz grzech.
+Mogę wreszcie zrozumieć, teraz wszystko stało się jasne.
+Nie jesteś dobry i nie masz dobrych intencji, zdradziecko.
