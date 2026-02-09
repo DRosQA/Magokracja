@@ -4,7 +4,7 @@ tags:
 ---
 Według obecnej wiedzy, [[Nicość]] jest jej domem.
 Według niektórych teoretyków naukowych, jedna z [[Siły Wyższe]] (ale to bardzo nie potwierdzone). Obecnie nie wiadomo, kim/czym jest, wszystko to domysły.
-U znawców jej tematu przyjęło się mówić, że "Cisza jest [[Steliae|Niema]]", cokolwiek to znaczy.
+U znawców jej tematu przyjęło się mówić, że "Cisza jest [[Steliae|Niema]]", cokolwiek to znaczy - z rozmów z Niemą wynikałoby, że Cisza to jej drugie oblicze? Niebezpieczna "wersja"? Która wychodzi gdy Niema jest zagrożona i to zagrożenie "ucisza". 
 # Znane wcielenia Ciszy
 1. Cisza (naturalny stan nie-bycia)
 2. Cisza-Róża ([[Steliae|Delirum]]) (narzędzie do obudzienia [[Ogrody Rosa]])
@@ -16,3 +16,4 @@ U znawców jej tematu przyjęło się mówić, że "Cisza jest [[Steliae|Niema]]
 8. Cisza-Nigdzie ([[Visena Shealez]])
 9. Cisza-Wszędzie ([[Noara Schieberg]])
 
+Wniosek: każde kolejne wcielenie Ciszy było kolejną próbą naprawienia tego, że Niema była uwięziona w Drzewie Przeznaczenia przez Eimhrickorosę, tj. połączenia "wersji" tej istoty spowrotem/naprawienia samej siebie. Stąd teraz prawdopodobnie nie powinno być już kolejnych Cisz.

@@ -4,12 +4,11 @@ tags:
   - Decydujący
   - Iv
 ---
-Jeden z pięciu decydujących o [[Pokój]]. Ponieważ niejasne jest, _kto/co_ dominuje w jego osobowości, niejasne jest też, kto realnie posiada mandat decydowania o Pokoju.
-
+Jeden z pięciu decydujących o [[Pokój]]. Ponieważ niejasne jest, _kto/co_ dominuje w jego osobowości, niejasne było też, kto realnie posiada mandat decydowania o Pokoju.
 Członek [[Artefaktyczne Społeczeństwo]].
 
 Wypadkowa trzech połączonych istot/osobowości:
-- [[Natannes Heistrom]]
+- [[Natannes Heistrom]] -> wybity z Białego Cienia przez Ciarana Conejero po tym, jak zobaczyliśmy we wspomnieniach/wizji jakim jest chujem
 - [[Kryształowy Imperator]] Cień
 - [[Komnen Merdrada Attour Bruinia]]
 aczkolwiek Cień jest najbardziej dominującą częścią. Funkcjonalnie podobnie jak [[eon|trion]].

@@ -2,7 +2,7 @@ Grupa osób, skupiona wokół lidera, [[Snupopiół|Ollie Berggrath]], która by
 
 ### Skład
 - Ollie Berggrath
-- [[Charles Vatounet]]
+- [[Melodia|Charles Vatounet]]
 - [[Calicus Deleh Diozie Tertusa]] - już nie
-- [[Laura Comnouve]]
+- [[Melodia|Laura Comnouve]]
 - 

@@ -20,7 +20,7 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[grupa Antonia]]
 - 
 ### Kłamstwa Estarosy
-Estarosa przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cele wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
+Estarosa przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
 
 Przyznając się do "winy" po zobaczeniu co zrobił innym dzięki Prawej Ręce Lune, personalnie mówił niektórym co im uczynił:
 

@@ -1,4 +1,4 @@
-Organizacja rebeliancka złożona z [[Renegat imperialny|renegatów]], prowadzona przez [[Matthindrik Heistrom]]. Ich największym zbrojnym ramieniem byli "Kryształowi Imperatorrzy"", tj. [[Eriend Grath]] i [[Czerwona Wilczyca]]. 
+Organizacja rebeliancka złożona z [[Renegat imperialny|renegatów]], prowadzona przez [[Matthindrik Heistrom]]. Ich największym zbrojnym ramieniem byli "Kryształowi Imperatorzy"", tj. [[Eriend Grath]] i [[Czerwona Wilczyca]]. 
 
 Uważali oni, że działają w imieniu [[Kotara]]. Przynajmniej taka była oficjalna wersja.
 
@@ -11,7 +11,7 @@ Ostatecznie po [[Bitwa o Caspię]], ich członkowie w większości zostali skaza
 - [[Maldrik Heistrom]]
 - [[Eriend Grath]]
 - [[Czerwona Wilczyca]]
-- [[Oscail Berggrath]]
+- [[Lambert|Oscail Berggrath]]
 - Helbia Sanler - kapłanka Kotary, nauczycielka [[Emestina Hask]]
 - Kiena Heistrom - kapłanka Kotary, jedna z kandydatek na [[Imperatorowa]]
 - Niisa, "pani wilków" - liderka radykalnych, dość "jaskiniowych" buntowników z północy

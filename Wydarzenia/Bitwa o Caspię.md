@@ -12,7 +12,7 @@ Przeciw "Kryształowym Imperatorom" ([[Czerwona Wilczyca]] i [[Eriend Grath]]) s
 
 Przeciw liderowi Lokajów, [[Matthindrik Heistrom]], miał stanąć Calicus. Użył on swoich Iglic aby zbombardować swojego przeciwnika, ale nie trafił go - jak się potem okazało, specjalnie.
 
-Przeciw [[Oscail Berggrath]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Ogrody Rosa|Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
+Przeciw [[Lambert|Oscailowi]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Ogrody Rosa|Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się. 
 
 [[grupa Lucy]] stanęła na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z dawnymi wrogami [[Bonirius Emerald Pallentos]].
 

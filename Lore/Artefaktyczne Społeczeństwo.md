@@ -14,12 +14,12 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - **Caelum**, typ: Psyh
   Manifestacja [[Joala Knadr]], najpotężniejsza z Artefaktycznych, Tarcza Społeczności. Strażniczka Białego Cienia i powierniczka jego Klucza drogi ku [[Pokój]].
 - **Altum**, typ: Harmonia
-  Manifestacja [[Charles Vatounet]]. Droga Społeczności (Bliźniak Świadomości; Kwintesencja Władzy).
+  Manifestacja [[Melodia|Charles Vatounet]]. Droga Społeczności (Bliźniak Świadomości; Kwintesencja Władzy).
 - **Anilla**, typ: Budowniczy
-  Manifestacja [[Anilla V]]. Jest "dziewiczością" Społeczności (pierwszy byt, którego wzbudziło Nova).
+  Manifestacja [[Melodia|Anilla V]]. Jest "dziewiczością" Społeczności (pierwszy byt, którego wzbudziło Nova).
 - [[Spójność Ank'ara|Ank'ara]], typ: Unity
 - **Aurora**, typ: Harmonia
-  Manifestacja [[Laura Comnouve]]. Droga Społeczności (Bliźniak Świadomości; Pełnia Życia).
+  Manifestacja [[Melodia|Laura Comnouve]]. Droga Społeczności (Bliźniak Świadomości; Pełnia Życia).
 - **Edel**, typ: nieprzypisany/nieokreślony
   Prawdopodobnie Brama Edelrosy do Artefaktycznych.
 - **Gracja**, typ: Szlachetna
