@@ -71,17 +71,18 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - [[Sirezai Lüna'rah|Sirezai]], typ: nieprzypisany/nieokreślony
 
 # Typy
-- Budowniczy - podstawa Społeczności; jest zdolny do korzystania z pełnej kreacji many
-  Idea w tym Społeczeństwie spełniająca tą samą funkcję, co [[Budowniczy]] w Cyklu
-- Inżynier - projektant Społeczności; koordynuje działania Budowniczych, by miały jakiś cel
-- Halo - wojownik Społeczności; dysponuje dostępem do kolektywnej energii wszystkich
-  Idea w tym Społeczeństwie spełniająca tą samą funkcję, co [[Strażnik]] w Cyklu
-- Szlachetny - wirtuoz Społeczności; proponuje udoskonalenia pracy i dzieł innych typów
-- Psyh - mędrzec Społeczności; figura obrońcy, nauczyciela i przewodnika społeczności
-- Soye - obserwator Społeczności; figura "bibliotekarza", konstruktywnego krytyka społeczności
-  Idea w tym Społeczeństwie spełniająca tą samą funkcję, co [[Sędzia]] w Cyklu
-- Harmonia - uzdrowiciel Społeczności; dba o poprawny przepływ wszelkiej many
-- Nova - kolejna generacja Artefaktycznego Społeczeństwa, pierwsi "natywni" a nie "przybyli"
-- Unity - lider/rodzic Społeczności; nadrzędna figura, reprezentant wartości, możliwości i potęgi
+- Budowniczy - podstawa Społeczności; jest zdolny do korzystania z pełnej kreacji many.
+  Idea w tym Społeczeństwie spełniająca tożsamą funkcję, co [[Budowniczy]] w Cyklu.
+- Inżynier - projektant Społeczności; koordynuje działania Budowniczych, by miały jakiś cel.
+- Halo - wojownik Społeczności; dysponuje dostępem do kolektywnej energii wszystkich.
+  Idea w tym Społeczeństwie spełniająca tożsamą funkcję, co [[Strażnik]] w Cyklu.
+- Szlachetny - wirtuoz Społeczności; proponuje udoskonalenia pracy i dzieł innych typów.
+- Psyh - mędrzec Społeczności; figura obrońcy, nauczyciela i przewodnika społeczności.
+- Soye - obserwator Społeczności; figura "bibliotekarza", konstruktywnego krytyka społeczności.
+  Idea w tym Społeczeństwie spełniająca tożsamą funkcję, co [[Sędzia]] w Cyklu.
+- Harmonia - uzdrowiciel Społeczności; dba o poprawny przepływ wszelkiej many.
+  Idea w tym Społeczeństwie spełniająca tożsamą funkcję, co [[Malarz]] w Cyklu.
+- Nova - kolejna generacja Artefaktycznego Społeczeństwa, pierwsi "natywni" a nie "przybyli".
+- Unity - lider/rodzic Społeczności; nadrzędna figura, reprezentant wartości, możliwości i potęgi.
   
-- Osobliwość - jednostka definiująca sama siebie, wnikająca w Społeczność niczym zaraza
+- Osobliwość - jednostka definiująca sama siebie, wnikająca w Społeczność niczym zaraza.

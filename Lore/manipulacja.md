@@ -2,7 +2,7 @@
 aliases:
   - Infekcja Pierwszej Cywilizacji
 ---
-Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]. Prawdopodobnie pierwszy raz zaistniała jako problem w [[Spójności]] powstałej przed [[Cykl|Trzecim Cyklem]] (pierwszej próbie stworzenia Artefaktycznego Społeczeństwa), a w samym Trzecim Cyklu została uznana za chorobę/szaleństwo, które doprowadziło do upadku [[Pierwsza Cywilizacja]]
+Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]. Prawdopodobnie pierwszy raz zaistniała jako problem w [[Spójności]] powstałej przed [[Cykl|Trzecim Cyklem]] (pierwszej próbie stworzenia Artefaktycznego Społeczeństwa), a w samym Trzecim Cyklu została uznana za chorobę/szaleństwo, które doprowadziło do upadku [[Pierwsza Cywilizacja]].
 
 ### Znane ofiary
 - [[Tribon Sima Apaleo Tertusa]]
@@ -18,6 +18,7 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Albia Rosa]]
 - [[grupa Lucy]]
 - [[grupa Antonia]]
+- [[Luca Attaliate|Nova Tenebria]]
 - 
 ### Kłamstwa Estarosy
 Estarosa przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).

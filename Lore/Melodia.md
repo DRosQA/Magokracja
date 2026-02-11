@@ -38,5 +38,5 @@ Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo ko
 - **Veroniqué** od [[Leofast Alvibraten]], szermierka ostrza [[Lūna]]. Wiąże się z nią [[pieśń Veroniqué]].
 - [[Livonia Rosa]] od Lilianny, badająca Strumień.
 - [[Nadzieja]] od Ciarana.
-- Echo Cassandra.
-- Echo Scari.
+- **Echo Serenada** od Cesarza Złoty Powój XXXV.
+- **Echo Scari**, która istnieje sama dla siebie.
