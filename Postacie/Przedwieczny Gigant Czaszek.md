@@ -1,3 +1,5 @@
 Ostatni z gatunku gigantów, potężnych [[manaistota]] sprzed [[Cywilizacja Szlachetnych]]; możliwe, że pierwszych, którzy dominowali na planecie. Nauczyciel [[Esta la Rosa Maledetta]], były czempion Iv. Ich cywilizacja jest tak bardzo zapomniana, że wiedza o niej jest w sposób archeologiczny niemal nie do odtworzenia. Według Giganta Czaszek, stąpali oni po planecie przed [[Cywilizacja Szlachetnych|Szalchetnymi]] a Kryształy powstały na szczątkach odchodzących sił Gigantów. Można nazwać to przejście pokojową cywilizacyjną tranzycją, od Gigantów do Szlachetnych.
 
 Na planecie można znaleźć szczątki Gigantów, które mają jedną wspólną cechę: wszystkie są skamieniałe i pełne aktywnych manakryształków wszelkich kolorów.
+
+Giganci, których widzieliśmy wśród ludów na [[Zjazd dyplomatyczny w Krondstadt]] są, według niego, wypaczeniami - podniesionymi magią trupami. Dopuki oni istnieją, [[Pokój]] jest niemożliwy.
