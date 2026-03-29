@@ -1,8 +1,8 @@
-Czas formowania się oraz istnienia światów na warstwach many. Przed zaistnieniem czegokolwiek, ustanawiają zasady [[Budowniczy]], [[Sędzia|Sędziowie]], [[Strażnik|Strażnicy]] według wytycznych od [[Steliae]] i zaczerpniętych [[echo]] z [[Kotara|głębokiej kotary]], inicjując tak [[Strumień]] danego Cyklu, potem prawa fizyki świata a na końcu barwiąc [[Skiael]]e, by zaistnieli ludzie.
+Czas formowania się oraz istnienia światów na warstwach many. Przed zaistnieniem czegokolwiek, ustanawiają zasady [[Budowniczy]], [[Sędzia|Sędziowie]], [[Strażnik|Strażnicy]] według wytycznych od [[Steliae]] i zaczerpniętych [[echo]] z [[Kotara|głębokiej kotary]], inicjując tak [[Strumień]] danego Cyklu, potem prawa fizyki świata a na końcu barwiąc [[Skiael]]e, by zaistnieli ludzie. Cykl kończy się jakąś drastyczną/esencjalną zmianą, niekoniecznie widowiskową.
 
 ### Przed Cyklami
 Zanim nastąpiły Cykle, sugeruje się, że "istniało" mgliste "coś/wszystko", realne, namacalne, z zasadami ale całkowicie innymi, niż obecne "coś/wszystko".
-W każdym razie wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa. Stamtąd potencjalnie jest [[Estarosa]] i [[Lucerna]], ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).
+W każdym razie wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa. Stamtąd potencjalnie jest [[Lucerna]] (i może [[Estarosa]]), ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).
 
 ### Pierwszy
 Podczas tego Cyklu powstało dominujące nad warstwami _imperium_, prowadzone przez [[Hagarth-Satra]], przy boku której byli _doradca tronu_ [[Eimhrick]] oraz _obrońca tronu_ [[Nagrar-Stirn]].
@@ -29,6 +29,6 @@ Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków
 Zakończony poprzez [[manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu).
 
 ### Czwarty
-Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium Czterech Koron]] i w końcu [[Ludy Zaćmienia]].
+Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium Czterech Koron]] i w końcu [[Ludy Zaćmienia]].
 
 Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji.

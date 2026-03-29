@@ -5,7 +5,7 @@ tags:
   - Iv
 ---
 W przeszłości [[Imperator]], po [[Greygor Schieberg]]. Twórca [[Podwodny Pałac Komnena]]. W jednym z jego pokojów Komnen odtwarzał [[Arcykryształ Soye]], wiedzony swoją melodią. 
-Jego Melodią był [[Laxus Viridian]], melodia należąca także do [[Komnena Merdrara]], po której został on nazwany. Skąd jego rodzice znali to imię, nie wiadomo. 
+Jego Melodią był [[Laxus Viridian]], melodia należąca także do [[Alexandra Komnena]], po której został on nazwany. Skąd jego rodzice znali to imię, nie wiadomo. 
 
 Znany jako wyjątkowy geniusz magii Gwiazd, już od dziecka.
 

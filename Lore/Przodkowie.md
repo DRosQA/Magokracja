@@ -9,5 +9,5 @@ Twórcy/projektanci pierwszych [[Spójności]], należący do [[Cywilizacja Przo
 - [[Antvel Heinster]] (konstruktor/mechanik)
 - [[Cisza]]-Przodek (inżynier/projektant)
 - [[Octavian]] (nadzorca i koordynator)
-- [[Komnena Merdrara]] (ochrona i otucha)
+- [[Alexandra Komnena]] (ochrona i otucha)
 - [[Skiala]] (wzorzec/matryca ludzi)

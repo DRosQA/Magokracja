@@ -15,4 +15,4 @@ Według listów [[Tapistos Glyieus]], Armada żyje wciąż w roku 1383 i stoi za
 > Mój mistrzu, dowiedziałem się, że naprawdę jesteś Veleach Henrigo Dioge Armada, pierwszy swego rodu, największy z Armadów! Tym bardziej nie rozumiem części planu z kupieniem burdelu w [[Kronstadt]].
 
 Po odkryciu rytuału krwi w Czerwonej Jaskini przy Krondstadt, podejrzewamy, że rytuał związania [[Derniere]] w trakcie [[Bitwa Zaćmienia]] był zrobiony z jego inicjatywy, dla kogoś związanego z Nicość i/lub Czarny powój - każdy z nas widział kogoś innego (Estarosa, Eimhrick, Leon Heistrom - stąd podejrzenie że chodzi o jego Powój) rozmawiającego w czasach współczesnych z Armadą w Czerwonej Jaskini. 
-Ostatecznie rozkminiamy, że ten "nie wiadomo kto" to [[Eimhrickrosa]].
+Ostatecznie rozkminiamy, że ten "nie wiadomo kto" to [[Esta la Rosa Maledetta]].

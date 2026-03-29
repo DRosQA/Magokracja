@@ -22,9 +22,9 @@ Po tym, jak Derniere przestał przybywać, zaćmienie się skończyło - bańka 
 Wygraną w historii przypisano jednak Spektrum Świadomości, aby zbudować pokój - obawiano się, że zbyt zgojeni Świadomościowcy staną się zgorzkniali, będą się buntować i być może znowu spróbują czegoś równie głupiego. Mistrzem Unii został jednak dowódca faktycznie zwycięskiej armii, który przypisał sobie triumf, gdyż Nelson wyparował fizycznie i nie mógł opisać prawdziwych wydarzeń w tamtym czasie.
 
 ### Powody (?)
-Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i [[Eimhrickrosa]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok Krondstadt).
+Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i [[Esta la Rosa Maledetta]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok Krondstadt).
 
-Ponieważ wiemy, że Armada robił to z podpuszczenia Eimhrickrosy, a ten rozmawiał z [[Natannes Heistrom]] o tym planie, można podejrzewać, że cała ta straszna bitwa była po to, żeby rytuał, który był po to, żeby złamać Iuline. 
+Ponieważ wiemy, że Armada robił to z podpuszczenia Esta la Rosa Maledetta, a ten rozmawiał z [[Natannes Heistrom]] o tym planie, można podejrzewać, że cała ta straszna bitwa była po to, żeby rytuał, który był po to, żeby złamać Iuline. 
 
 ### Konsekwencje
 Choć przywoływanie Derniere zostało zatrzymane, nigdy nie "powrócił" on tam, skąd przybył, tj. wciąż ostatecznie postawił na tej warstwie stopę i w końcu będzie musiał przybyć faktycznie i **Dokonać Zmiany**. 

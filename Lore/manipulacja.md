@@ -21,11 +21,11 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Luca Attaliate|Nova Tenebria]]
 - 
 ### Kłamstwa Estarosy
-Estarosa przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
+[[Estarosa]] przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
 
 Przyznając się do "winy" po zobaczeniu co zrobił innym dzięki Prawej Ręce Lune, personalnie mówił niektórym co im uczynił:
 
-Ręką swą dokonał “wyłomu w zasadach” i obudził melodie-Róże; pierwszą [[Ferarosa]].
+Ręką swą dokonał “wyłomu w zasadach” i obudził melodie-Róże; pierwszą [[Ogrody Rosa|Ferarosa]].
 Ręką ludzi zabił Tearlach’a Shealez, by obudzić poprzez Fera złość [[Lucy Shealez]], iskrę Hel.
 
 Ręką swą dokonał podmiany melodii młodziutkiej [[Lilianna Schieberg-Rosa]] na Lilarosę, gdyż boi się Livonii.
