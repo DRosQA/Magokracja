@@ -11,7 +11,7 @@ Wymieniam poniżej wszystkich po imieniu, ponieważ tak będzie łatwiej oraz i 
 - brat Pavlo
   Nożownik.
 - brat Pokój
-  Wygląda niemal jak Estarosa!, tylko z mocnym akcentem Hel!
+  Wygląda niemal jak [[Eclipse]]!, tylko z mocnym akcentem Hel i dodatkiem złotego Pyłu!
 - brat Rauf
   O złotych oczach, silnej aurze szermierza umysłu.
 - brat Rugar

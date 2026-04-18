@@ -8,12 +8,14 @@ aliases:
   - Echo
 ---
 Istota przeważnie z [[Nute]] która jest odbiciem innej istoty z innych warstw. Nie istnieją Melodie bez tego odbicia innej istoty, ale może to być istota z przyszłości/która jeszcze nie nastała (patrz [[Strumień]]).
+Po uwolnieniu [[Niema|Niemej]] okazało się, że każda Melodia jest jej aspektem, odbiciem w każdej istocie mogącej komunikować się z nią w unikatowy sposób.
 
 # Hierarchia/gradacja
 - Nuta
 - Pełne Melodie (również Echa)
 - [[Ogrody Rosa]]
-- [[Steliae]]
+
+[[Steliae]], choć wydawały się do tej pory najwyższym typem Melodii, obecnie jasnym jest, że są na równi z Niemą i zwyczajnie mają wielkie podobieństwo do niej, ale z powodu bycia Steliae nie Melodią.
 
 ### Lista pełnych Melodii Dworu Alvibraten
 

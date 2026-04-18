@@ -11,7 +11,7 @@ Jego pełne imię i nazwisko to w dosłownym tłumaczeniu "Oto przeklęta róża
 - [[Estarosa]]
 - [[Eimhrick]]
 - [[Czarny powój]]
-Po uwolnieniu [[Steliae|Niema]] nasuwa się interpretacja, że Sprytny po zmuszeniu Niemej do śpiewu został "uciszony" przez jej aspekt Ciszy, co uczyniło mu dotkliwą krzywdę, jakoś rozerwało na trzy części.
+Po uwolnieniu [[Niema|Niemej]] nasuwa się interpretacja, że Sprytny po zmuszeniu Niemej do śpiewu został "uciszony" przez jej aspekt Ciszy, co uczyniło mu dotkliwą krzywdę, jakoś rozerwało na trzy części.
 Z wersji wydarzeń Niemej wynika, że Esta la Rosa Maledetta nie jest [[Wróg|Wrogiem]].
 
 Jego nauczycielem był [[Przedwieczny Gigant Czaszek]], który opowiedział Ciaranowi historię o wejściu w Nicość. Przedwieczny nie pamięta imienia tej istoty ze względu na swój wiek (swoista skleroza).

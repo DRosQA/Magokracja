@@ -12,3 +12,5 @@
 - [[Obante Kidapis]]
 - [[Troy Deviscari]]
 - [[Sene Mumes]]
+
+Prowadzona przez [[Livonia Rosa]].
