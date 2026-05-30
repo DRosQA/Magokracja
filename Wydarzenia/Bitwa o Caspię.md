@@ -20,8 +20,8 @@ Przeciw [[Lambert|Oscailowi]] stanął [[Gilbert Knadr]]. Walka została przerwa
 W wyniku wydarzeń w sali tronowej, wszyscy Rozjemcy i inni ważni ludzie ostatecznie zaakceptowali Natannesa jako Imperatora.
 W wyniku samej bitwy, poddali się Lokaje Kotary i rozpoczęto aresztowania i sądy nad członkami [[rebelia]].
 Commenc odpuścił swoje anty-imperialne dążenia. 
-Ginie [[Protektorzy Imperialni|Pierwszy Protektor Schieberg]].
-Ze względu na łatwość skorumpowania kogoś z tak dużą władzą, zlikwidowane zostają stanowiska Pierwszych [[Rozjemcy Imperialni]] i [[Protektorzy Imperialni]]
+Ginie [[Protektor Imperialny|Pierwszy Protektor Schieberg]].
+Ze względu na łatwość skorumpowania kogoś z tak dużą władzą, zlikwidowane zostają stanowiska Pierwszych [[Rozjemca Imperialny]] i [[Protektor Imperialny]]
 Umacnia się stanowisko [[Pierwszy Mag]], które w celu udobruchania go/gestu zgody ze Strom otrzymuje Commenc.
 Powstaje stanowisko [[Pierwszy Asasyn]]
 Asasyni zrzekają się lojalności wobec [[Sirezai Lüna'rah]] po rozmowie z nim; organizacja wróciła do priorytetyzowania lojalności wobec _konceptu_ Imperium, a nie ludzi u władzy czy nawet założyciela.

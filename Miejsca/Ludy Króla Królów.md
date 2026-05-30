@@ -27,4 +27,4 @@ Liczne ludy, które realnie kontrolują 3/4 powierzchni planety.
 
 ---
 
-Jawhad uczynił na ziemiach swojego wpływu tytuł Sędziego Pokoju, odpowiednika [[Rozjemcy Imperialni]].
+Jawhad uczynił na ziemiach swojego wpływu tytuł Sędziego Pokoju, odpowiednika [[Rozjemca Imperialny]].

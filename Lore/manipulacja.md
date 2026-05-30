@@ -14,15 +14,15 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Octavian|Octavian Augustus]]
 - [[Cassandra Comnouve]]
 - [[Cisza]]-Przodek
-- [[Niema]]
+- [[Niema]] (?) - choć tu nie tyle co zmanipulowana (bo nie była) tylko wykorzystana celem manipulacji innymi
 - [[Albia Rosa]]
 - [[grupa Lucy]]
 - [[grupa Antonia]]
 - [[Luca Attaliate|Nova Tenebria]]
-- [[Eclipse]]
+- [[Eclipse]] - nie tyle co zmanipulowany, co wykorzystano jego tożsamość, by manipulować
 
 ### Kłamstwa Estarosy
-[[Estarosa]] przyznał się, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
+[[Estarosa]] przyznał się przed postaciami, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
 
 Przyznając się do "winy" po zobaczeniu co zrobił innym dzięki Prawej Ręce Lune, personalnie mówił niektórym co im uczynił:
 
@@ -35,4 +35,6 @@ Ręką Lilarosa zaślepił [[Lucjusz Alvibraten]], krzywiąc perspektywę i pchn
 Ręką swą zerwał echo Komneny Merdrada, by w pełni uciszyć nieznośną [[Nadzieja]].
 Ręką Eimhricka pokierował [[Ciaran Conejero]] ku swojemu bezpośredniemu wpływowi.
 
-Ręką Armady uczynił obecne wiązanie Grath na Derniere (wcześniej na Ashę). ([[Bitwa Zaćmienia]])
+Ręką Armady uczynił obecne wiązanie Grath na Derniere (wcześniej na Ashę). ([[Bitwa Zaćmienia]]).
+
+I pewno wiele innych, o których jeszcze nie powiedział.

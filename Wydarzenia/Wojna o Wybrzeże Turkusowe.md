@@ -17,4 +17,4 @@ Opis przebiegu konfliktu jest prawdziwy poza jednym detalem - nie była to armia
 Matrony Augu nie chciały stracić swoich mężczyzn, którzy odeszli z Tertusą, wiedziały jednak, że mimo porażki z własnej woli nie wrócą. Po ich rozmowie z [[Iriand Augu]], udała się ona "podyskutować" z ówczesnym Imperatorem. Przedstawiła mu ultimatum: Tertusi zachowują tereny, które zajeli, a wojna się kończy; w zamian Południe będzie nominalną częścią Imperium, a Imperator nie zginie z jej ręki. 
 
 ### Konsekwencje
-Południe staje się nominalną częścią Imperium. Pierwszy Tertusa nigdy więcej się nie pojawia w historii. 
+Południe staje się nominalną częścią Imperium. Pierwszy Tertusa nigdy więcej się nie pojawia w historii.

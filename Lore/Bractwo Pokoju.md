@@ -2,37 +2,54 @@ Rozłam wśród [[Magokraci Netheru]], wywołany poglądem na to, co oznacza dro
 Wymieniam poniżej wszystkich po imieniu, ponieważ tak będzie łatwiej oraz i tak można wyczytać imiona w płytkiej Kotarze.
 
 ### Zauważeni/znani członkowie
-- Oracia Heinster (lider)
+- **Oracia Heinster** (lider)
   "Spetryfikowana" - unieszkodliwiona.
-- brat Harron
+  Prawdopodobnie przyjdzie po nią Antvel.
+- brat **Harron**
   Otoczony kłębami dymu, spod którego tańczą cienie i krystalizuje się obsydian.
-- brat Noabar
+  Poszedł w swoją stronę, pewno do Heinsterowców.
+- brat **Noabar**
   W Kett przyzywał i podtrzymywał potężne manaistoty, które blokowały port.
-- brat Pavlo
+  Zginął z ręki Albii.
+- brat **Pavlo**
   Nożownik.
-- brat Pokój
-  Wygląda niemal jak [[Eclipse]]!, tylko z mocnym akcentem Hel i dodatkiem złotego Pyłu!
-- brat Rauf
+  Zginął z ręki strażnika Edinburrow.
+- brat **Pokój**
+  Wygląda niemal jak [[Eclipse]], tylko z mocnym akcentem Hel i dodatkiem złotego Pyłu!
+  Dosłownie go "rozwiązano" ręką Albii wspartą przez Lucjusza i Lucy.
+- brat **Rauf**
   O złotych oczach, silnej aurze szermierza umysłu.
-- brat Rugar
+  Zginął z ręki Lucy.
+- brat **Rugar**
   Nożownik.
-- brat Satar
+  Zginął z ręki strażnika Edinburrow.
+- brat **Satar**
   Nożownik.
-- brat Taron
+  Zginął z ręki strażnika Edinburrow.
+- brat **Taron**
   Nożownik.
-- brat Xavi
+  Zginął z ręki Lucjusza.
+- brat **Xavi**
   Miecznik.
-- siostra Anna
+  Poszedł w swoją stronę, pewno do Heinsterowców.
+- siostra **Anna**
   Otoczona Kotarą, posiadająca włócznię z ostrzem kryształu-obsydianu.
-- siostra Efnie
+  Prawdopodobnie poszła w swoją stronę, pewno do Heinsterowców (jeśli Antvel zabrał Oracię).
+- siostra **Efnie**
   Nożownik.
-- siostra Flavia
+  Zginęła z własnej ręki.
+- siostra **Flavia**
   O złotych oczach, silnej aurze szermierza umysłu.
-- siostra Halaike (siostra Strom)
+  Zginęła z ręki Lucy.
+- siostra **Halaike** (siostra Strom)
   Chudziutki i posępny fazokot kręci się obok niej.
-- siostra Khaina (siostra Strom)
+  Zginęła z ręki Howarda Chorążego Hel.
+- siostra **Khaina** (siostra Strom)
   Wydaje się napakowana maną ponad stan.
-- siostra Olenda Puyol (była Egzekutor)
+  Została wymazana przez Hel.
+- siostra **Olenda Puyol** (była Egzekutor)
   W jej wnętrzu jest potężna mana Hel, która płynie dymnie do innych członków Bractwa.
-- siostra Palmera
+  Zginęła z ręki Lucy.
+- siostra **Palmera**
   Nożownik.
+  Zginęła z ręki strażnika Edinburrow.

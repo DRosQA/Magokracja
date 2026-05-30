@@ -24,4 +24,4 @@ Patron ludów Nocy jako "bogini" wiedzy i magii [[magia|Nieboskłon]].
 
 # Inne znane procesy
 - **Calicio**
-  _Calic Artefaktor_ Spójności Ank'ara, ciężko uszkodzony w wyniku ataku na Daleką Iglicę, ale ustabilizowany (choć nie naprawiony do końca) przez Rozjemcę [[Rozjemcy Imperialni|Sareeda Nahak Souaz]]
+  _Calic Artefaktor_ Spójności Ank'ara, ciężko uszkodzony w wyniku ataku na Daleką Iglicę, ale ustabilizowany (choć nie naprawiony do końca) przez Rozjemcę [[Rozjemca Imperialny|Sareeda Nahak Souaz]]

@@ -5,7 +5,7 @@ tags:
 aliases:
   - Ferriano Giordia Veleach
 ---
-Mag Gwiazd żyjący około 632 po bogach, dowódca armii kraju Spektrum Emocji. Po [[Bitwa Zaćmienia]] został pierwszym władcą - Mistrzem [[Imperium Czterech Koron|Unii Kryształów i Korony]]. 
+Mag Gwiazd żyjący około 632 po bogach, dowódca armii zjednoczonych księstw Spektrum Emocji. Po [[Bitwa Zaćmienia]] został pierwszym władcą - Mistrzem [[Imperium Czterech Koron|Unii Kryształów i Korony]]. 
 
 Według listów [[Tapistos Glyieus]], Armada żyje wciąż w roku 1383 i stoi za jego poczynaniami przeciw [[grupa Lucy]].
 

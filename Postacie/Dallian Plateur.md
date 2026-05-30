@@ -3,10 +3,10 @@ tags:
   - człowiek
   - Konstrukt
 ---
-Znany jako profesor spektrum Świadomości, jeden z [[Łowcy Imperialni]] i [[Asasyni Imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Attaliate]].
+Były [[Spójności|Setron]] służący [[Spójność Ank'ara|Iglica Imperialna]]:  ***v Iv · Prinomy · Delia ∘ Setrön v***, profesor spektrum Świadomości, jeden z [[Łowcy Imperialni]] i [[Asasyni Imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Attaliate]].
 
-W rzeczywistości był to [[Spójności|Setron]] służący [[Spójność Ank'ara|Iglica Imperialna]]:  v Iv · Prinomy · Delia ∘ Setrön v
-W czasach, gdy Iglica jeszcze działała, przybrał z jej instrukcji ludzką formę i wtopił się w ludzką społeczność. Aby iluzja była pełna, Iglica "pozbawiła" go pamięci, o tym, czym jest naprawdę, więc gdy Iglica przestała poprawnie działać ze względu na [[Tertusa]], który wyjął z niej klucz nadrzędny, Dallian nie miał szans zorientować się, czym jest. Tak trwał, za czasów Imperatora Komnusa Platera Soyescari przybierając nazwisko Plateur. 
+
+W czasach, gdy Iglica jeszcze działała, przybrał z jej instrukcji ludzką formę i wtopił się w ludzką społeczność. Aby iluzja była pełna, Iglica "pozbawiła" go pamięci, o tym, czym jest naprawdę, więc gdy Iglica przestała poprawnie działać ze względu na [[Tertusa]], który wyjął z niej klucz nadrzędny, Dallian nie miał szans zorientować się, czym jest. Tak trwał, za czasów Imperatora Komnusa Platera Soyescari przybierając nazwisko Plateur.
 
 Mając poczucie, że coś jest nie tak na świecie, ale nie wiedząc co - uczucie które wynikało z braku dostępu do Iglicy - zaczął badać wszystko, co mógł, poszukując dziwactw i tajemnic. 
 

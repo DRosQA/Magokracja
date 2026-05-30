@@ -5,17 +5,57 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 
 ### Znane procesy Iglicy
 * Egzekutor Rayana (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
-* Egzekutor [[Magred Puyol|Magred]] - obecnie Imperialny Rozjemca
+* Egzekutor [[Magred Puyol|Magred]] (Puyol) - obecnie Imperialny Rozjemca
 * Setron [[Dallian Plateur|Delia]]
 
-### Stanowiska/formacje imperialne
-- [[Rozjemcy Imperialni]]
-- [[Protektorzy Imperialni]]
+### Formacje Imperialne
 - [[Chorągiew Imperialna]]
 - [[Złota Gwardia]]
 - [[Asasyni Imperialni]]
 - [[Łowcy Imperialni]]
-- 
+- Armie Imperium
+- Floty Imperium
+
+### Loże Imperialne
+- od roku 1383: Loża Imperatora (Pierwszy Mag + Pierwszy Asasyn)
+- Loża Woli Imperium (Rozjemcy Imperialni, kluczowe indywidua pośród Pierwszych)
+- Loża Pierwszych Imperium (Protektorzy Imperialni, pozostałe indywidua pośród Pierwszych)
+
+### Tytuły szlacheckie/administracyjne
+- [[Rozjemca Imperialny]]
+- [[Protektor Imperialny]]
+- Książę
+- Państwo na zamku
+- Administrator Protektoratu
+- Mag miasta
+- Administrator Magistratu
+- Naczelnik milicji
+- Dowódca milicji
+- (milicjant)
+
+### Tytuły wojskowe
+- Marszałek/Admirał
+- Kapitan
+- Chorąży
+- Mag regimentu
+- kwatermistrz regimentu
+- Sierżant
+- Mag golemów
+- Kapral
+- (żołnierz)
+
+### Tytuły naukowe
+- Rektor
+- Profesor
+- Doktor
+- Magister
+- Licencjat
+- (żak)
+
+### Tytuły cechowe
+- Mistrz cechu
+- (czeladnik)
+
 ### Historia Imperium
 1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
@@ -26,16 +66,16 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 	1. Dom Spektrum Świadomości dał radę zdobyć znamienitą część centralnych terenów obszaru wyzwolonego spod władzy Bogów; ziem żyznych i lesistych. 
 	2. Dom Spektrum Ciała zajął rozległe tereny południowe jak i utworzył wiele kolonii wzdłuż brzegu Morza Turkusowego, z intencją stworzenia z niego morza wewnętrznego. 
 	3. Dom Spektrum Emocji zajął teren sporego półwyspu, wysuniętego mocno na Dalekie Morze i zajął piękne, górskie tereny Wielkiej Wyspy, nastawiając się na rozwój wewnętrzny, umocnienie granic i eksplorację zamorską. 
-	4. Dom Spektrum Strun utworzył swe państwo, podbijając lub przejmując władzę nad terenami należącymi do ludów pustyń; wciąż podległych bogom. 
+	4. Dom Spektrum Strun utworzył swe państwo, podbijając lub przejmując władzę nad terenami należącymi do ludów pustyń; wciąż podległych bogom, ale innej Iglicy.
 	5. Dom Spektrum Zmysłów mozolnie, ale skutecznie zajął wschodnie wybrzeże obszaru odebranego bogom, otwierając się na Morze Wichrów, budując tak pierwszy zamorski szlak handlowy z inną cywilizacją.
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada Dioge Henrigo Veleach]] ze Spektrum Emocji
 9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium.
 10. 817 - 856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
-11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Aillia Comnouve na czele.
+11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową Aillią Comnouve na czele.
 12. około 1024 - 1124 - Złoty Wiek Imperium.
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]].
-14. 1383 - czasy obecne: ważny [[Miesiąc Imperialny]] zwieńczony [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]].
+14. 1383 - czasy obecne: [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Krondstadt]].
 
 ### Wielkie rody
 * Comnouve. Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr.

@@ -19,7 +19,7 @@ Wiadome jest, że jego obecnym celem jest podszywanie się pod oryginalnego Nata
 ### Rozmaz Krwi
 Związane z fauną/[[Devi]]. Patron [[Lud Krwi]], ale pozostający do nich neutralnym. Po zakończonej krystalizacji Serenady oraz uwolnieniu Niemej, nastąpiła tranzycja esencji oryginalnego Octaviana w Rozmaz Krwi, zakańczając tak jego ucieczkę z katastrofy swojej Cywilizacji.
 
-### Serenada
+### Gloria (Złota)
 Błyskawicznie skrystalizowane, związane ze [[Strumień]]iem/[[Psyh]]. Kiedy zakończył się proces Złotego Powoju poznawania ścieżek, jakimi Strumień płynie, łącznie nastąpiło 35 iteracji wcieleń tego powoju. Cesarz Złoty Powój XXXV-ty ostatecznie wniknął we [[Floril di Lauberg]] i zjednoczył się w pełni z jego Psyh a po fizycznej śmierci zainicjował błyskawiczny proces krystalizacji, budując nowego złotego Kryształowego Imperatora.
 Kolejnym, natychmiastowym krokiem była tranzycja oryginalnego Octaviana w Kryształ Rozmaz Krwi.
 Można przypuszczać, że również natychmiastowe zbudowanie i krystalizacja Słodkiego Obłędu jest jego dziełem.
