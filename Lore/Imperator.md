@@ -1,19 +1,19 @@
-Tytuł władcy ludów na terenach dookoła [[Spójność Ank'ara|Iglica Imperialna]] od czasów [[Imperium Czterech Koron]] Trzech Koron.
+Tytuł władcy ludów na terenach dookoła [[Spójność Ank'ara|Iglica Imperialna]] od czasów [[Imperium]] Trzech Koron.
 Pełny tytuł od drugiego Imperatora (Parnigasa) brzmiał "Majestat Imperialny, Pan [[Pięć Iglic|Pięciu Iglic Imperium]]".
 Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą był _"Namiestnik Imperium"_ ze względu na notkę Nazisara o jego możliwym powrocie. 
 
 # Poczet Imperatorów
 1. Mistrz Unii [[Armada Dioge Henrigo Veleach]] - władca od 632
 2. mało ważni Mistrzowie Unii, po których nic ciekawego nie zostało
-3. Imperator Komnus Plater Soyescari - władca od 856
-4. Imperator Parnigas Tarviste Ribenes Soyescari - władca od 879
-5. Imperator Aillia Comnouve - władca od 954
+3. Imperator **Komnus Plater Soyescari** - władca od 856
+4. Imperator **Parnigas Tarviste Ribenes Soyescari** - władca od 879
+5. Imperator **Aillia Comnouve** - władca od 954
 6. Imperator [[Nasizar Tertusa|Nasizar Tertusa]] - władca około 960
 7. Namiestnik Imperium [[Greygor Schieberg]] - władca około 1024
 8. Namiestnik Imperium [[Komnen Merdrada Attour Bruinia]] - władca około 1050
-9. Namiestnik Imperium, żona Komenana Bruinia - władca około 1120
-10. mało ważni Namiestnicy Imperium, po których nic ciekawego nie zostało
-11. Namiestnik Imperium [[Tribon Sima Apaleo Tertusa]] - władca około 1330
+9. Namiestnik Imperium, **Nina Bruinia**, żona Komnena, po której nic ciekawego nie zostało (złośliwcy szydzą, że była tylko ladacznicą Konmena; do tego jej rządy zakończyły Złoty Wiek) - władca około 1120
+10. mało ważni Namiestnicy Imperium, po których nic ciekawego nie zostało, gdyż między innymi zmagali się z kryzysem postępującej recesji Imperium
+11. Namiestnik Imperium [[Tribon Sima Apaleo Tertusa]], dla wielu zbawienie, na które trzeba było za długo czekać; dla innych utajniony tyran - władca około 1330
 12. Imperator [[Natannes Heistrom]] - władca od 1383
 
 (...) Po wstępie, opisującym ogólny Majestat Imperatora, należy nadmienić genezę samej nazwy tego majestatu. Mianowicie słowo imperator bierze się z bardzo starych zapisów, z którymi zapoznawali się kolejni Pierwsi Magowie w Imperialnej Iglicy.(...)

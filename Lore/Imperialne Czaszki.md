@@ -1,1 +1,1 @@
-Niedawno wprowadzone w [[Imperium Czterech Koron]] golemy, które mają być (słabszym ale liczniejszym) substytutem Eonów. Ich powłoki stworzone są z czernionego metalu. [[alchemia]]
+Niedawno wprowadzone w [[Imperium]] golemy, które mają być (słabszym ale liczniejszym) substytutem Eonów. Ich powłoki stworzone są z czernionego metalu. [[alchemia]]

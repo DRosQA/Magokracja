@@ -1,1 +1,1 @@
-[[Imperium Czterech Koron]]
+[[Imperium]]

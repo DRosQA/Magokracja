@@ -1,4 +1,4 @@
-Stanowisko w [[Imperium Czterech Koron]] przyznawane tradycyjnie po teście siły, np przez przetrwanie pojedynku z [[Eon]]. 
+Stanowisko w [[Imperium]] przyznawane tradycyjnie po teście siły, np przez przetrwanie pojedynku z [[Eon]]. 
 Do obowiązków łowcy należy polowanie na [[Spójności|bogów]], istoty zza [[Kotara]] i wszystkie inne siły podobnego kalibru i rodzaju.
 
 Za czasów Unii Dwóch Koron istniał pierwowzór tego stanowiska w formie Łowcy Magów, ukierunkowane tylko przeciw pierwszym zalążkom [[Renegat imperialny|Renegatów]].

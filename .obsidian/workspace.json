@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "022d8008cb451b35",
+        "id": "6b8e53f6046cba96",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4af980a2e7d425",
+            "id": "8c21baa4a66b51ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Spójność Ank'ara.md",
+                "file": "Postacie/Eaulie Rosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spójność Ank'ara"
+              "title": "Eaulie Rosa"
+            }
+          },
+          {
+            "id": "480c6fd59cbd6388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Heigem Strom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heigem Strom"
+            }
+          },
+          {
+            "id": "7a9fce919d9b3119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Joanita Comnouve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joanita Comnouve"
+            }
+          },
+          {
+            "id": "9638b5a5e9059ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Pokolenie po bogach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pokolenie po bogach"
+            }
+          },
+          {
+            "id": "4be639387ff6e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Imperator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperator"
+            }
+          },
+          {
+            "id": "bf446184ec94f1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miejsca/Imperium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperium"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,8 +124,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wybrzeże Turkusowe",
-                "matchingCase": true,
+                "query": "Trin’aeh",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -167,34 +238,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "ef4af980a2e7d425",
+  "active": "bf446184ec94f1d8",
   "lastOpenFiles": [
-    "Lore/Spójności.md",
+    "Postacie/Eaulie Rosa.md",
+    "Postacie/Heigem Strom.md",
+    "Miejsca/Imperium.md",
     "Lore/Imperator.md",
-    "Lore/Pokolenie po bogach.md",
-    "Wydarzenia/Cykl.md",
-    "Lore/Kryształowy Imperator.md",
-    "Postacie/Siostry Strom.md",
-    "Miejsca/Imperium Czterech Koron.md",
-    "Wydarzenia/Wojna o Wybrzeże Turkusowe.md",
-    "Lore/Protektor Imperialny.md",
-    "Lore/Rozjemca Imperialny.md",
-    "Postacie/Dallian Plateur.md",
-    "Lore/Eon.md",
-    "Postacie/Tertusa.md",
-    "Postacie/Eimhrick.md",
-    "Miejsca/Kraina Qa.md",
-    "quaka-tao.md",
-    "Lore/Magokraci Netheru.md",
+    "Postacie/Maygren.md",
+    "grupa Maygren.md",
+    "Lore/Malarz.md",
+    "Lore/grupa Abradean.md",
+    "Postacie/Abradean Garghais.md",
+    "Postacie/Albia Rosa.md",
+    "Postacie/Greygor Schieberg.md",
     "Lore/Bractwo Pokoju.md",
-    "Lore/Wróg.md",
-    "Lore/Psyh.md",
-    "Lore/Soye.md",
-    "Lore/Pokój.md",
-    "Postacie/Armada Dioge Henrigo Veleach.md",
-    "Lore/manipulacja.md",
-    "Lore/Steliae.md",
-    "Postacie/Cisza.md",
+    "Postacie/Joala Knadr.md",
+    "Postacie/Cesarz Złoty Powój.md",
+    "Postacie/Joanita Comnouve.md",
+    "Lore/Pokolenie po bogach.md",
+    "Lore/Grath.md",
+    "Postacie/Stalokrew.md",
+    "Lore/grupa Rosario.md",
+    "Postacie/Gethis Attaliate.md",
+    "Postacie/Esta la Rosa Maledetta.md",
+    "Lore/Edykt o Restoracji Imperium.md",
+    "Postacie/Cassandra Comnouve.md",
+    "Lore/Spójność Ank'ara.md",
+    "Lore/Artefaktyczne Społeczeństwo.md",
+    "Lore/Spójności.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

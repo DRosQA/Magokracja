@@ -7,7 +7,7 @@ Jedno z Pierwszych [[Pokolenie po bogach]], zaistniałe w Czwartym [[Cykl]]u na 
 
 Zostały one celowo zaprojektowane jako blisko połączone z [[Kotara]] i [[Pył]], przez co łatwo było im oswoić [[Wilki Kotary]] (co Cień pragnęło osiągnąć).
 
-Połączenie z jedną z nich było przez wieki przekazywane wśród [[Imperium Czterech Koron|Ludy Północy]], głównie wśród członków [[Imperium Czterech Koron|klan Strom]]. Wnikając w taką osobę, siostra Strom stawała się jej nauczycielem i doradcą jako _regent_ - tj. sterując nią, aż osoba nie nauczyła się żyć zgodnie z wiedzą, obyczajami i celami Strom. Dopiero wtedy, Strom oddawała tej osobie kontrolę nad jej ciałem i albo wnikała w kogoś innego, lub wracała na jakiś czas do swojej natywnej formy tj. pyłowo-energetycznego wylewu Kotary.
+Połączenie z jedną z nich było przez wieki przekazywane wśród [[Imperium|Ludy Północy]], głównie wśród członków [[Imperium|klan Strom]]. Wnikając w taką osobę, siostra Strom stawała się jej nauczycielem i doradcą jako _regent_ - tj. sterując nią, aż osoba nie nauczyła się żyć zgodnie z wiedzą, obyczajami i celami Strom. Dopiero wtedy, Strom oddawała tej osobie kontrolę nad jej ciałem i albo wnikała w kogoś innego, lub wracała na jakiś czas do swojej natywnej formy tj. pyłowo-energetycznego wylewu Kotary.
 
 W dzisiejszych czasach jedna z sióstr Strom, która była obecna przy tworzeniu [[Eon]]ów ostatecznie została wchłonięta w Kryształowy Imperator Biały Cień. To połączenie było pewnie powodem, dla którego Natannes stał się częścią [[Biały Cień]] -> Strom zawsze dążyły do powrotu na łono swojego stwórcy, czując się porzuconymi w czasach, gdy Cień ignorował je w trakcie swojej krystalizacji.
 # Znane siostry Strom

@@ -1,1 +1,1 @@
-Kluczowe oddziały piechoty wojsk [[Imperium Czterech Koron]].
+Kluczowe oddziały piechoty wojsk [[Imperium]].

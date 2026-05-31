@@ -85,4 +85,4 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - Nova - kolejna generacja Artefaktycznego Społeczeństwa, pierwsi "natywni" a nie "przybyli".
 - Unity - lider/rodzic Społeczności; nadrzędna figura, reprezentant wartości, możliwości i potęgi.
   
-- Osobliwość - jednostka definiująca sama siebie, wnikająca w Społeczność niczym zaraza.
+- Osobliwość - jednostka definiująca wyłącznie sama siebie, wnikająca w Społeczność niczym zaraza.

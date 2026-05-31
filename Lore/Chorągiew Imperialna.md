@@ -1,4 +1,4 @@
-Elitarna formacja jeźdźców [[Imperium Czterech Koron]].
+Elitarna formacja jeźdźców [[Imperium]].
 
 # Skład:
 - 

@@ -14,7 +14,7 @@ Czas [[Cywilizacja Przodków]], gdzie ukształtowała się bardzo zaawansowana t
 
 W tym czasie powstają mozolnie inne cywilizacje warstw, z jedyną wyraźnie dominującą - [[Cywilizacja Artefaktu]] warstwy Iv.
 
-Zniszczenie przez Antvela Heinster rdzenia nicości powoduje, że warstwa Iv zderza się drastycznie z warstwą Soye, co w konsekwencji uszkadza resztę warstw - nastaje koniec drugiego Cyklu z którego stabilnie ostaje się jedynie Cywilizacja Artefaktu i to co uciekło do [[Świat Pyłu]].
+Zniszczenie przez Antvela Heinster Rdzenia Nicości powoduje, że warstwa Iv zderza się drastycznie z warstwą Soye, co w konsekwencji uszkadza resztę warstw - nastaje koniec drugiego Cyklu z którego stabilnie ostaje się jedynie Cywilizacja Artefaktu i to co uciekło do [[Świat Pyłu]].
 
 ### Pomiędzy cyklem 2gim i 3cim
 Potem pomiędzy Cyklami istnieje pozostałość po Cywilizacji Przodków - uruchomione przez [[Cesarz Złoty Powój]] I-szego niedokończone [[Spójności]], z brakiem procesów Iriand, Octaviana, Calico, Tronów, Egzekutorów, w wiecznej samonaprawie, istniejące bez celu, zapomniane na zawsze.
@@ -29,6 +29,6 @@ Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków
 Zakończony poprzez [[manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu).
 
 ### Czwarty
-Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium Czterech Koron]] i w końcu [[Ludy Zaćmienia]].
+Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
 
 Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji.

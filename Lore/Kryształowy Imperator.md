@@ -11,7 +11,7 @@ Proces, przez który przechodzą Kryształy, rodzaj dorastania. Istnienie Kryszt
 Obecnie w Kryształach da się zauważyć silną tranzycję kluczowych postaci z [[Cywilizacja Przodków]]: Alexandra Komnena w Cieniu; Octavian w Rozmacie Krwi; Cesarz Złoty Powój w Serenadzie.
 
 ### Cień (Biały)
-Nowoskrystalizowane, związane z księżycem/[[Iv]], czczone wśród ludów Północy [[Imperium Czterech Koron]] jako [[Kotara]], patron [[Ludy Króla Królów|ludu Strun]]. Twórca [[Siostry Strom]]. "Wniknęło" w rdzeń [[Spójność Ank'ara|Iglica Imperialna]], niczym woda, pomału ale sumiennie, uzyskując w ten sposób wpływ na jej [[Spójności|procesy]] i Imperium. 
+Nowoskrystalizowane, związane z księżycem/[[Iv]], czczone wśród ludów Północy [[Imperium]] jako [[Kotara]], patron [[Ludy Króla Królów|ludu Strun]]. Twórca [[Siostry Strom]]. "Wniknęło" w główny Rdzeń [[Spójność Ank'ara|Iglica Imperialna]], niczym woda, pomału ale sumiennie, uzyskując w ten sposób wpływ na jej [[Spójności|procesy]] i Imperium.
 Przez większość czasu, dążyło głównie do krystalizacji. Poza tym, jego cele wydają się zbieżne z celami Cywilizacji Szlachetnych bardziej niż z Imperium.
 Po krystalizacji stało się częścią istoty [[Biały Cień]]. Zyskało również domenę gęstej mgły/[[Vorel]] (przejmując domenę od brakującego Kryształu).
 Wiadome jest, że jego obecnym celem jest podszywanie się pod oryginalnego Natannesa i kierowanie Imperium, jakby nigdy nic się nie stało (czy to uzurpacja czy naturalna konsekwencja wydarzeń?).

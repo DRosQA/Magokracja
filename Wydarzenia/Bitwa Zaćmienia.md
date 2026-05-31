@@ -1,4 +1,4 @@
-Historyczna bitwa pomiędzy Spektrum Emocji i Spektrum Świadomości, w czasach przed [[Imperium Czterech Koron]], tuż przed utworzeniem Unii Dwóch Koron.
+Historyczna bitwa pomiędzy Spektrum Emocji i Spektrum Świadomości, w czasach przed [[Imperium]], tuż przed utworzeniem Unii Dwóch Koron.
 Rok 632 po bogach.
 
 ### Oficjalna wersja wydarzeń
