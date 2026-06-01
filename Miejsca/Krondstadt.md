@@ -1,1 +1,0 @@
-Miasto w [[Imperium]]

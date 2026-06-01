@@ -3,7 +3,7 @@ Pełny tytuł od drugiego Imperatora (Parnigasa) brzmiał "Majestat Imperialny, 
 Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą był _"Namiestnik Imperium"_ ze względu na notkę Nazisara o jego możliwym powrocie. 
 
 # Poczet Imperatorów
-1. Mistrz Unii [[Armada Dioge Henrigo Veleach]] - władca od 632
+1. Mistrz Unii [[Armada]] - władca od 632
 2. mało ważni Mistrzowie Unii, po których nic ciekawego nie zostało
 3. Imperator **Komnus Plater Soyescari** - władca od 856
 4. Imperator **Parnigas Tarviste Ribenes Soyescari** - władca od 879

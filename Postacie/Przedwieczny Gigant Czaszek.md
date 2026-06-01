@@ -2,4 +2,4 @@ Ostatni z gatunku gigantów, potężnych [[manaistota]] sprzed [[Cywilizacja Szl
 
 Na planecie można znaleźć szczątki Gigantów, które mają jedną wspólną cechę: wszystkie są skamieniałe i pełne aktywnych manakryształków wszelkich kolorów.
 
-Giganci, których widzieliśmy wśród ludów na [[Zjazd dyplomatyczny w Krondstadt]] są, według niego, wypaczeniami - podniesionymi magią trupami. Dopuki oni istnieją, [[Pokój]] jest niemożliwy.
+Giganci, których widzieliśmy wśród ludów na [[Zjazd dyplomatyczny w Kronstadt]] są, według niego, wypaczeniami - podniesionymi magią trupami. Dopuki oni istnieją, [[Pokój]] jest niemożliwy.

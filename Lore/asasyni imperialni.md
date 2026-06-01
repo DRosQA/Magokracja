@@ -10,10 +10,10 @@ Obecnie "połączeni" z [[Artefaktyczne Społeczeństwo]] dzięki sztyletom proj
 - [[Gethis Attaliate]] 
 - [[Floril di Lauberg]]
 - [[Niebieskie Piórko]]
-- **Leancis Diogein** z [[Krondstadt]]
+- **Leancis Diogein** z [[Kronstadt]]
 - [[Zielone Piórko]]
 - **Flavia Suer** xx
-- **Georgiome Boudycas** z [[Krondstadt]]
+- **Georgiome Boudycas** z [[Kronstadt]]
 - **Jacoob Suer** xx
 - **Mbaga Suer** xx
 - **Seaulius Suer** xx

@@ -27,4 +27,4 @@ Istnieje też instytucja **Rozjemcy Mianowanego**, tj. osoby wykonującej częś
 - **Constaliyar Soyescari**
   Głowa rodu, książę Marte, prof. s. Świa. (emerytowany Pierwszy Rozjemca, przed Matthindrikiem). Przekazał swój Łańcuch Rozjemcy przyjezdnemu Sędziemu Pokoju.
 - **Domline Deviscari**
-  Rozjemca Mianowany przez Lucy Shealez na sprawy miasta Krondstadt.
+  Rozjemca Mianowany przez Lucy Shealez na sprawy miasta [[Kronstadt]].

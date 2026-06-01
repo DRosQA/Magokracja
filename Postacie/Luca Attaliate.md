@@ -8,7 +8,7 @@ Licencjat magii Życia, jeden z [[Asasyni Imperialni]], rzemieślnik-inżynier g
 Za młodu stracił lewe ramię w "przypadkowym" starciu z Kryształowymi Imperatorami ([[Eriend Grath]] i [[Czerwona Wilczyca]]). Od tego czasu ma fobię przed magią [[Pył]].
 Aby zastąpić brak ręki, stworzył magiczną protezę, w niejasny dla siebie sposób czyniąc ją samoświadomą i tworząc [[Lewa]].
 
-W [[Krondstadt]] pracował w warsztacie rzemieślniczym specjalizującym się w inżynierii oraz służył jako asasyn-adept. Tam też przydzielono go do służby pod [[Lucy Shealez]].
+W [[Kronstadt]] pracował w warsztacie rzemieślniczym specjalizującym się w inżynierii oraz służył jako asasyn-adept. Tam też przydzielono go do służby pod [[Lucy Shealez]].
 W [[Caspia]] uzyskał awans na faktycznego asasyna oraz zaprzyjaźnił się z jednym z [[Niebieskie Piórko]], oferując mu siebie jako "kotwicę", dzięki czemu był też bliski [[Johan Ekbert]] i później faktycznego Piórku.
 
 "Cierpiał" na [[manachoroba]] która sprawiała, że golemy, które tworzył, objawiały się jako pełnoprawne "osoby" z własnym Psyh, zamiast procesy w pełni pod kontrolą jego Soye. 
