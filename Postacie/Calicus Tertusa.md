@@ -3,6 +3,8 @@ tags:
   - Konstrukt
   - Psyh
   - Mag
+aliases:
+  - Calicus Deleh Diozie Tertusa
 ---
 Proces "Calic" dla jednej ze [[Spójności]] w Czwartym [[Cykl]]u, innej niż [[Spójność Ank'ara]]. Ponieważ jego Spójność straciła swojego Arcytrona (dokonał autodestrukcji w efekcie jakiegoś szaleństwa, patrz [[manipulacja|Infekcja Pierwszej Cywilizacji]]), przybył na naszą planetę i próbował ukraść dla swoich odpowiednik w osobie [[Iriand Augu]].
 

@@ -21,7 +21,7 @@ Jako projekt wszystkie iteracje Spójności są jak niesamowicie przyspieszona t
 ### Znane procesy Siostrzanej
 - Egzekutor [[Albia Rosa|Alba]] - obecnie jedna z [[Artefaktyczne Społeczeństwo]]
 - Egzekutor **Kotaarah** - obecnie Wzniosły Głos ludu Strun; jako mechanizm była odpowiedzialna za symulowanie i nakładanie sztucznej kotary na istoty podległe Spójności
-* Tron [[Tribon Sima Apaleo Tertusa|Tribia]]
+* Tron [[Tribon Tertusa|Tribia]]
 * Najwyższy Tron Siostrzanej Iglicy (**Jawhad Król Królów**)
 
 ### Znane procesy Dalekiej

@@ -2,10 +2,10 @@ Starcie w stolicy Imperium, [[Caspia]], w 1383 roku pomiędzy lojalistami Impera
 
 Na samo miasto napadły połączone siły [[Lokaje Kotary]] i dokonały ogromnych zniszczeń. 
 
-W sali tronowej rozstrzygnięto wtedy [[Scari|Sąd]] nad [[Noara Schieberg]], wiedzioną przez [[Cisza]]. Kroczyła ona przodem, przed klon [[Tribon Sima Apaleo Tertusa]]. On, już jako [[Spójności|uosobiony Tron]], przysłał do stolicy konstrukt na swoje podobieństwo, stworzonego technologią Iglic. Chciał odzyskać pozycję Imperatora. Twierdził, że przekazał ten tytuł Natannesowi pod wpływem [[Siostry Strom|Strom]], więc nie jest on legalnym Imperatorem. 
+W sali tronowej rozstrzygnięto wtedy [[Scari|Sąd]] nad [[Noara Schieberg]], wiedzioną przez [[Cisza]]. Kroczyła ona przodem, przed klon [[Tribon Tertusa]]. On, już jako [[Spójności|uosobiony Tron]], przysłał do stolicy konstrukt na swoje podobieństwo, stworzonego technologią Iglic. Chciał odzyskać pozycję Imperatora. Twierdził, że przekazał ten tytuł Natannesowi pod wpływem [[Siostry Strom|Strom]], więc nie jest on legalnym Imperatorem. 
 Asasyni w tym konflikcie byli podzieleni, ale ostatecznie przekonani przez [[Dallian Plateur]] stanęli po stronie Natannesa. 
 
-W tej samej sali [[Iriand Augu]] próbowała wcielić w siebie ostatnie procesy [[Spójność Ank'ara|Iglica Imperialna]] i "naprawić się" (?) poprzez "rozwiązanie" [[Tetrahedron]] (?). Okazało się jednak, że jest on [[manipulacja|wirusem]] od [[Calicus Deleh Diozie Tertusa]] i trzeba było ją ratować, co ją bardzo osłabiło i wystawiło na ryzyko porwania przez Calicusa.
+W tej samej sali [[Iriand Augu]] próbowała wcielić w siebie ostatnie procesy [[Spójność Ank'ara|Iglica Imperialna]] i "naprawić się" (?) poprzez "rozwiązanie" [[Tetrahedron]] (?). Okazało się jednak, że jest on [[manipulacja|wirusem]] od [[Calicus Tertusa]] i trzeba było ją ratować, co ją bardzo osłabiło i wystawiło na ryzyko porwania przez Calicusa.
 
 ### Walki
 Przeciw "Kryształowym Imperatorom" ([[Czerwona Wilczyca]] i [[Eriend Grath]]) stanął [[Commenc Nouvell]], [[Księciunio]] oraz Strom w ciele Natannesa. Był to ostatni moment, kiedy Strom była sobą - podczas starcia, odwołała się do swojego stwórcy, a ten w końcu odpowiedział. [[Kryształowy Imperator]] Cień wcielił ją do siebie ponownie, dzięki czemu nawiązał też połączenie z Natannesem. 

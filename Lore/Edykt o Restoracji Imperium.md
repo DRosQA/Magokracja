@@ -2,7 +2,7 @@
 aliases:
   - Róże Imperium
 ---
-Wydany w 1340 po bogach przez [[Imperium|Imperatora]] [[Tribon Sima Apaleo Tertusa]] edykt nakazujący Pierwszym spośród rodów, by nowe pokolenia wzmocniły coraz bardziej rozrzedzającą się krew, by wzmocnić magię a przy tym i siłę, jaką dysponuje Imperium. Ów pokolenie nazwano ‘Złotymi dziećmi’, gdyż oczekiwano od nich, że dokonają ‘restoracji Złotego wieku Imperium’. Wielkie rody postanowiły powtórzyć proces, by jeszcze bardziej wzmocnić magię ich domów.
+Wydany w 1340 po bogach przez [[Imperium|Imperatora]] [[Tribon Tertusa]] edykt nakazujący Pierwszym spośród rodów, by nowe pokolenia wzmocniły coraz bardziej rozrzedzającą się krew, by wzmocnić magię a przy tym i siłę, jaką dysponuje Imperium. Ów pokolenie nazwano ‘Złotymi dziećmi’, gdyż oczekiwano od nich, że dokonają ‘restoracji Złotego wieku Imperium’. Wielkie rody postanowiły powtórzyć proces, by jeszcze bardziej wzmocnić magię ich domów.
 
 Obecnie mówi się o pokoleniu ‘Róż Imperialnych’, dzieci ‘Złotych’, które mają być powrotem do siły krwi magów sprzed tysiąclecia. Póki co nie widać powrotu Złotego wieku a pokolenie ‘Róż’ ma często dziwne problemy z panowaniem nad magią, która wyraźnie je przerasta.
 

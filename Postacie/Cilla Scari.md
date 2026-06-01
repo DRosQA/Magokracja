@@ -3,7 +3,7 @@ aliases:
   - Calvara Taragain
 ---
 W innej iteracji Strumienia znana jako Calvara Taragain (jak Leypia Mekontion dla Iriand Augu).
-Jedna z [[Siostra w Pyle]], uczennica w [[klasa Livonii]], aktualnie część [[Harem Sene Mumes z Miedzianej Oazy]]. Licencjat magii [[Pył]]. 
+Jedna z [[Siostra w Pyle]], uczennica w [[klasa Livonii]], aktualnie część [[Harem Sene]]. Licencjat magii [[Pył]]. 
 
 W przyszłości ma zostać matką [[Echo Scari]].
 

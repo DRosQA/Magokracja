@@ -9,7 +9,7 @@ tags:
 Imperium zna go jako jednego z [[Asasyni Imperialni]], w wielkim kapeluszu z ogromnym, niebieskim piórem. Służył w [[grupa Abradean]]. Profesor [[Kotara]], nauczyciel [[Zielone Piórko]].
 
 Jego autorstwa była słynna książka, która miała tylko 1 pustą stronę, ale po jej przewróceniu pojawiała się nowa, a stara znikała. Była to wielka zagwozdka dla magów jego spektrum, gdyż sądzono że wielka wiedza przyjdzie temu kto tę książkę "rozwiąże".
-Podczaj [[Miesiąc Imperialny]] w 1383 dowiedzieliśmy się od [[Calicus Deleh Diozie Tertusa]], że każdy Piórko miał swoja książkę, twierdząc że właśnie ta jest jedyna i oryginalna. Wiedział on to, gdyż "rozwiązał" jedną z tych książek. 
+Podczaj [[Miesiąc Imperialny]] w 1383 dowiedzieliśmy się od [[Calicus Tertusa]], że każdy Piórko miał swoja książkę, twierdząc że właśnie ta jest jedyna i oryginalna. Wiedział on to, gdyż "rozwiązał" jedną z tych książek. 
 Książkę taką zepsuła też [[Lucy Shealez]], próbując ją rozwiązać przez wymuszenie na niej pokazanie więcej niż 1 strony na raz swoimi zdolnościami, przez co książka wybuchła ogromną ilością stron i swoich kopii.
 
 ### Tysiące Piórek
