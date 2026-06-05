@@ -16,4 +16,4 @@ U znawców jej tematu przyjęło się mówić, że "Cisza jest [[Niema]]", cokol
 8. Cisza-Nigdzie ([[Visena Shealez]], "próba naprawienia" błędu Dalliana poprzez stabilizację zaistnienia Ciszy nie tak, jak powinna)
 9. Cisza-Wszędzie ([[Noara Schieberg]], właściwie to Siostra Noara, ostateczne zakończenie stabilizacji błędnie zaistniałej Ciszy)
 
-Wniosek: każde kolejne wcielenie Ciszy było kolejną próbą naprawienia tego, że Niema była uwięziona w Drzewie Przeznaczenia przez [[Esta la Rosa Maledetta]], tj. połączenia "wersji" tej istoty spowrotem/naprawienia samej siebie. Stąd teraz prawdopodobnie nie powinno być już kolejnych Cisz.
+Wniosek: każde kolejne wcielenie Ciszy było kolejną próbą naprawienia tego, że Niema była uwięziona w Drzewie Przeznaczenia przez [[Esta la Rosa Maledetta]], tj. połączenia "wersji" tej istoty z powrotem/naprawienia samej siebie. Stąd teraz prawdopodobnie nie powinno być już kolejnych Cisz.

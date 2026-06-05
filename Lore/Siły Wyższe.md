@@ -1,3 +1,7 @@
+---
+aliases:
+  - Absoluty
+---
 Istoty będące "ucieleśnieniem" konkretnych kolorów many. Nie bogowie, bardziej inkarnacje wartości/cech danego koloru.
 
 W Imperium aktualnie ucieleśnieni w małej formie jako ludzie aby móc mieć wpływ na wydarzenia związane z [[Estarosa]]:
@@ -8,5 +12,6 @@ W Imperium aktualnie ucieleśnieni w małej formie jako ludzie aby móc mieć wp
 - [[Iv]] - Patrisa
 - [[Psyh]] - Czesława Arkani
 - [[Nute]] - Inkarra
+- [[Vanta]] - Cisza
 
-[[Vorel]] i [[Vanta]] pewnie mają swoich ludzi, ale nie wiemy kto to.
+[[Vorel]] pewnie ma swojego człowieka, ale nie wiadomo kto to.

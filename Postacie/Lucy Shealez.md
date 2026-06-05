@@ -6,7 +6,7 @@ tags:
   - Decydujący
 aliases:
 ---
-Doktor magii Pyłu, żona [[Albia Rosa]], lider [[grupa Lucy]]. Jedna z [[Rozjemca Imperialny]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
+Doktor magii Pyłu, żona [[Albia Rosa]], lider [[grupa Lucy]]. Jedna z [[Rozjemca Imperialny]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka **Tearlacha Shealeza**, zaufanego Garghaisa. Jego śmierć (morderstwo) zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
 
 W ostatnich miesiącach podróżuje/podróżowała w [[grupa Lucy]].
 
@@ -16,9 +16,10 @@ Związana ze [[Świat Pyłu]] jako [[Siostra w Pyle]]. Posługuje się każdym [
 
 Jedna z pięciu decydujących o [[Pokój]].
 # Przygody
+- W czasie nauk akademickich jej największym rywalem w walce był **Arthur Taragain**, który zawsze był bardzo blisko pokonania jej ale nie udało się to tu ani razu.
 - Dużą część swojej młodości poświęciła na poszukiwania zaginionej kuzynki, [[Visena Shealez]]. W tym okresie spotkała też [[Cilla Scari|Calvara Taragain]].
 - Podczas wykonywania zadań dla Garghaisa, zaznajomiła się z [[Liamara Samir Romaba Akallaba]].
-- W [[Vazar]] dźgnęła [[Octavian|Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] Octaviana - dopóki nie zostanie z tego ogrodu wyciągnięty, nie będzie ponownie odtworzony w nowym Cyklu. 
+- W [[Vazar]] dźgnęła [[Octavian|Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] Octaviana. Był tak uwięziony, aż zmanifestował się, jako **Kryształ Rozmaz Krwi**. 
 # Przemyślenia nad pokojem
 “Od mojego przybycia do stolicy miesiąc temu wiele widziałam, wiele rzeczy zrozumiałam, przeanalizowałam i wyciągnęłam wnioski. I chyba po raz pierwszy w życiu sformułowały się moje poglądy w konkretny sposób. 
 

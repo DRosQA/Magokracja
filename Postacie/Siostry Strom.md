@@ -11,6 +11,6 @@ Połączenie z jedną z nich było przez wieki przekazywane wśród [[Imperium|L
 
 W dzisiejszych czasach jedna z sióstr Strom, która była obecna przy tworzeniu [[Eon]]ów ostatecznie została wchłonięta w Kryształowy Imperator Biały Cień. To połączenie było pewnie powodem, dla którego Natannes stał się częścią [[Biały Cień]] -> Strom zawsze dążyły do powrotu na łono swojego stwórcy, czując się porzuconymi w czasach, gdy Cień ignorował je w trakcie swojej krystalizacji.
 # Znane siostry Strom
-* siostra Cień, o imieniu obranym po swoim prawdziwym twórcy - jedna z twórczyń Eonów, realna liderka Północy, prowadząca "za rączkę" [[Natannes Heistrom]] do objęcia władzy w Imperium
-* siostra Halaike, odpowiedzialna za Korytarz Masek, który chronił przed wejściem do Sali Czarnej Kotary (w miejscowości dalekiej północy - Strom), gdzie Cień się krystalizował i chciał spokoju
-* siostra Khaina, nie wiadomo, jaka była jej przyczyna powstania, jednak można przypuszczać, że była obrońcą tajemnic północy, patrząc po ilości cudzej broni, jaką zdobyła na przestrzeni wieków
+* siostra **Cień**, o imieniu obranym po swoim prawdziwym twórcy - jedna z twórczyń Eonów, realna liderka Północy, prowadząca "za rączkę" [[Natannes Heistrom]] do objęcia władzy w Imperium
+* siostra **Halaike**, odpowiedzialna za Korytarz Masek, który chronił przed wejściem do Sali Czarnej Kotary (w miejscowości dalekiej północy - Strom), gdzie Cień się krystalizował i chciał spokoju
+* siostra **Khaina**, nie wiadomo, jaka była jej przyczyna powstania, jednak można przypuszczać, że była obrońcą tajemnic północy, patrząc po ilości cudzej broni, jaką zdobyła na przestrzeni wieków

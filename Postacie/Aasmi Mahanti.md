@@ -1,3 +1,3 @@
 Liderka grupy [[Poszukujące]] oraz nauczycielka grupy [[strażniczki Ojca Narodów]]. Jej dążeniem jest przewyższyć [[Iriand Augu]].
 
-Podczas [[Zjazd dyplomatyczny w Kronstadt]] jej strażnikiem (a jednocześnie turystycznym oprowadzaczem) jest [[Arthur Taragain]].
+Podczas [[Zjazd dyplomatyczny w Kronstadt]] jej strażnikiem (a jednocześnie turystycznym oprowadzaczem) jest **Arthur Taragain**.

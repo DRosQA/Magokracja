@@ -1,3 +1,8 @@
+---
+tags:
+aliases:
+  - Heinsterowcy
+---
 Utworzona przez ich lidera, grupa starająca się odtworzyć [[Arcykryształ Soye]]. Częścią ugrupowania było [[Bractwo Pokoju]], które odłączyło się z powodu różnic poglądów na rozwiązywanie spraw.
 # Znani magokraci
 * [[Antvel Heinster]] - lider Netheru

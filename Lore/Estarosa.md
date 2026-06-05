@@ -13,6 +13,7 @@ Jego twierdzeniem jest, że jako Sprytny "wyrzucił z siebie" zło, jako pełen 
 * [[Maygren]] - pilnował tak długo, jak mógł, aż do czasu, gdy nie miał siły robić tego samotnie
 * [[Scari]] - pilnował w czasie gdy [[Klasa Livonii]] uczęszczała do Uniwersytetu Imperialnego
 * [[Eimhrick]] - przymuszony przez Scariego, wyczuwalnie niechętny do tej pracy a jednocześnie przerażony perspektywą uwolnienia Estarosy z _wiązań_ (co nastąpiło) - być może, jest to jedno z ich kłamstw ?
+* [[Cisza]] - po 9tej iteracji Cisza wzięła za kark Estarosę, gdyż nie ufa Eimhrickowi
 
 ### Przedmioty Estarosy
 Przedmioty powiązane.
