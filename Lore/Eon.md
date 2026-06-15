@@ -16,4 +16,4 @@ Krystyna dała potrzebny do stworzenia eonów klucz, a potem poszła bronić ryt
 - jedna z [[Siostry Strom]] (ta połączona potem powrotnie z [[Kryształowy Imperator]] Cieniem)
 - [[Krystyna]]
 - [[Tertusa]]
-- [[An Ariq]]
+- [[Dhim Shayat|An Ariq]]

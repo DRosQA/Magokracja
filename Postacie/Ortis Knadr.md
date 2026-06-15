@@ -1,3 +1,0 @@
-[[Orton Knadr]]
-[[Gethis Attaliate]]
-

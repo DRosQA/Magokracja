@@ -37,5 +37,5 @@ Derniere stał się jego najlepszym przyjacielem, gdyż Nelson jako jedyny wyci�
 ### Rytuał
 Rytuał czaszek został na razie "wstrzymany" tj. zapobiegliśmy jego dokończeniu przez jego zaburzenie. Zwój i czaszki pozostaja w Czerwonej Jaskini, zapieczętowane "nićmi" Albii i Sympatii.
 
-Sądzimy, że Planem A było, że rytuał ten miała zakończyć przez jego zaburzenie wściekła [[Iuline Phille Dirbair Shayat]] po odkryciu mordu na swojej wiosce i odnalezieniu ciała/czaszki swojego ukochanego brata wśród czaszek tego rytuału.
+Sądzimy, że Planem A było, że rytuał ten miała zakończyć przez jego zaburzenie wściekła [[Iuline Shayat]] po odkryciu mordu na swojej wiosce i odnalezieniu ciała/czaszki swojego ukochanego brata wśród czaszek tego rytuału.
 Ponieważ zwój i czaszki wciąż istnieją i rytuał można domknąć, pewnie isntnieją jakieś Plany B+ na sprowokowanie Iuline albo kogoś innego.

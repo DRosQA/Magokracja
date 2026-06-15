@@ -4,7 +4,7 @@ tags:
   - Mag
 ---
 Aktualny [[Imperator]]. Licencjat magii Zmysłów.
-Zakochany w [[Iuline Phille Dirbair Shayat]]. Mąż [[Besine de Korylion]].
+Zakochany w [[Iuline Shayat]]. Mąż [[Besine de Korylion]].
 Dawniej host [[Siostry Strom|Strom]] a potem część [[Biały Cień]].
 Obecnie wyrwany/odcięty od obu.
 

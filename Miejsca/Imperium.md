@@ -77,50 +77,50 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 14. 1383 - czasy obecne: [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Kronstadt]].
 
 ### Wielkie rody
-* Comnouve. Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr.
-+ Heistrom. Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’.
-+ Bruinia. Cel: wzmacnianie armii, marynarki oraz siły magów.
-+ Augu (lud Południa, na słowo honoru część Imperium). Cel: wzmocnienie bezpieczeństwa granic dalekiego południa.
-+ Tertusa. Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza.
-+ Soyescari. Cel: zdobywanie jak najlepszej pozycji w Imperium, kierowanie losami Imperium.
-+ Veleach. Cel: rozwój nauki, architektury, sztuki, kultury.
-+ Pretres. Cel: dalsza ekspansja na ziemie ludów pustyń.
-+ Shealez. Cel: zmniejszenie kontroli Imperium nad życiem mieszkańców.
-+ Schieberg. Cel: utrzymanie integralności Imperium.
-+ Maygren. Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów.
++ **Comnouve**. Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr.
++ **Heistrom**. Cel: odkrywanie tajemnic świata, szczególnie magii starożytnych i świata ‘zza Kotary’.
++ **Bruinia**. Cel: wzmacnianie armii, marynarki oraz siły magów.
++ **Augu** (lud Południa, na słowo honoru część Imperium). Cel: wzmocnienie bezpieczeństwa granic dalekiego południa.
++ **Tertusa**. Cel: kontrola Imperium poprzez kontrolę przepływu pieniądza.
++ **Soyescari**. Cel: zdobywanie jak najlepszej pozycji w Imperium, kierowanie losami Imperium.
++ **Veleach**. Cel: rozwój nauki, architektury, sztuki, kultury.
++ **Pretres**. Cel: dalsza ekspansja na ziemie ludów pustyń.
++ **Shealez**. Cel: zmniejszenie kontroli Imperium nad życiem mieszkańców.
++ **Schieberg**. Cel: utrzymanie integralności Imperium.
++ **Maygren**. Cel: wzmocnienie wymiany handlowej z ludem za Morzem Wichrów.
 
 ### Mniejsze rody
-* Alleinas (podwładni Comnouve).
-* Plateur (podwładni Comnouve).
-* Glyieus (podwładni Comnouve).
-* Nouvell (podwładni Comnouve).
-* Sanler (podwładni Heistrom).
-* Berggrath (podwładni Heistrom).
-* Rikellen (podwładni Heistrom).
-* Plieach (podwładni Bruinia).
-* Casanais (podwładni Bruinia).
-* Tamcibay (podwładni Augu, lud Południa).
-* Kidapis (podwładni Augu, lud Południa).
-* Nasizar (podwładni Tertusa).
-* Tegeura (podwładni Tertusa).
-* Galech (podwładni Tertusa).
-* Mumes (podwładni Tertusa).
-* Vatounet (podwładni Soyescari).
-* Deviscari (podwładni Soyescari).
-* Glieva (podwładni Veleach).
-* De Korylion (podwładni Pretres).
-* Attaliate (podwładni Pretres).
-* Di Lauberg (podwładni Pretres).
-* Taragain (podwładni Shealez).
-* Torvach (podwładni Schieberg).
-* Svader (podwładni Schieberg).
-* Horenquist (podwładni Schieberg).
-* Von Alvibraten (podwładni Maygren).
-* Hask (podwładni Maygren).
-* Erimt (podwładni Maygren).
+* **Alleinas** (podwładni Comnouve).
+* **Plateur** (podwładni Comnouve).
+* **Glyieus** (podwładni Comnouve).
+* **Nouvell** (podwładni Comnouve).
+* **Sanler** (podwładni Heistrom).
+* [[Berggrath]] (podwładni Heistrom).
+* **Rikellen** (podwładni Heistrom).
+* **Plieach** (podwładni Bruinia).
+* **Casanais** (podwładni Bruinia).
+* **Tamcibay** (podwładni Augu, lud Południa).
+* **Kidapis** (podwładni Augu, lud Południa).
+* **Nasizar** (podwładni Tertusa).
+* **Tegeura** (podwładni Tertusa).
+* **Galech** (podwładni Tertusa).
+* **Mumes** (podwładni Tertusa).
+* **Vatounet** (podwładni Soyescari).
+* **Deviscari** (podwładni Soyescari).
+* **Glieva** (podwładni Veleach).
+* **De Korylion** (podwładni Pretres).
+* **Attaliate** (podwładni Pretres).
+* **Di Lauberg** (podwładni Pretres).
+* **Taragain** (podwładni Shealez).
+* **Torvach** (podwładni Schieberg).
+* **Svader** (podwładni Schieberg).
+* **Horenquist** (podwładni Schieberg).
+* **Von Alvibraten** (podwładni Maygren).
+* **Hask** (podwładni Maygren).
+* **Erimt** (podwładni Maygren).
 
 ### Odszczepieńcy
-* Lud Siły (lud Południa, chcą dołączyć do [[Ludy Króla Królów|ludów Piasków]]).
-* Ludy Północy (luźno podwładni Rikellen i Berggrath).
-* klan Strom (luźno podwładni Heistrom).
-* Struniarze (obraźliwa nazwa na jeden z klanów Ludu Strun, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt).
+* Lud Siły (lud Południa, który oficjalnie jest podwładnymi Augu, ale chcą dołączyć do [[Ludy Króla Królów|ludów Piasków]]).
+* Ludy Północy (obecnie luźno podwładni Rikellen i Berggrath, dawno temu klanowi Strom).
+* [[Siostry Strom|klan Strom]] (obecnie luźno podwładni Heistrom, z czym w przeszłości to Heistrom wyodrębnili się z klanu Strom, mocno zawiązując się w politykę Imperium i stając jednym z Wielkich Rodów).
+* [[Dhim Shayat|Struniarze]] (obraźliwa nazwa na jeden z klanów ludu **Strun**, który emigrował na obecne wschodnio-południowe tereny Pretres - wybici, obecnie pozostała tylko jedna wioska w górach Kronstadt).

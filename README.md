@@ -1,5 +1,5 @@
-# Aby ściagnąć:
-- Kliknij zielony przycisk "Code" i wybierz "Download ZIP". Ściagnie to najnowszą wersję. Kiedy pliki zostały ostatnio uaktualnione jest widoczne ponad tabelką.
+# Aby ściągnąć:
+- Kliknij zielony przycisk "Code" i wybierz "Download ZIP". Ściągnie to najnowszą wersję. Kiedy pliki zostały ostatnio uaktualnione jest widoczne ponad tabelką.
 
 # Aby otworzyć:
 - Wejdź na https://obsidian.md/ i ściągnij Obsidian na Windows (darmowe). Zainstaluj. 

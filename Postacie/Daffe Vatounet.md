@@ -6,7 +6,7 @@ tags:
 ---
 Żak Życia, giermek w chorągwi Imperialnej.
 
-Posiada zdolność/[[manachoroba]], przez którą przynosi ludziom dookoła pecha i powoduje, że cokolwiek chcą zrobić - nie udaje się. Dzięki temu przez długi czas on i jego ekipa (dziś dowodzona przez [[Bonirius Emerald Pallentos|Bonirius]]) byli nieschwytywalni.
+Posiada zdolność/[[manachoroba]], przez którą przynosi ludziom dookoła pecha i powoduje, że cokolwiek chcą zrobić - nie udaje się. Dzięki temu przez długi czas on i jego ekipa (dziś dowodzona przez [[Bonirius|Bonirius]]) byli nieschwytywalni.
 
 Chciał m.in. napaść na karawanę Imperatorowej, prowadzoną przez Lucy Schealez, ale zarzucił ten pomysł po jednej z jej potyczek z rebelią. Prawdopodobnie zrozumiał wtedy, że rebelia gnije od środka i nie jest tą sprawą, o którą chciał walczyć.
 Ostatecznie przyznał się do swoich "sekretów" i został zatrudniony przez Boniriusa aby móc kontynuować przydawać się porządnej sprawie.

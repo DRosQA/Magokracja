@@ -5,7 +5,7 @@ tags:
   - Psyh
 ---
 Jeden z [[Łowcy Imperialni]], licencjat magii Zmysłów. Podróżuje z [[Lucy Shealez]]. 
-Jego Melodią jest [[Ogrody Rosa|Lilarosa]], a Powojem [[Abis-Lucio]]. Były uczeń/ukochany [[Lilianna Schieberg-Rosa]], pracodawca/były właściciel [[Bonirius Emerald Pallentos|Bonirius]].
+Jego Melodią jest [[Ogrody Rosa|Lilarosa]], a Powojem [[Abis-Lucio]]. Były uczeń/ukochany [[Lilianna Schieberg-Rosa]], pracodawca/były właściciel [[Bonirius|Bonirius]].
 
 Brat [[Luille Alvibraten]] i [[Leofast Alvibraten]].
 Jego ojciec, Xavrik, był kiedyś jednym z [[Asasyni Imperialni]]; jego zadaniem było pilnowaniem matki Lucjusza, Melgerd, ze względu na jej silne połączenia z religią wyznającą [[Kotara]].

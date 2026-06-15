@@ -2,6 +2,6 @@
 tags:
   - Konstrukt
 ---
-Golem stworzony przez [[Luca Attaliate]], aby zastąpić jego lewe ramię który był pierwszym stworzonym przez niego samoświadomym golemem. 
+Golem stworzony przez [[Luca Attaliate]], aby zastąpić jego lewe ramię, który był pierwszym stworzonym przez niego samoświadomym golemem. Główny rozwój tej świadomej maszyny nastąpił po odnalezieniu przez [[grupa Lucy]] schematów golema "od" [[Nasizar Tertusa]] (będącymi schematami, jak on był zbudowany). Jeden po drugim, Lewa zyskiwała kolejne _rdzenie schematu Nasizara_ aż osiągnęła moment "stania się prawdziwym człowiekiem" :)
 
-Istnieje podejrzenie, że z jakiegoś powodu powstało także jego lustrzane odbicie, Prawa, będące "świadomością" _prawej_ ręki Luci. 
+Istnieje podejrzenie, że powstało także jego lustrzane odbicie, **Prawa**.

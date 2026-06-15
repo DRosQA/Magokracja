@@ -9,16 +9,16 @@ Pięć interstelarnych Sił do tej pory (błędnie) utożsamianych z Melodiami. 
 Głos [[Luille Alvibraten]], Symbol lotnego Stanu Many.
 
 Dominująca istota, przekonuje innych do ustąpienia z drogi.
-Podejrzewamy, że to ona steruje Luillą, a nie jest jej odbiciem, jak zwykłe Melodie są dla istot.
+Podejrzewamy, że ona steruje Luillą, a nie jest "decyzyjnym partnerem".
 
-Skoro Niema i Delirum są źródłami jakieś unikatowej właściwości u ludzi to Adelanta pewno też jest.
+Adelanta odpowiada za to, że w ogóle istoty materialne mają idee, pomysłowość, myślenie abstrakcyjne wykraczające daleko ponad ich istnienie.
 
 ### Scientia Incariante
 Głos [[Hesefa Pretres]], Symbol ciekłego Stanu Many. Długi czas Hesefa jej nie słyszała ze względu na [[manipulacja]].
 
 Działa na Hesefę bardzo uspokajająco, najpierw myśli potem działa.
 
-Skoro Niema i Delirum są źródłami jakieś unikatowej właściwości u ludzi to Scientia pewno też jest.
+Scientia odpowiada za to, że w ogóle istoty materialne mogą mieć magię, zdolność do korzystania z przepływu od many (przez magię) do materii.
 
 ### Justinian
 Głos [[Ava Schieberg]] i [[Kai Tamcibay]], Symbol stałego Stanu Many.
@@ -27,7 +27,7 @@ Lider [[Artefaktyczne Społeczeństwo]], odbicie Justyny Nouvell-Rikkellen, cór
 Bardzo mocno poszukuje Pokoju, dążąc do niego poprzez dyplomację (brak rozlewu krwi).
 W przyszłości, gdzie wygrywa plan [[Lucy Shealez]] lub [[Noara Schieberg]] jest [[Imperator]]em, poprzednikiem Avy i następcą po [[Natannes Heistrom]].
 
-Skoro Niema i Delirum są źródłami jakieś unikatowej właściwości u ludzi, to Justinian pewno też jest.
+Justine jest twórcą ***wodospadu gwiazd*** złotego [[Pył]]u, samej idei [[Strumień]]ia, prostego poczucia upływu czasu a w wyższej formie istnienia - przyczynowości.
 
 ### Delirum
 "Chodzi" za Eimrickiem, który dzięki temu udawał, że ona jest jego Melodią, ale obecnie wiadomo, że to jakiegoś rodzaju przykrywka.

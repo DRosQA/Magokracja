@@ -14,7 +14,7 @@ Przeciw liderowi Lokajów Kotary, [[Matthindrik Heistrom]], miał stanąć Calic
 
 Przeciw [[Lambert|Oscailowi]] stanął [[Gilbert Knadr]]. Walka została przerwana przez [[Ogrody Rosa|Edelrosa]], która uspokoiła Oscaila w tańcu i przekonała do poddania się.
 
-[[grupa Lucy]] stanęła na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z częścią najemnej grupy Pallentos, wrogami [[Bonirius Emerald Pallentos]].
+[[grupa Lucy]] stanęła na przeciw jednemu z "wilczych braci" związanych z [[Russ Berggrath]] mimo że sam Russ stał po stronie Imperialistów. Okazało się później, że była to iluzja, mająca ich zająć. Walczyli też z częścią najemnej grupy Pallentos, wrogami [[Bonirius]].
 
 ### Konsekwencje
 W wyniku wydarzeń w sali tronowej, wszyscy Rozjemcy i inni ważni ludzie ostatecznie zaakceptowali Natannesa jako Imperatora.

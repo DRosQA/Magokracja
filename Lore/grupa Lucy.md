@@ -5,4 +5,3 @@ Grupa osób, skupiona wokół liderki, [[Lucy Shealez]], która była/jest w ten
 - [[Lucjusz Alvibraten]]
 - [[Luca Attaliate]] - już nie
 - [[Ciaran Conejero]]
-- 

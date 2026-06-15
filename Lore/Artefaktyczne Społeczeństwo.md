@@ -2,11 +2,11 @@
 tags:
   - Iv
 ---
-Część warstwy Iv/grupa która powstała po uwolnieniu [[Eon]]ów od [[Klucze Nasizara]]. 
+Część warstwy Iv/grupa która powstała po uwolnieniu [[Eon]]ów od [[Klucze Nasizara]], gdy na warstwie Devi (konkretnie w płytkiej, fizycznej części, mieście Vazar) zaistniało _białe drzewo_ Artefaktycznych.
 
-Jego członkowie mają natywne formy energetyczne jak istoty [[Iv]], niezależnie od tego, kim byli przed dołączeniem. Ci które były kiedyś eonami na [[Devi]] zwykle "ubierają" golemy z [[eonmetal]]. Pozostałe zwyczajnie kształtują swoją energię w wybraną formę. Na Iv/na terenie Artefaktycznego Społeczeństwa posługują się swoim "nowym" imieniem i posiadają związane z nim moce, tak samo jak inne natywne istoty Iv, tj.  _są_ tubylcami Iv.
+Jego członkowie mają natywne formy energetyczne jak istoty [[Iv]], niezależnie od tego, kim byli przed dołączeniem. Ci, które były kiedyś eonami na [[Devi]] zwykle "ubierają" golemy z [[eonmetal]]. Pozostałe zwyczajnie kształtują swoją energię w wybraną formę. Na Iv/na terenie Artefaktycznego Społeczeństwa posługują się swoim "nowym" imieniem i posiadają związane z nim moce, tak samo jak inne natywne istoty Iv, tj.  _są_ tubylcami Iv.
 
-Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze lub nawet zostanie kompletnie wymazany ze [[Strumień]], jego manifestacja w Artefaktycznym pozostanie i będzie dalej "żyć" i funkcjonować. 
+Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze lub nawet zostanie kompletnie wymazany ze [[Strumień]], jego manifestacja w Artefaktycznym pozostanie i będzie dalej "żyć" i funkcjonować.
 
 # Członkowie
 - [[Steliae|Justinian]], typ: Unity
@@ -56,8 +56,8 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - [[Spójność Victoria|Victoria Nova]], typ: Nova/Soye/Inżynier-Tetrahedron
 - **Heinster**, typ: Soye/Budowniczy
   Manifestacja [[Antvel Heinster]].
-- [[Luca Attaliate|Nova Tenebris]], typ: Inżynier-Octahedron/Osobliwość
-  Przestał istnieć w ramach wstęgi Strumienia (która została zakończona)
+- **Nova Tenebris** (wróg Nova/Luki Ataliatte), typ: Inżynier-Octahedron/Osobliwość
+  Przestał istnieć w ramach uciętej, bocznej wstęgi Strumienia
 - **Umiejętność**, typ: Budowniczy
   Manifestacja [[Magokraci Netheru|Leisario nec Ferrum]].
 - **Momentum**, typ: Budowniczy

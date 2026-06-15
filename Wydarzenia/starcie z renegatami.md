@@ -1,0 +1,1 @@
+Wydarzenie w posiadłości **Beaucus**.

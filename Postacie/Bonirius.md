@@ -2,7 +2,7 @@
 tags:
   - człowiek
 aliases:
-  - Bonirius
+  - Bonirius Emerald Pallentos
 ---
 W przeszłości niewolnik, dzisiaj pracownik [[Lucjusz Alvibraten]].
 
@@ -10,12 +10,7 @@ Do niewolnictwa trafił sprzedany przez lidera [[najemnicy Pallentos]], swojego 
 
 Obecnie dowódca grupy "najemniczej", która w przeszłości robiła bandytkę dla [[rebelia]] pod przewodnictwem [[Daffe Vatounet]].
 
-### Grupa Boni
-- **Bonirius**
-- [[Ciaran Conejero]]
-- **Daffe** "Kły" Vatounet
-- **Amayen** "Tytoń"
-- **Desdaine** "Ściana"
-- **Foltrine** "Gwizdek"
-- **Iulette** "Wędka"
-- [[Kentoff McMardan]] "Czarne ostrze"
+Lider [[grupa Boni]].
+
+
+
