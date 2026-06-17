@@ -18,7 +18,7 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Albia Rosa]]
 - [[grupa Lucy]]
 - [[grupa Antonia]]
-- [[Luca Attaliate|Nova Tenebria]]
+- [[Luka Attaliate|Nova Tenebria]]
 - [[Eclipse]] - nie tyle co zmanipulowany, co wykorzystano jego tożsamość, by manipulować
 
 ### Kłamstwa Estarosy

@@ -4,4 +4,6 @@ Grupa osób, skupiona wokół liderki, [[Antonia Bruinia]], która była/jest w 
 - Antonia Bruinia
 - [[Lilianna Schieberg-Rosa]]
 - [[Hesefa Pretres]]
+
+### Niektóre wydarzenia
 - 

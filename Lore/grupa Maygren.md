@@ -4,4 +4,6 @@ Grupa osób, skupiona wokół lidera, [[Maygren]]a, która była/jest w ten czy 
 - Maygren
 - [[Heigem Strom]]
 - [[Eaulie Rosa]]
+
+### Niektóre wydarzenia
 - 

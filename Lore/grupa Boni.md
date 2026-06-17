@@ -9,3 +9,6 @@ Grupa osób, skupiona wokół lidera, [[Bonirius]], która była/jest w ten czy 
 - **Foltrine** "Gwizdek"
 - **Iulette** "Wędka"
 - [[Kentoff McMardan]] "Czarne ostrze"
+
+### Niektóre wydarzenia
+- 

@@ -38,7 +38,7 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
   Echo [[Floril di Lauberg]] w Artefaktycznych
 - **Niezłomność**, typ: Budowniczy
   Wcześniej eon.
-- [[Luca Attaliate|Nova]], typ: Nova/Harmonia/Halo
+- [[Luka Attaliate|Nova]], typ: Nova/Harmonia/Halo
 - **Nova Alba**, typ: Nova/Harmonia
   Jeden z Artefaktorów, ludzi nauczonych rozbłysku: Albii Rosa.
 - **Sympatia Alba**, typ: Unity

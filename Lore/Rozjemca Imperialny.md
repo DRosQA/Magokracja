@@ -6,25 +6,26 @@ Istnieje też instytucja **Rozjemcy Mianowanego**, tj. osoby wykonującej częś
 
 # Znani Rozjemcy
 - [[Lucy Shealez]]
-- **L'aemon "Jej kwaśność" Nouvell-Rikkelen**
+- **L'aemon** "Jej kwaśność" Nouvell-Rikkelen
   Niejaka _Lord Imperialnej Fortecy_, cokolwiek to znaczy.
-- **Beson Fonche**
+- **Beson** Fonche
   Pan na zamku Dardon, z własnej woli wciąż marszałek polowy Złotej Gwardii.
 - [[Silcair Hoppenberg]]
-- **Sareed Nahak Souaz**
+- **Sareed** Nahak Souaz
   Przyjaciel Silcair'a, technomag, który przywrócił do funkcjonalności [[Spójność Ank'ara|Calicio]], proces.
-- **Ali Ogedba Raffani** 
+- **Ali** Ogedba Raffani 
   Lider oazy Makabba i haremu swego imienia.
-- **Hergeld Gasshoffen**
+- **Hergeld** Gasshoffen
   Pani na zamku Gerdan, z własnej woli wciąż sierżant Chorągwi Imperium.
 - [[Abradean Garghais]] (niby emerytowany)
 - [[Markus Pretres]]
 - [[Magred Puyol]]
 - [[Russ Berggrath]]
-- **Bwati Sulan Asa Turukibe**
+- **Bwati** Sulan Asa Turukibe
   Rozjemca na ludy Południa (nie mówi się tego głośno, ale podobno to figurant pod butem [[Iriand Augu]])
 - [[Matthindrik Heistrom]]
-- **Constaliyar Soyescari**
+- **Constaliyar** Soyescari
   Głowa rodu, książę Marte, prof. s. Świa. (emerytowany Pierwszy Rozjemca, przed Matthindrikiem). Przekazał swój Łańcuch Rozjemcy przyjezdnemu Sędziemu Pokoju.
-- **Domline Deviscari**
+  
+- **Domline** Deviscari
   Rozjemca Mianowany przez Lucy Shealez na sprawy miasta [[Kronstadt]].

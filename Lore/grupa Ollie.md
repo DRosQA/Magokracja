@@ -5,4 +5,6 @@ Grupa osób, skupiona wokół lidera, [[Snupopiół|Ollie Berggrath]], która by
 - [[Melodia|Charles Vatounet]]
 - [[Calicus Tertusa]] - już nie
 - [[Melodia|Laura Comnouve]]
+
+### Niektóre wydarzenia
 - 

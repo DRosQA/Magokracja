@@ -5,4 +5,6 @@ Grupa osób, skupiona wokół lidera, [[Abradean Garghais]], która była/jest w
 - [[Iriand Augu]] (jako Leypia Mekontion) - już nie
 - [[Niebieskie Piórko]] - już nie
 - [[Dallian Plateur]]
+
+### Niektóre wydarzenia
 - 

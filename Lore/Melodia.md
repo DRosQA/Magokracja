@@ -21,7 +21,7 @@ Po uwolnieniu [[Niema|Niemej]] okazało się, że każda Melodia jest jej aspekt
 
 Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo kontrowersyjnym procesie "rośnięcia kapustek". Obecnie przebywają  w [[Posiadłość Lucjusza]].
 
-- **Anilla V**, kiedyś w służbie [[Luca Attaliate]], obecnie pracuje jako technolog.
+- **Anilla V**, kiedyś w służbie [[Luka Attaliate]], obecnie pracuje jako technolog.
 - **Laura** (Comnouve) od [[Marek Augu]], młodsza siostra Charles'a i [[Ogrody Rosa|Edelrosa]]'y.
 - **Charles** (Vatounet), starszy brat Laury, młodszy [[Ogrody Rosa|Edelrosa]]'y.
 - **Bridgette**, szambelanka.

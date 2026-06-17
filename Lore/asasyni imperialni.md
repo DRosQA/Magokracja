@@ -3,7 +3,7 @@ Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemca Imperialn
 
 Obecnie "połączeni" z [[Artefaktyczne Społeczeństwo]] dzięki sztyletom projektu Luci, które pozwalają im identyfikować się nawzajem jak dotychczasowe sztylety asasyńskie, ale także kontaktować się z przypisanym Artefaktycznym oraz wyjmować sprzęt z ich przestrzeni w Iv.
 # Znani członkowie
-- [[Luca Attaliate]]
+- [[Luka Attaliate]]
 - [[Pelona Tegeura]]
 - [[Dallian Plateur]]
 - [[Fleura Knadr]]

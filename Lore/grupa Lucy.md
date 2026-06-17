@@ -3,5 +3,8 @@ Grupa osób, skupiona wokół liderki, [[Lucy Shealez]], która była/jest w ten
 ### Skład
 - Lucy Shealez
 - [[Lucjusz Alvibraten]]
-- [[Luca Attaliate]] - już nie
+- [[Luka Attaliate]] - już nie
 - [[Ciaran Conejero]]
+
+### Niektóre wydarzenia
+- 
