@@ -56,7 +56,7 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - [[Spójność Victoria|Victoria Nova]], typ: Nova/Soye/Inżynier-Tetrahedron
 - **Heinster**, typ: Soye/Budowniczy
   Manifestacja [[Antvel Heinster]].
-- **Nova Tenebris** (wróg Nova/Luki Ataliatte), typ: Inżynier-Octahedron/Osobliwość
+- **Nova Tenebris** (wróg Nova/Luki Attaliate), typ: Inżynier-Octahedron/Osobliwość
   Przestał istnieć w ramach uciętej, bocznej wstęgi Strumienia
 - **Umiejętność**, typ: Budowniczy
   Manifestacja [[Magokraci Netheru|Leisario nec Ferrum]].

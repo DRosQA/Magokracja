@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ortis Knadr
+  - Orthis Knadr
   - Skrobek
   - Rosenblitz
 tags:
@@ -21,10 +21,10 @@ Pole bitwy odwiedził ówczesny Pierwszy Łowca **Gerard [[Scari]]**. Grabarze n
 
 Podczas podróży (na polecenia Gerarda), Orton ma poczucie, że rozdwaja mu się osobowość, jednak ciężko realnemu zombie stwierdzić, co jest właściwe w jego obecnym stanie a co nie. Dopiero wspólna wyprawa (w jednej z bocznych iteracji Strumienia) z [[Luka Attaliate]] i [[Ogrody Rosa|Edelrosą]] uświadamia mu, że jest w nim druga jaźń. Rozpoczęła się fuzja, która okazała się bardzo zgrana, dopasowując obie jaźnie, praktycznie rozwijając wolę. Dzięki Luce i Edelrosie, Orton jest w stanie nazwać i zrozumieć tą jaźń - Gethis, bliski Luce, który zniknął w kłębie Pyłu.
 
-_Soyescari_ wyrusza w dalszą podróż z [[grupa Lucy]], trafiając do [[Vazar]], gdzie z powodu objawienia się _białego drzewa_ od [[Artefaktyczne Społeczeństwo]] ich dwujaźń decyduje się na stworzenie **Rosenblitz'a**, jako ich przedłużenia, golema, jakim chcieliby być. W tym mieście też kończy się ich historia, gdyż ciało i imię Ortona oraz Gethisa zanikają na zawsze w Białym Pyle. Podczas gdy esencja Ortona odchodzi w poetyckim uścisku swej wybranki serca, Joali, esencja Gethisa pozostaje w fizyczności Rosenblitz'a (do czasu jego unicestwienia).
+_Soyescari_ wyrusza w dalszą podróż z [[grupa Lucy]], trafiając do [[Vazar]], gdzie z powodu objawienia się _białego drzewa_ od [[Artefaktyczne Społeczeństwo]] ich dwujaźń decyduje się na stworzenie **Rosenblitz'a**, jako ich przedłużenia, golema, jakim chcieliby być. W tym mieście też kończy się ich historia, gdyż ciało i imię Ortona oraz Gethisa zanikają na zawsze w Białym Pyle, podczas [[starcie z Orthisem]]. Gdy esencja Ortona odchodzi w poetyckim uścisku jego nieodwzajemnionej miłości, Joali, esencja Gethisa pozostaje w fizyczności Rosenblitz'a (do czasu jego unicestwienia).
 
-### Ortis
-Esencje (po zniszczeniu ciał) tak Ortona jak potem Gethisa trafiają na warstwę [[Soye]], rzeczywistości siły woli, przed [[Sędzia|Sędziego Wyższości]] natywnego dla tej warstwy. Jest prywatną tajemnicą, co stało się między Sędzią a ich esencjami, jednak ich debata powoduje zaistnienie Ortisa, istoty zmierzającej do sięgnięcia po sam tron Soye. W bardzo złowieszczych warunkach droga Ortisa zderza się z drogą byłych towarzyszy z grupy Lucy, gdzie pod sam koniec starcia między nimi, Ortis decyduje się nie robić ostatecznego kroku ku Władzy, pokonując tak siebie, przełamując klątwę powiedzenia "pełna władza korumpuje całkowicie".
+### Orthis
+Esencje (po zniszczeniu ciał) tak Ortona jak potem Gethisa trafiają na warstwę [[Soye]], rzeczywistości siły woli, przed [[Sędzia|Sędziego Wyższości]] natywnego dla tej warstwy. Jest prywatną tajemnicą, co stało się między Sędzią a ich esencjami, jednak ich debata powoduje zaistnienie Orthisa, istoty zmierzającej do sięgnięcia po sam tron Soye. W bardzo złowieszczych warunkach droga Orthisa zderza się z drogą byłych towarzyszy z grupy Lucy, podczas [[starcie z Orthisem]], gdzie pod sam koniec Orthis decyduje się nie robić ostatecznego kroku ku Władzy, pokonując tak siebie, przełamując klątwę powiedzenia "pełna władza korumpuje całkowicie". Choć Orthis wydawał się być pod wpływem [[manipulacja]], to raczej stał się jednym z manipulujących (z własnej woli), ale przyczyna jest do tej pory niejasna.
 
 ### Krystalizacja
-Ortis nie wstępując na najwyższe podium pokonuje siebie; możliwe, że to była próba Sędziego (a może samej warstwy). Z esencji Ortona formuje się [[Kryształowy Imperator|Rosenblitz A]], idealny kryształ "ogrodnik" [[Ogrody Rosa|Ogrodu Aon]] a Gethis ponownie zostaje ucieleśniony, jako [[Gethis Attaliate|Rosario]], by wspólnie mogli kontynuować swoje prywatne zamierzenie. Odtąd Rosenblitz A zaistniał, jako tajemnicza istota, która sama nie stroni od testowania woli innych.
+Orthis nie wstępując na najwyższe podium pokonuje siebie; możliwe, że to była próba Sędziego (a może samej warstwy). Z esencji Ortona formuje się [[Kryształowy Imperator|Rosenblitz A]], idealny kryształ "ogrodnik" [[Ogrody Rosa|Ogrodu Aon]] a Gethis ponownie zostaje ucieleśniony, jako [[Gethis Attaliate|Rosario]], by wspólnie mogli kontynuować swoje prywatne zamierzenie. Odtąd Rosenblitz A zaistniał, jako tajemnicza istota, która sama nie stroni od testowania woli innych.

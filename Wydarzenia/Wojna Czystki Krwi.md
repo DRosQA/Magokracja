@@ -16,7 +16,7 @@ Czystki dokonano w imię utrzymywania tajemnic politycznych.
 ### Konsekwencje
 Delegalizacja i demonizacja magii Spektrum Strun na terenach [[Imperium]]. Mimo tego, wielu możnych utrzymuje w tajemnicy podwładnych im Strunowców, czasem jako źródło informacji, czasem jako doskonałych muzyków. 
 
-W 879 po bogach, ówczesny Imperator zlitował się nad Strunowcami pozostajacymi w Imperium i wydał dekret umożliwiający im legalną egzystencję, ale ograniczoną do [[Wioska W Górach|jednej miejscowości]].
+W 879 po bogach, ówczesny Imperator zlitował się nad Strunowcami pozostajacymi w Imperium i wydał dekret umożliwiający im legalną egzystencję, ale ograniczoną do [[wioska Strun|jednej miejscowości]].
 
 > Roku istnienia Imperium 5-tego, to jest roku po bogach 879.
 > 

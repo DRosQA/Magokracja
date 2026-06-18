@@ -8,4 +8,4 @@ Według "wizji" (echo jego melodii współdzielonej z [[Alexandra Komnena]]) Cia
 
 Jego drugie powstanie nie zostało zakończone ponieważ [[Komnen Merdrada Attour Bruinia]] samotnie nie miał dość [[Soye|woli]].
 
-Jest wielce prawdopodobne, że [[Orton Knadr|Ortis Knadr]] próbował sięgnąć po taki stopień woli, jakiego brakło Komnenowi, by osiągnąć dokończony Arcykryształ.
+Jest wielce prawdopodobne, że [[Orton Knadr|Orthis Knadr]] próbował sięgnąć po taki stopień woli, jakiego brakło Komnenowi, by osiągnąć dokończony Arcykryształ.

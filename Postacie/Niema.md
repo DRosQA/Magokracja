@@ -8,7 +8,7 @@ Jest mocne podejrzenie, że Niema to Melodia Esta la Rosa Maledetta, zwanego prz
 
 Po uwolnieniu Niema wspomniała o trzech istotach, które są z wydarzeniami wokół niej mocno związane: [[Esta la Rosa Maledetta|Sprytnym]], Wrogim (inna osoba niż [[Wróg]]?) i [[Pokój|Ciężkim]] (gdzie każda z wymienionych istot jest ściśle odrębna). Choć była ona bardzo niechętna do jakiejkolwiek interakcji z Estarosą, ostatecznie Ciaran (przekonany przez Lamberta, gdy starał się pogodzić skłóconych) dosłownie rzuca Estarosą w Niemą, co inicjuje jej "niemą furię", uzewnętrznienie Ciszy, ale też przekazanie wiedzy prosto z Lune (lewa dłoń Estarosy). Po tej interakcji wydaje się, że nagle Niema jest super pozytywna.
 
-Coś o niej wiedzieli Struniarze w [[Wioska W Górach]] - jest to jeden z powodów, czemu byli na celowniku wielu osób/sił.
+Coś o niej wiedzieli Struniarze w [[wioska Strun]] - jest to jeden z powodów, czemu byli na celowniku wielu osób/sił.
 
 ### Cytat Niemej
 Potencjalnie do [[Wróg]], teraz wiadomo, że do Esta la Rosa Maledetta, jej "wroga" (mocno prawdopodobne, że nie chodzi tu o "Wrogiego").
