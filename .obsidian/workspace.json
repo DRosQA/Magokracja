@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6aae27fbe9fed68",
+        "id": "63af990f42d9ee6d",
         "type": "tabs",
         "children": [
           {
-            "id": "2dcfb63035858201",
+            "id": "8a340cadfd254f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miejsca/Vazar.md",
+                "file": "Wydarzenia/starcie z Orthisem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vazar"
+              "title": "starcie z Orthisem"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hask",
+                "query": "rosenblitz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,34 +167,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "2dcfb63035858201",
+  "active": "8a340cadfd254f42",
   "lastOpenFiles": [
-    "Postacie/Lucy Shealez.md",
+    "Wydarzenia/starcie z renegatami.md",
+    "Postacie/Orton Knadr.md",
+    "Postacie/Gethis Attaliate.md",
+    "Lore/Kryształowy Imperator.md",
     "Postacie/Luka Attaliate.md",
+    "Lore/Artefaktyczne Społeczeństwo.md",
+    "Postacie/Nasizar Tertusa.md",
+    "Postacie/Sirezai Lüna'rah.md",
+    "Miejsca/Ludy Króla Królów.md",
+    "Wydarzenia/starcie z Orthisem.md",
+    "Miejsca/Vazar.md",
+    "Postacie/Lucy Shealez.md",
     "Postacie/Floril di Lauberg.md",
     "Postacie/Lucjusz Alvibraten.md",
-    "Postacie/Gethis Attaliate.md",
-    "Postacie/Orton Knadr.md",
-    "Lore/Artefaktyczne Społeczeństwo.md",
     "Postacie/Dallian Plateur.md",
     "Postacie/Joala Knadr.md",
     "Miejsca/Kronstadt.md",
     "Miejsca/wioska Strun.md",
     "Postacie/Ava Schieberg.md",
-    "Lore/Kryształowy Imperator.md",
-    "Wydarzenia/starcie z Orthisem.md",
     "Postacie/Lewa.md",
     "Lore/manipulacja.md",
     "Miejsca/Arcykryształ Soye.md",
-    "Wydarzenia/starcie z renegatami.md",
     "Postacie/Skiala.md",
     "Postacie/Cassandra Comnouve.md",
     "Lore/Rozjemca Imperialny.md",
     "Lore/Chorągiew Imperialna.md",
-    "Postacie/Basiline Soyescari.md",
-    "Lore/grupa Rosario.md",
-    "Lore/Czerwone Szale.md",
-    "Lore/grupa Ollie.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
