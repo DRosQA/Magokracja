@@ -8,4 +8,3 @@ Ich znakiem rozpoznawczym jest specyficzna moneta ze złotego pyłu, wyglądają
 - **Liamara** Samir Romaba Akallaba z ludu Nocy Obsydianu
 - **Tareefa** z ludu Złotych Piasków
 - **Aasmi** Parikh Aishwarya Chakarvarti Mahanti z Doliny Echa (ludu Strun)
-- 

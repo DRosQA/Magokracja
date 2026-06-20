@@ -74,7 +74,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową Aillią Comnouve na czele.
 12. około 1024-1124 - Złoty Wiek Imperium.
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]].
-14. 1383 - czasy obecne: [[Bitwa o Caspię]], [[Zjazd dyplomatyczny w Kronstadt]].
+14. 1383 - czasy obecne: [[Bitwa o Caspię]], [[zjazd w Kronstadt]].
 
 ### Wielkie rody
 + **Comnouve**. Cel: życie w luksusach, dzięki zarabianiu na produkcji jak największej ilości dóbr.

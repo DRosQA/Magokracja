@@ -14,7 +14,7 @@ Przez jakiś czas pod wpływem [[manipulacja]], przez którą (oraz jego związe
 Po próbie kolorów wyruszyła w warstwy "odnaleźć siebie" i odkryła swoją Melodię, [[Steliae|Scientia Incariante]]. 
 Jej Powój połączył się z [[Kruczy Król]] sprawiajac, że ma powdójny Powój (jak dwugłowa hydra). 
 
-Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[Erzsebeth Mirtlass]]. 
+Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[rodzeństwo Mirtlass|Erzsebeth Mirtlass]]. 
 ## Zaklęcie prawdy
 
 Zaklęcie prawdy, które podarowała [[Ciaran Conejero]], dzięki któremu odkrył swoją prawdziwą Melodię. Nie wiadomo, skąd je ma, ale zna je też Eimhrick. 

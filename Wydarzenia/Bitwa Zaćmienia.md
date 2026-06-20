@@ -7,7 +7,7 @@ Przeważenie sił nastąpiło w czasie pełnego zaćmienia słońca, pierwszego 
 Kapitulacja jednego Domu magów przed drugim była szokiem dla reszty magów. Szokiem, którego nie ogarnięto na czas. Dom Spektrum Świadomości nie narzucił hegemonii na pokonanych, wręcz przeciwnie, zbudował z domem Spektrum Emocji Unię. Ze współpracy obu magii, ulepszono Stalową Kawalerię, tchnąc w puste ciała golemów koni i jeźdźców, zasilanie żarem magii Gwiazd, na podobieństwo Eonów. Na czele koalicji stanęła Rada Unijna, składająca się ze znamienitych magów obu rodów, z elekcyjnym Mistrzem Unii na czele, niespodziewanie z rodu Spektrum Emocji, wybranym niemal jednogłośnie - [[Armada]].
 
 ### Prawdziwa (?) wersja wydarzeń
-Opowiedziana przez [[Nelson Mirtlass]], potwierdzona także w tajnych archiwach Imperium
+Opowiedziana przez [[rodzeństwo Mirtlass|Nelson Mirtlass]], potwierdzona także w tajnych archiwach Imperium
 
 Zaćmienie sztucznie wywołali magowie strony Spektrum Świadomości. Ich rytuał miał przywołać coś na tyle potężnego, aby zmieść przeciwników. Zaczęli przywoływać [[Derniere]], czego skutkiem ubocznym było wchłanianie przez niego lokalnej [[mana]]/odebranie ludziom w pobliżu możliwości używania magii. Obserwująca bitwę [[Kryształowy Imperator|Piekielny Ogień]] zauważyła, że może mieć to ogromne konsekwencje (np. pochłonąć cały świat). Zdecydowała się zamknąć problem w "bańce", żeby rozwiązał się sam (jak wszyscy w środku zginą). To jej działanie, ze względu na jej "połączenie" ze słońcem, wywołało zaćmienie.
 Bitwa trwała w tejże "bańce".
@@ -29,7 +29,7 @@ Ponieważ wiemy, że Armada robił to z podpuszczenia Esta la Rosa Maledetta, a 
 ### Konsekwencje
 Choć przywoływanie Derniere zostało zatrzymane, nigdy nie "powrócił" on tam, skąd przybył, tj. wciąż ostatecznie postawił na tej warstwie stopę i w końcu będzie musiał przybyć faktycznie i **Dokonać Zmiany**. 
 
-Ten problem znany jest wśród [[Ludy Króla Królów]] jako wyprorokowana "Nieuchronna Bitwa Zaćmienia" która ma wydarzyć się w przyszłości, a właściwie to w czasie [[Zjazd dyplomatyczny w Kronstadt]]. 
+Ten problem znany jest wśród [[Ludy Króla Królów]] jako wyprorokowana "Nieuchronna Bitwa Zaćmienia" która ma wydarzyć się w przyszłości, a właściwie to w czasie [[zjazd w Kronstadt]]. 
 
 Dla Nelsona, Bitwa Zaćmienia w gruncie rzeczy nigdy się nie skończyła i od tamtego czasu jako istota [[Hel]] cierpi wieczne katusze, stąd też ponad wszystko pragnie jej zakończenia. 
 Derniere stał się jego najlepszym przyjacielem, gdyż Nelson jako jedyny wyciągnął do niego rękę w tamtym momencie. W zamian, Derniere towarzyszy mu teraz w jego cierpieniu. 

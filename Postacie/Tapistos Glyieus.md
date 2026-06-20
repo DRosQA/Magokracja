@@ -5,7 +5,7 @@ tags:
 ---
 Osoba podejrzana o wiele przestępstw, głownie zdradę Imperium. Na razie dowody są, ale trzeba go dorwać. 
 
-Jest zawiązany w [[Zjazd dyplomatyczny w Kronstadt]] w różne konszachty. Za dnia przebywa pośród [[Lud Krwi]] (w wewnętrznym obszarze obozowiska) a wieczorami sporadycznie chodzi do **Wybornego Wieczoru**, obecnie dofinansowanej knajpy, która zakrawa o luksusowy burdel. To on najmuje **oddział Pallentos**, który już w [[Caspia]] naskoczył na [[grupa Lucy]] a Boni ma ich za swój cel zemsty za sprzedanie w niewolnictwo. Jest ewidentnie częścią przygotowań [[Armada]] do zorganizowania zbrojnej siły podczas zbliżającego dokończenia [[Bitwa Zaćmienia]].
+Jest zawiązany w [[zjazd w Kronstadt]] w różne konszachty. Za dnia przebywa pośród [[Lud Krwi]] (w wewnętrznym obszarze obozowiska) a wieczorami sporadycznie chodzi do **Wybornego Wieczoru**, obecnie dofinansowanej knajpy, która zakrawa o luksusowy burdel. To on najmuje **oddział Pallentos**, który już w [[Caspia]] naskoczył na [[grupa Lucy]] a Boni ma ich za swój cel zemsty za sprzedanie w niewolnictwo. Jest ewidentnie częścią przygotowań [[Armada]] do zorganizowania zbrojnej siły podczas zbliżającego dokończenia [[Bitwa Zaćmienia]].
 
 Jego pomocnikami są **Mustafa Kidapis** i **Kabada Baghari**. Z listów można też zauważyć, że ich wtyką w wojsku jest niejaka **Pavia** oraz że jest najemną usług [[najemnicy Pallentos]].
 
