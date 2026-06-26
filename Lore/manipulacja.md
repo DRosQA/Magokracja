@@ -20,6 +20,7 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[grupa Antonia]]
 - [[Luka Attaliate|Nova Tenebria]]
 - [[Eclipse]] - nie tyle co zmanipulowany, co wykorzystano jego tożsamość, by manipulować
+- [[Hesefa Pretres]]
 
 ### Kłamstwa Estarosy
 [[Estarosa]] przyznał się przed postaciami, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
