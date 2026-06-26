@@ -44,4 +44,4 @@ Rytuał czaszek został na razie "wstrzymany" tj. zapobiegliśmy jego dokończen
 Sądzimy, że "planem A" było jego wymuszone zakończenie przez wściekłą [[Iuline Shayat]] po odkryciu mordu na swojej wiosce i odnalezieniu ciała/czaszki swojego ukochanego brata wśród czaszek tego rytuału.
 Ponieważ zwój i czaszki wciąż istnieją i rytuał można domknąć, pewnie istnieją jakieś "Plany B+" na sprowokowanie Iuline (albo kogoś innego?).
 
-Dodatkową informacją ważną do odnotowania jest to, iż do zbliżającego się zakończenia Bitwy Zaćmienia rozważano użycie (sprowokowanie) [[Stalokrew|Asha Grath]], jeśli nie udałoby się odpowiednio pokierować Derniere'm. Zapobiegnięcie temu było związane z jednym z zadań Rozjemców rozdanych przez Natannesa (i zostało zostało wykonane).
+Dodatkową informacją ważną do odnotowania jest to, iż do zbliżającego się zakończenia Bitwy Zaćmienia rozważano użycie (sprowokowanie) [[Stalokrew|Asha Grath]], jeśli nie udałoby się odpowiednio pokierować Derniere'm. Zapobiegnięcie temu było związane z jednym z zadań Rozjemców rozdanych przez Natannesa (i zostało wykonane z powodzeniem).
