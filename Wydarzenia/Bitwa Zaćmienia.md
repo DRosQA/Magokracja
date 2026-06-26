@@ -23,7 +23,7 @@ Decyzją Eclipse było ustabilizowanie swojego nowego, młodziutkiego brata, pop
 
 Armada natychmiast wykorzystał moment, żołnierze Spektrum Emocji posługujący się [[Pył]]em, którzy jako ostatni niejako utrzymywali jeszcze pozycje (tyły odwrotu), byli dzięki temu zdolni zwyczajnie _zamieść_ Stalową Kawalerię. To przywróciło nadzieję i odbudowało morale reszty Emocjowców, odwracając losy bitwy i wygrywając ją dla Spektrum Emocji.
 
-Wygraną w historii przypisano jednak Spektrum Świadomości, aby zbudować pokój - obawiano się, że zbyt zgojeni Świadomościowcy staną się zgorzkniali, będą się buntować i być może znowu spróbują czegoś równie głupiego. Mistrzem Unii został jednak dowódca faktycznie zwycięskiej armii, który przypisał sobie triumf (gdyż Nelson wyparował fizycznie i nie mógł opisać prawdziwych wydarzeń w tamtym czasie).
+Wygraną w historii przypisano jednak Spektrum Świadomości, aby zbudować pokój - obawiano się, że zbyt zgnojeni Świadomościowcy staną się zgorzkniali, będą się buntować i być może znowu spróbują czegoś równie głupiego. Mistrzem Unii został jednak dowódca faktycznie zwycięskiej armii, który przypisał sobie triumf (gdyż Nelson wyparował fizycznie i nie mógł opisać prawdziwych wydarzeń w tamtym czasie).
 
 ### Powody (?)
 Podejrzewamy, że cała bitwa lub przynajmniej rytuał w jej trakcie był ustawiony przez Armadę i [[Esta la Rosa Maledetta]]. Sam rytuał prawdopodobnie miał zabić wszystkich POZA wybrańcami wskazanymi przez rytuał (wg. zwoju/ilości czaszek które znaleźliśmy w Czerwonej Jaskini obok [[Kronstadt]]).

@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,8 +238,9 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "3919a970d2113291",
+  "active": "86539678d7c5ab1b",
   "lastOpenFiles": [
+    "Postacie/Armada.md",
     "Miejsca/Vazar.md",
     "Postacie/rodzeństwo Mirtlass.md",
     "Postacie/Stalokrew.md",
@@ -247,7 +248,6 @@
     "Postacie/Eclipse.md",
     "Postacie/Derniere.md",
     "Miejsca/Imperium.md",
-    "Postacie/Armada.md",
     "Lore/Grath.md",
     "Postacie/Eaulie Rosa.md",
     "Postacie/Joanita Comnouve.md",
