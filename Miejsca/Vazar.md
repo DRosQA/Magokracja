@@ -1,6 +1,6 @@
 Duże miasto [[Imperium]], stolica regionu o tej samej nazwie. Jest powiedzenie, że "w Vazar nigdy nic się nie dzieje".
 
-Protektorem (mianowanym) miasta jest obecnie uprawniona przez [[Lucy Shealez]] **Palmira** Knadr-Vatounet, ze Szkarłatnej Brygady [[Złota Gwardia]].
+Protektorem (mianowanym) miasta jest obecnie uprawniona przez [[Lucy Shealez]] **Palmira** Knadr-Vatounet, ze Szkarłatnej Brygady [[Złota Gwardia]]. Vazar jest miastem, które żyje w cieniu [[rodzeństwo Mirtlass]].
 
 ### Dwór Vazar
 - książę **Francis** Vatounet, były Protektor
@@ -14,8 +14,8 @@ Protektorem (mianowanym) miasta jest obecnie uprawniona przez [[Lucy Shealez]] *
 - mistrz **Glagar**, tutor fechtunku
 
 ### Istotni w Vazar
-- pan na zamku Nina-Salma, **Nelson** [[rodzeństwo Mirtlass|Mirtlass]] (obecnie odszedł w [[Pył]] - a raczej WPIZDU)
-- wykładowca Akademii Vazar, "Zryta" **Erzsebeth** [[rodzeństwo Mirtlass|Mirtlass]], jedna z [[Czwórka Asasynów]]
+- pan na zamku Nina-Salma, **Nelson** Mirtlass (obecnie odszedł w [[Pył]] - a raczej WPIZDU)
+- wykładowca Akademii Vazar, "Zryta" **Erzsebeth** Mirtlass, jedna z [[Czwórka Asasynów]]
 - książę koronny **Caledosian** Vatounet, miejski mag, rektor Akademii Vazar, brat Francisa - ma na sprawy dworu WY-JE-BA-NE
 - mag regimentu, **Dauphen** Pretres, Szkarłatna Brygada Złotej Gwardii
 - chorąży regimentu, **Belisara** Potieskas, Szkarłatna brygada Złotej Gwardii, bliska [[Rozjemca Imperialny|Rozjemcy]] Besonowi

@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37d6e6dd185340aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miejsca/Vazar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vazar"
-            }
-          },
-          {
             "id": "7c3125f4fd644f45",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "rodzeństwo Mirtlass"
+            }
+          },
+          {
+            "id": "3919a970d2113291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Armada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armada"
             }
           },
           {
@@ -48,8 +48,51 @@
               "icon": "lucide-file",
               "title": "Derniere"
             }
+          },
+          {
+            "id": "79cadc9d306a76e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Eclipse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eclipse"
+            }
+          },
+          {
+            "id": "86539678d7c5ab1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wydarzenia/Bitwa Zaćmienia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitwa Zaćmienia"
+            }
+          },
+          {
+            "id": "03c48a494ecae0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Stalokrew.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stalokrew"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Besine de Korylion",
+                "query": "mustafa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,10 +238,22 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "37d6e6dd185340aa",
+  "active": "3919a970d2113291",
   "lastOpenFiles": [
+    "Miejsca/Vazar.md",
     "Postacie/rodzeństwo Mirtlass.md",
+    "Postacie/Stalokrew.md",
+    "Wydarzenia/Bitwa Zaćmienia.md",
+    "Postacie/Eclipse.md",
     "Postacie/Derniere.md",
+    "Miejsca/Imperium.md",
+    "Postacie/Armada.md",
+    "Lore/Grath.md",
+    "Postacie/Eaulie Rosa.md",
+    "Postacie/Joanita Comnouve.md",
+    "Postacie/Joala Knadr.md",
+    "Postacie/Basiline Soyescari.md",
+    "Postacie/Tapistos Glyieus.md",
     "Wydarzenia/zjazd w Kronstadt.md",
     "Postacie/Besine de Korylion.md",
     "Postacie/Julius Pretres.md",
@@ -209,20 +264,8 @@
     "Lore/Chorągiew Imperialna.md",
     "Postacie/Antvel Heinster.md",
     "Postacie/Leon Heistrom.md",
-    "Miejsca/Vazar.md",
     "Postacie/Fleura Knadr.md",
     "Wydarzenia/pojedynek Championów.md",
-    "Postacie/Biały Cień.md",
-    "Wydarzenia/poszukiwania Francisa.md",
-    "Wydarzenia/starcie z Orthisem.md",
-    "Lore/Asasyni Imperialni.md",
-    "Lore/Czwórka Asasynów.md",
-    "Postacie/Pelona Tegeura.md",
-    "Postacie/Niebieskie Piórko.md",
-    "Postacie/Zielone Piórko.md",
-    "Postacie/Nelson Mirtlass.md",
-    "Wydarzenia/Bitwa Zaćmienia.md",
-    "Postacie/Erzsebeth Mirtlass.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
