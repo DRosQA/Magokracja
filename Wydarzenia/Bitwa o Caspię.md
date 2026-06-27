@@ -24,4 +24,4 @@ Ginie [[Protektor Imperialny|Pierwszy Protektor Schieberg]].
 Ze względu na łatwość skorumpowania kogoś z tak dużą władzą, zlikwidowane zostają stanowiska Pierwszych [[Rozjemca Imperialny]] i [[Protektor Imperialny]].
 Umacnia się stanowisko [[Pierwszy Mag]], które w celu udobruchania go/gestu zgody ze Strom otrzymuje Commenc.
 Powstaje stanowisko [[Pierwszy Asasyn]], które otrzymuje [[Fleura Knadr]].
-Asasyni zrzekają się lojalności wobec [[Sirezai Lüna'rah]] po rozmowie z nim; organizacja wróciła do priorytetyzowania lojalności wobec _konceptu_ Imperium, a nie ludzi u władzy czy nawet założyciela.
+Asasyni zrzekają się lojalności wobec [[Sirezai Lūna'rah]] po rozmowie z nim; organizacja wróciła do priorytetyzowania lojalności wobec _konceptu_ Imperium, a nie ludzi u władzy czy nawet założyciela.

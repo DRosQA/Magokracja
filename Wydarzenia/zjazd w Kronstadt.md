@@ -25,7 +25,7 @@ Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitw
 - [[grupa Maygren]]
 - **Fransedo** Marya Casanais, Chorągiew Imperialna, przyboczny kapitan
 - [[Julius Pretres]] ze świtą
-- [[Sirezai Lüna'rah]]
+- [[Sirezai Lūna'rah]]
 - **Hierro** Cambaja Podrigo, imperialna czwórka, marszałek polowy
 - [[Kryształowy Imperator]] (wszyscy)
 - [[Gilbert Knadr]] na _podniebnym flagowcu_ starej generacji La Flamingo (który należał do [[rodzeństwo Mirtlass|Nelson Mirtlass]])

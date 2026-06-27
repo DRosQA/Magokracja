@@ -68,7 +68,7 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
   Manifestacja [[Ludy Króla Królów|Si Si Fenjun]].
 - **Wiśnia**, typ: nieprzypisany/nieokreślony
   Brama Artefaktycznych do ochrony [[Visena Shealez]].
-- [[Sirezai Lüna'rah|Sirezai]], typ: nieprzypisany/nieokreślony
+- [[Sirezai Lūna'rah|Sirezai]], typ: nieprzypisany/nieokreślony
 
 # Typy
 - Budowniczy - podstawa Społeczności; jest zdolny do korzystania z pełnej kreacji many.

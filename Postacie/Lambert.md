@@ -1,9 +1,10 @@
 ---
 aliases:
   - Oscail Berggrath
+  - Lambert Biały
 tags:
   - Iv
-  - TubylecWarstwy
+  - IstotaWarstw
 ---
 Potężna istota ludzka (?) z warstwy Iv, posiadająca srebrny powój, przyjmujący formę manalwa. Blisko powiązany z [[Stalokrew|Asha Grath]], którą on nazywa swoją "psychofanką". Z [[pieśń Veroniqué]] można dowiedzieć się, że Lambert jest źródłem "uwolnienia Ashy" od jej rządzy pomstnego mordu.
 Lambert "przywrócony" zostaje przez jednego z [[Malarz]]y, Johin'a Johain (o zabarwieniu złota i zieleni) przy współpracy [[grupa Rosario]], która miała imperialne zadanie "Pomóc Stalokrwi okiełznać swoją Bestię (przez co uwolnić ją od Rzeki Krwi).". Udało się to osiągnąć, dzięki związaniu srebrnego powoju w skiaele Oscail'a (Berggrath) i w ten sposób obudzenie w nim Lamberta.

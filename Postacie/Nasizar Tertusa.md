@@ -3,7 +3,7 @@ tags:
   - Konstrukt
 aliases:
 ---
-Jeden z [[Imperator]]ów, ludzki konstrukt stworzony przez [[Sirezai Lüna'rah]].
+Jeden z [[Imperator]]ów, ludzki konstrukt stworzony przez [[Sirezai Lūna'rah]].
 Dokładnie przedstawiający się jako Najwyższy Majestat, Pan Pięciu Iglic, Imperator Czterech Koron, Nasizar spośród Tertusów, natomiast w piśmie [[Spójności]] **Mige uvo Na'sii'zar arc'mis'trii maa'gia dei vo Rdimmts Shfft Csstl Cnfn Vss Nht Mrge uvo**.
 
 Nie jest rodzonym Tertusą, został do rodu przyjęty, choć Imperium nie zna okoliczności. On uformował formację [[Asasyni Imperialni]] z doktryną "lojalności tylko Imperium" jako idei nie osobie u góry.

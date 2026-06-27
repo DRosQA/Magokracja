@@ -1,6 +1,7 @@
 ---
 tags:
   - Devi
+  - IstotaWarstw
 aliases:
   - Asha Grath
   - Asha Biała

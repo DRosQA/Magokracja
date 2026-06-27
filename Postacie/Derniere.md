@@ -2,6 +2,9 @@
 aliases:
   - Berr Grath
   - Ostatni
+  - Derniere Biały
+tags:
+  - IstotaWarstw
 ---
 Dosłowna, ucieleśniona ŚMIERĆ, ale tu bardziej jako "koniec wszystkiego". Jeden z [[Grath]] (Berr Grath w języku strom oznacza Wściekły Koszmar). Istota wszystkich, głębokich kolorów z stopniem wpływu na Rzeczywistość rzędu [[Eclipse]]'a, zaliczana do "rodziny" bezpośrednich potomków Absolutów, Białych.
 
