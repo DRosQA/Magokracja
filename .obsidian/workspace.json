@@ -50,77 +50,49 @@
             }
           },
           {
-            "id": "79cadc9d306a76e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postacie/Eclipse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eclipse"
-            }
-          },
-          {
             "id": "86539678d7c5ab1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wydarzenia/Bitwa Zaćmienia.md",
+                "file": "Miejsca/Kronstadt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitwa Zaćmienia"
+              "title": "Kronstadt"
             }
           },
           {
-            "id": "03c48a494ecae0f0",
+            "id": "ef7a816f1975d2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/Stalokrew.md",
+                "file": "Lore/manatknięcie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stalokrew"
+              "title": "manatknięcie"
             }
           },
           {
-            "id": "c515cb1ce3ee689a",
+            "id": "c99feb02bc0e31f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/manipulacja.md",
+                "file": "Lore/Skiaele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manipulacja"
-            }
-          },
-          {
-            "id": "96aa2b80276a912a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Siły Wyższe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Siły Wyższe"
+              "title": "Skiaele"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,34 +238,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "96aa2b80276a912a",
+  "active": "ef7a816f1975d2cf",
   "lastOpenFiles": [
+    "Lore/Skiaele.md",
+    "Lore/manatknięcie.md",
+    "Miejsca/Kronstadt.md",
+    "Lore/lud many.md",
     "Postacie/Derniere.md",
+    "Miejsca/wioska Strun.md",
+    "Wydarzenia/Bitwa Zaćmienia.md",
+    "Postacie/Eclipse.md",
+    "Postacie/Armada.md",
+    "Postacie/rodzeństwo Mirtlass.md",
     "Lore/Siły Wyższe.md",
     "Postacie/Snupopiół.md",
     "Postacie/Lambert.md",
     "Postacie/Stalokrew.md",
     "Postacie/Abis-Lucio.md",
     "Lore/Sędzia.md",
-    "Postacie/Eclipse.md",
-    "Wydarzenia/Bitwa Zaćmienia.md",
-    "Postacie/Armada.md",
     "Lore/manipulacja.md",
     "Postacie/Sirezai Lūna'rah.md",
     "potomkowie Absolutów.md",
     "Wydarzenia/Wojna o Wybrzeże Turkusowe.md",
     "Miejsca/Vazar.md",
-    "Postacie/rodzeństwo Mirtlass.md",
     "Miejsca/Imperium.md",
     "Lore/Grath.md",
     "Postacie/Eaulie Rosa.md",
     "Postacie/Joanita Comnouve.md",
     "Postacie/Joala Knadr.md",
-    "Postacie/Basiline Soyescari.md",
-    "Postacie/Tapistos Glyieus.md",
-    "Wydarzenia/zjazd w Kronstadt.md",
-    "Postacie/Besine de Korylion.md",
-    "Postacie/Julius Pretres.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -6,7 +6,7 @@ Ludzie natywni dla [[Soye]], którzy próbowali stworzyć [[Arcykryształ Soye]]
 
 Cywilizacja znana z najwyższych zdolności manipulacji maną, najbliższej magii kolorów znanej współcześnie.
 
-Oryginalnie byli [[Skiael]], ale nasycili się Świadomością Soye.
+Oryginalnie byli [[Skiaele]], ale nasycili się Świadomością Soye.
 
 # Przodkowie
 Twórcy/projektanci pierwszych [[Spójności]], należący do [[Cywilizacja Przodków]]. Każdy z nich miał w sobie dużą "kroplę" innego [[kolory many]] aby móc dostosować Spójności do mieszkańców innych warstw (przez zrozumienie innych miksów kolorów), przez co byli ważni dla projektu [[Arcykryształ Soye]] jako inżynierowie. 

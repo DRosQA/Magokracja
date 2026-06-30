@@ -1,4 +1,4 @@
-Przejazdowe/handlowe miasto w [[Imperium]] na terenie Pretresów. Tu [[Luka Attaliate]] zakłada swój warsztat. Niecały dzień drogi z miasta w stronę gór mieszka [[lud many]] terenów Imperium a dalej znajduje się [[wioska Strun]].
+Przejazdowe/handlowe miasto w [[Imperium]] na terenie Pretresów. Tu [[Luka Attaliate]] zakłada swój warsztat. Niecały dzień drogi z miasta w stronę gór mieszka [[manatknięcie|lud many]] terenów Imperium a dalej znajduje się [[wioska Strun]].
 
 ### Wydarzenia warte noty
 - walka [[Leypia Mekontion]] z Eonem, zakończona jej zwycięstwem i znacznym uszkodzeniem rynku
