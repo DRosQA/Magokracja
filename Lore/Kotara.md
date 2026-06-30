@@ -30,6 +30,6 @@ W teorii [[Dallian Plateur]], Głęboka Kotara w tej metaforze staje się dnem o
 
 Faktycznie, Głęboka Kotara jest "Kotarą Kotary", tj. jej odbiciem i zapisem. Jest jednak wysoce zniekształcona, przez co choć myśli i rzeczywistość "płyną" tak samo jak w płytkiej Kotarze, nie zapisują się lub zapisują się zniekształcone i częściowe, jako [[echo]]. 
 
-Dzięki istnieniu echo sprzed istnienia danego [[Cykl]] możliwe jest wnioskowanie, że choć [[kolory many|warstwy]] i ich płytka Kotara mogą być wyczyszczone pomiędzy Cyklami z zapisów przeszłości, echa w Głębokiej Kotarze pozostają.
+Dzięki istnieniu echo sprzed istnienia danego [[Cykl]] możliwe jest wnioskowanie, że choć [[mana|warstwy]] i ich płytka Kotara mogą być wyczyszczone pomiędzy Cyklami z zapisów przeszłości, echa w Głębokiej Kotarze pozostają.
 
 Na samym _dnie_ subkotary znajdują się cienie, tj. osoby, które wyszły poza [[Strumień]]. 

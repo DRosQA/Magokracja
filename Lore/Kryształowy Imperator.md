@@ -2,7 +2,7 @@
 tags:
   - TubylecWarstwy
 ---
-Bezpłciowe istoty uosabiające kryształy związane z konkretnymi mocami/[[kolory many]], obecnie wnikające w istoty wielkiego znaczenia dla świata, celem odbudowania swej upadłej cywilizacji.
+Bezpłciowe istoty uosabiające kryształy związane z konkretnymi mocami/[[mana|kolory many]], obecnie wnikające w istoty wielkiego znaczenia dla świata, celem odbudowania swej upadłej cywilizacji.
 
 Na [[Devi]] w tym Cyklu urzędowali na planecie najechanej przez [[Spójność Ank'ara]] jako [[Cywilizacja Szlachetnych]]. Oryginalnie było ich 9, po inwazji Spójności pozostało 4. Obecnie ponownie zaistnieli wszyscy, w różnym stadium Krystalizacji.
 

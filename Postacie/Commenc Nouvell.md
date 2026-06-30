@@ -4,7 +4,7 @@ tags:
   - Devi
   - człowiek
 ---
-Jeden z [[szlachetny zarządca]], płomienny jeleń. Należął do [[Cywilizacja Szlachetnych]].
+Jeden z [[manatknięcie|Szlachetnych zarządców]], płomienny jeleń. Należął do [[Cywilizacja Szlachetnych]].
 
 W czasach jego dzieciństwa, Iglice [[Spójność Ank'ara]] zaatakowały planetę i całkowicie zniszczyły jego dom, wywołując w nim chęć zemsty. Podszył się więc pod jedno z "pierwszych [[Pokolenie po bogach|pokoleń]] po [[Spójności|bogach]]" jak nazywali je ludzie, poprzez pożarcie go (także w magicznym sensie, Devi). W tej formie piął się jak najwyżej w społecznej hierarchii, aby móc zniszczyć tą nową cywilizację od środka tak jak zniszczono jego. W tym celu interesował się także mechanizmami [[Spójność Ank'ara|Iglica Imperialna]], stając się największym ekspertem w Imperium. 
 W trakcie swoich badań nad Rdzeniem Iglicy, natknał się na informacje o [[Siostry Strom|Strom]] co wywołało ich zażartą rywalizację o Iglicę i cichą władzę nad Imperium.

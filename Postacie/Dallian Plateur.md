@@ -20,7 +20,7 @@ W późniejszym czasie, pomożono im nawiązać na nowo nić porozumienia, dzię
 # Orszak Abradean Garghais
 Przez długi czas, w czasach współczesnych, służył w świcie [[Abradean Garghais]], razem z [[Leypia Mekontion]] i [[Niebieskie Piórko]]. Mieli wiele wielkich przygód, żartując nawet że "ratowali świat co wtorek". 
 # Cisza
-Wciąż poszukując tajemnic, w czasach współczesnych, zaczął zgłębiać tajniki [[kolory many]] i [[Kotara|subkotary]]. Zbudował [[rezonator subkotarowy]] i "wywołał" [[Cisza]]. Ponieważ pojawienie się Ciszy wymaga ciała, z nieznanych dla niego przyczyn sprowadził ją w ciele [[Visena Shealez]]. Podobnie jak w przypadku śmierci Atrniki, opuścił miejsce problemu w szoku. 
+Wciąż poszukując tajemnic, w czasach współczesnych, zaczął zgłębiać tajniki [[mana|kolory many]] i [[Kotara|subkotary]]. Zbudował [[rezonator subkotarowy]] i "wywołał" [[Cisza]]. Ponieważ pojawienie się Ciszy wymaga ciała, z nieznanych dla niego przyczyn sprowadził ją w ciele [[Visena Shealez]]. Podobnie jak w przypadku śmierci Atrniki, opuścił miejsce problemu w szoku. 
 Ostatecznie z pomocą [[grupa Lucy]] udało się rozdzielić Visenę i Ciszę, choć część wiedzy i zdolności Ciszy pozostała w dziewczynie.
 
 # Artefaktyczne społeczeństwo

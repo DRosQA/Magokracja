@@ -7,8 +7,6 @@ Drobne klany manatkniętych ludów, zamieszkujących teren gór prowincji Koryli
 
 # Drabinka społeczna
 -  [[Kryształowy Imperator]]
--  [[szlachetny zarządca]]
--  [[manaistota]]
--  [[manatknięcie]]
-
-
+-  [[manatknięcie|szlachetni zarządcy]]
+-  manaistoty
+-  manatknięci

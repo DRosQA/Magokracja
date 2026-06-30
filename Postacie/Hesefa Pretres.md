@@ -12,7 +12,7 @@ Koleżanka [[Ciaran Conejero]] przez swojego ojca.
 Przez jakiś czas pod wpływem [[manipulacja]], przez którą (oraz jego związek z Lilianną) próbowała zabić [[Lucjusz Alvibraten]] w trakcie [[Miesiąc Imperialny]]. Nie wiadomo, czy celem tej manipulacji ostatecznie był Lucjusz, czy ona jako osoba związana ze Stelią, czy była tylko dojściem do Antonii etc.
 
 Po próbie kolorów wyruszyła w warstwy "odnaleźć siebie" i odkryła swoją Melodię, [[Steliae|Scientia Incariante]]. 
-Jej Powój połączył się z [[Kruczy Król]] sprawiajac, że ma powdójny Powój (jak dwugłowa hydra). 
+Jej Powój połączył się z [[Stalokrew|Kruczym Królem]] sprawiajac, że ma powdójny Powój (jak dwugłowa hydra). 
 
 Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[rodzeństwo Mirtlass|Erzsebeth Mirtlass]]. 
 ## Zaklęcie prawdy

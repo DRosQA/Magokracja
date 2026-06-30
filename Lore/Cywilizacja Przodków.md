@@ -9,7 +9,7 @@ Cywilizacja znana z najwyższych zdolności manipulacji maną, najbliższej magi
 Oryginalnie byli [[Skiaele]], ale nasycili się Świadomością Soye.
 
 # Przodkowie
-Twórcy/projektanci pierwszych [[Spójności]], należący do [[Cywilizacja Przodków]]. Każdy z nich miał w sobie dużą "kroplę" innego [[kolory many]] aby móc dostosować Spójności do mieszkańców innych warstw (przez zrozumienie innych miksów kolorów), przez co byli ważni dla projektu [[Arcykryształ Soye]] jako inżynierowie. 
+Twórcy/projektanci pierwszych [[Spójności]], należący do [[Cywilizacja Przodków]]. Każdy z nich miał w sobie dużą "kroplę" innego [[mana|kolory many]] aby móc dostosować Spójności do mieszkańców innych warstw (przez zrozumienie innych miksów kolorów), przez co byli ważni dla projektu [[Arcykryształ Soye]] jako inżynierowie. 
 
 - [[Varilyan Heinster]] (doradca i badacz), wiążący Lune
 - [[Antvel Heinster]] (konstruktor/mechanik), wiążący Iv

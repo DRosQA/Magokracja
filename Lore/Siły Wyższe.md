@@ -2,7 +2,7 @@
 aliases:
   - Absoluty
 ---
-Istoty będące "ucieleśnieniem" konkretnych kolorów many. Nie bogowie, bardziej inkarnacje wartości/cech danego koloru.
+Istoty będące "ucieleśnieniem" konkretnych kolorów [[mana]]. Nie bogowie, bardziej inkarnacje wartości/cech danego koloru.
 
 W Imperium aktualnie ucieleśnieni w małej formie jako ludzie aby móc mieć wpływ na wydarzenia związane z [[Estarosa]]:
 - [[Soye]] - **Bożydar** Hamed

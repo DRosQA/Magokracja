@@ -14,7 +14,7 @@ Imię powtarzające się między [[Cykl]]ami, konkretnie na warstwie devi. Z prz
 # Cykle Octaviana
 - Złoty Cesarz I-szy - ciało będące pierwszym hostem Złotego Powoju, jeden z [[Przodkowie]] bezpośrednio zamieszany w tworzenie [[Spójności]]. Pierwsza cielesna inkarnacja.
 - Augustus - ciało-kopia mentalności/osobowości Octaviana, stworzona jako [[Spójności|Arcyegzekutor]] swojej Spójności. "Brat" [[Iriand Augustus]], członek [[Pierwsza Cywilizacja]].
-- Krwawy - odtworzony Octavian Augustus, ale nie wiadomo przez kogo/co (niekoniecznie jest [[Spójności|Arcyegzekutorem]] [[Spójność Ank'ara]]). Twórca [[Neron]]a.
+- Krwawy - odtworzony Octavian Augustus, ale nie wiadomo przez kogo/co (niekoniecznie jest [[Spójności|Arcyegzekutorem]] [[Spójność Ank'ara]]). Twórca [[pojedynek Championów|Neron]]a.
 - Kryształ - odrodzony oryginalny Octavian spośród Przodków, w którym zakończył krystalizację Rozmaz Krwi. 
 
 ### Złoty Cesarz

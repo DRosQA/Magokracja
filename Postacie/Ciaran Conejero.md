@@ -8,7 +8,7 @@ tags:
 
 Przyjaciel [[Markus Pretres]], [[Hesefa Pretres]] i [[Eimhrick]], którego jest uczniem. Aktualnie pracuje dla [[Lucy Shealez]]. 
 
-Od urodzenia cierpi na [[manachoroba]] zaburzającą jego zmysły (synestezja z [[kolory many]]). Przez większość życia niewidoczny dla Melodiaes ze względu na brak swojej własnej Melodii, dopóki nie zżarł _kwiatu lucerny_, który po rozmowie (!) z nim podarowała mu sama [[Lucerna]]. 
+Od urodzenia cierpi na [[manachoroba]] zaburzającą jego zmysły (synestezja z [[mana|kolory many]]). Przez większość życia niewidoczny dla Melodiaes ze względu na brak swojej własnej Melodii, dopóki nie zżarł _kwiatu lucerny_, który po rozmowie (!) z nim podarowała mu sama [[Lucerna]]. 
 Ostatnio uzyskał własną Melodię o imieniu [[Nadzieja]]. Wcześniej myślał, że jego Melodią jest [[Laxus Viridian]]. 
 
 # Młodość

@@ -1,1 +1,0 @@
-Potężne [[manaistota]], które były strażnikami i opiekunami terenów i społeczności w [[Cywilizacja Szlachetnych]]. 

@@ -1,4 +1,4 @@
-Efekt dotknięcia istoty o niskim poziomie [[mana]] (tak zwierzęta/ludzie jak rośliny) przez jakiś konkretny [[kolory many]] do tego stopnia, że wywołuje to zmiany/mutacje fizyczne i nadaje jej magiczne właściwości z zakresu danego koloru. 
+Efekt dotknięcia istoty o niskim poziomie [[mana]] (tak zwierzęta/ludzie jak rośliny) przez jakiś konkretny [[mana|kolory many]] do tego stopnia, że wywołuje to zmiany/mutacje fizyczne i nadaje jej magiczne właściwości z zakresu danego koloru. 
 
 ### Powszechnie znane manatknięte zwierzęta w Imperium:
 - jeleń marteński
@@ -22,3 +22,11 @@ Liderzy ludów tkniętych maną:
 - **Nimait** Chmury Pnącz
 
 Całe Dżungle Bestii, na południu od Imperium, pełne są manatkniętych, tak zwierząt jak ludów, ale Imperium nie ma dokładniej o nich wiedzy.
+
+### Manaistota
+Imperialna nazwa na nie-ludzką istotę, która jest naturalna dla danej [[mana|warstwy]], tzw. Tubylec Warstwy.
+Mogą pojawiać się na nie-natywnych dla siebie warstwach i choć pełną (ogromną) potęgę mają na swojej, natywnej warstwie, to posiadają dużą siłę gdziekolwiek się zmanifestują.
+
+### Powszechnie znane manaistoty
+- **Szlachetni zarządcy** - strażnicy i opiekunowie terenów i społeczności w [[Cywilizacja Szlachetnych]]
+- xxx

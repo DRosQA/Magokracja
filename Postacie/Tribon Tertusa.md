@@ -7,7 +7,7 @@ aliases:
   - Tron Tribia
   - Tribon Sima Apaleo Tertusa
 ---
-Poprzedni [[Imperator|Namiestnik Imperium]]. Wprowadził [[Edykt o Restoracji Imperium]]. Wybitny naukowiec [[kolory many]].
+Poprzedni [[Imperator|Namiestnik Imperium]]. Wprowadził [[Edykt o Restoracji Imperium]]. Wybitny naukowiec [[mana|kolory many]].
 Wierny doktrynie [[Nasizar Tertusa]], dlatego przyjął tytuł Namiestnika nie Imperatora (choć i tak z przyzwyczajenia nazywano go per Imperator).
 
 Dążył do zdobycia jednego z [[Tron]] [[Ludy Króla Królów]], co też mu się udało. Odpowiedzialny za zlecenie zabójstwa [[Antonia Bruinia]], co ściągnęło mu na głowę [[Czerwoni Egzekutorzy]] i spowodowało jego upadek ale i wyciągnęło, że był [[manipulacja|manipulowany]].
