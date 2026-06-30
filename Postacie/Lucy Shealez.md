@@ -10,7 +10,7 @@ Doktor magii Pyłu, żona [[Albia Rosa]], lider [[grupa Lucy]]. Jedna z [[Rozjem
 
 W ostatnich miesiącach podróżuje/podróżowała w [[grupa Lucy]].
 
-Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, [[Hagarth-Satra]]. Jej Melodia to [[Ogrody Rosa|Ferarosa]], a jej Powój to [[Acnologia]].
+Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, Hagarth-Satra. Jej Melodia to [[Ogrody Rosa|Ferarosa]], a jej Powój to [[Acnologia]].
 
 Związana ze [[Świat Pyłu]] jako [[Siostra w Pyle]]. Posługuje się każdym [[Pył]] poza Białym.
 
@@ -35,3 +35,7 @@ Oczywiście tak długo, jeśli przestrzega prawa i norm obowiązujących w imper
 - ojciec **Tearlach** Shealez
 - kuzynka **Martella** Shealez-Sanler
 - kuzynka **Visena** Shealez
+
+### Hagarth Satra
+Tzw. _Iskra Hel_, rdzenny Feniks, boska siła, champion warstwy [[Hel]] w [[Cykl|Pierwszym Cyklu]], przerażający tyran. Walczyła przeciw Delirum-Ferarosa a ich bój brutalnie zakończył Pierwszy Cykl.
+Jej heraldem był [[Eimhrick]] a generałem [[Nagrar-Stirn]].

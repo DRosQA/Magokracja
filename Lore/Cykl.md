@@ -5,7 +5,7 @@ Zanim nastąpiły Cykle, sugeruje się, że "istniało" mgliste "coś/wszystko",
 W każdym razie wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa. Stamtąd potencjalnie jest [[Lucerna]] (i może [[Estarosa]]), ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).
 
 ### Pierwszy
-Podczas tego Cyklu powstało dominujące nad warstwami _imperium_, prowadzone przez [[Hagarth-Satra]], przy boku której byli _doradca tronu_ [[Eimhrick]] oraz _obrońca tronu_ [[Nagrar-Stirn]].
+Podczas tego Cyklu powstało dominujące nad warstwami _imperium_, prowadzone przez [[Lucy Shealez|Hagarth-Satra]], przy boku której byli _doradca tronu_ [[Eimhrick]] oraz _obrońca tronu_ [[Nagrar-Stirn]].
 
 Cykl zakończył się z powodu konkluzji apokaliptycznego pojedynku między imperatorową a ówczesnym "hostem" [[Cisza|Ciszy]] - Delirum Ferarosą.
 

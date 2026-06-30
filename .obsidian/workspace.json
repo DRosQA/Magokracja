@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c3125f4fd644f45",
+            "id": "9f50e7c3626a8980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/rodzeństwo Mirtlass.md",
+                "file": "Postacie/Torcael Bruinia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rodzeństwo Mirtlass"
-            }
-          },
-          {
-            "id": "3919a970d2113291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postacie/Armada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armada"
-            }
-          },
-          {
-            "id": "501e11501284ccc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postacie/Derniere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derniere"
-            }
-          },
-          {
-            "id": "86539678d7c5ab1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miejsca/Kronstadt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kronstadt"
-            }
-          },
-          {
-            "id": "ef7a816f1975d2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/manatknięcie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "manatknięcie"
-            }
-          },
-          {
-            "id": "c99feb02bc0e31f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Skiaele.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skiaele"
+              "title": "Torcael Bruinia"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mustafa",
+                "query": "Torcael Bruinia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,34 +167,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "ef7a816f1975d2cf",
+  "active": "9f50e7c3626a8980",
   "lastOpenFiles": [
-    "Lore/Skiaele.md",
-    "Lore/manatknięcie.md",
+    "Postacie/Nagrar-Stirn.md",
+    "Postacie/Torcael Bruinia.md",
+    "Postacie/Cesarz Złoty Powój.md",
+    "Postacie/Lambert.md",
     "Miejsca/Kronstadt.md",
-    "Lore/lud many.md",
     "Postacie/Derniere.md",
-    "Miejsca/wioska Strun.md",
-    "Wydarzenia/Bitwa Zaćmienia.md",
-    "Postacie/Eclipse.md",
     "Postacie/Armada.md",
     "Postacie/rodzeństwo Mirtlass.md",
-    "Lore/Siły Wyższe.md",
-    "Postacie/Snupopiół.md",
-    "Postacie/Lambert.md",
-    "Postacie/Stalokrew.md",
-    "Postacie/Abis-Lucio.md",
-    "Lore/Sędzia.md",
-    "Lore/manipulacja.md",
-    "Postacie/Sirezai Lūna'rah.md",
-    "potomkowie Absolutów.md",
-    "Wydarzenia/Wojna o Wybrzeże Turkusowe.md",
-    "Miejsca/Vazar.md",
-    "Miejsca/Imperium.md",
-    "Lore/Grath.md",
-    "Postacie/Eaulie Rosa.md",
-    "Postacie/Joanita Comnouve.md",
-    "Postacie/Joala Knadr.md",
+    "Lore/Strumień.md",
+    "Postacie/Julius Pretres.md",
+    "Miejsca/Świat Pyłu.md",
+    "Lore/Pięć Iglic.md",
+    "Postacie/Neron.md",
+    "Lore/Melodia.md",
+    "Postacie/Matthindrik Heistrom.md",
+    "Lore/mana.md",
+    "Postacie/Maldrik Heistrom.md",
+    "Lore/magia kolorów.md",
+    "Lore/Kryształowy Imperator.md",
+    "Postacie/Antonia Bruinia.md",
+    "Postacie/Lucy Shealez.md",
+    "Postacie/Hagarth-Satra.md",
+    "Lore/Siostra w Pyle.md",
+    "Postacie/Eimhrick.md",
+    "Lore/Cykl.md",
+    "Lore/Symbol.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

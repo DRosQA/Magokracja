@@ -10,7 +10,7 @@ aliases:
   - Czujny Powój
   - Eimhrick Vel'aeh
 ---
-Samo imię tej osoby, "Eimhrick", podobno jest ukradzione innej istocie. W Pierwszym Cyklu przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
+Samo imię tej osoby, "Eimhrick", podobno jest ukradzione innej istocie. W Pierwszym Cyklu przysięgał wierność [[Lucy Shealez|Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
 Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie znany tam jako "Czujny Powój", jest [[Strażnik]]iem tamtego świata (jednym z kilku). Widziano go wśród powoji jako wielkiego psa i wszyscy sądzili, że jest powojem, jednak jego związek z [[Czarny powój]] sugeruje inaczej (Powoje nie mogą "mieć" powojów jak ludzie). Więc jak wszystko z Eimhrickiem, niejasne, zakłamane.
 
