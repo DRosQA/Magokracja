@@ -6,7 +6,7 @@ aliases:
   - Laxus Viridian
 ---
 Pełna [[Melodia]], odbicie [[Ciaran Conejero]]. Przybiera formę dziecka.
-Współdzielona z [[Alexandra Komnena]], posiadając wtedy imię **Laxus Viridian**.
+Współdzielona chwilowo z [[Alexandra Komnena]], jako Laxus Viridian.
 
 ### Cytat
 Hope is a weapon
@@ -20,3 +20,6 @@ make it from will power, make it from spite
 learn to weaponize love in a fight
 hope is a shield and a thing to defend
 end in itself and means to an end
+
+### Laxus Viridian
+Błąkające się echo Melodii Alexandry, Nadziei, które czekało, aż dotrze do swojego odbiornika w kolejnym [[Cykl]]u. Błąkało się z powodu niemożności Ciarana do słyszenia jakiejkolwiek Melodii, do czasu.

@@ -5,6 +5,8 @@ tags:
   - Iv
   - Mag/Kolorów
   - Konstrukt
+aliases:
+  - Piórko
 ---
 Imperium zna go jako jednego z [[Asasyni Imperialni]], w wielkim kapeluszu z ogromnym, niebieskim piórem. Służył w [[grupa Abradean]]. Profesor [[Kotara]], nauczyciel Zielonego Piórka.
 
@@ -13,9 +15,12 @@ Podczaj [[Miesiąc Imperialny]] w 1383 dowiedzieliśmy się od [[Calicus Tertusa
 Książkę taką zepsuła też [[Lucy Shealez]], próbując ją rozwiązać przez wymuszenie na niej pokazanie więcej niż 1 strony na raz swoimi zdolnościami, przez co książka wybuchła ogromną ilością stron i swoich kopii.
 
 ### Tysiące Piórek
-Znany był wśród wtajemniczonych ze swojej dziwnej ([[manachoroba]]?) zdolności pojawiania się niemal gdziekolwiek przez przejście z dowolnych drzwi/okiennic do innych dowolnych drzwi/okiennic. 
+Znany był wśród wtajemniczonych ze swojej dziwnej ([[mana|manachoroba]]?) zdolności pojawiania się niemal gdziekolwiek przez przejście z dowolnych drzwi/okiennic do innych dowolnych drzwi/okiennic. 
 W rzeczywistości, każde takie przejście było przybyciem innego Piórka ze [[Strumień]]. nie zawsze o tych samych celach i lojalnościach, często otwarcie walczącemu przeciw temu, co 'poprzedni' Piórko próbował osiągnąć. Ostatecznie, każdy z nich w gruncie rzeczy pragnął pozbyć się wszystkich innych i zostać jedynym Piórkiem, tj. pozbyć się problemów wynikających z jego manachoroby, pozostawiając przydatne zdolności z nią związane.
-Sprawa ta zakończyła, gdy [[grupa Lucy]] wraz z [[Dallian Plateur]] odwiedzili "Dom z Monetami" w [[Caspia]]. Przejście przez odpowiednie drzwi poprowadziło nas do [[Johan Ekbert]] (wtedy tajne "cywilne" imię Piórka), którego [[Luka Attaliate]] zakotwiczył do samego siebie, tworząc wreszcie stabilne połączenie pomiędzy Piórkiem a warstwą Devi. Dotąd oryginalny Piórko nie mógł on się pojawić stabilnie na warstwie, bo zawsze gdzieś istniała jakaś inna "kopia" Piórka przez co nie mógł nawiązać połączenia z warstwą.  
+Sprawa ta zakończyła, gdy [[grupa Lucy]] wraz z [[Dallian Plateur]] odwiedzili "Dom z Monetami" w [[Caspia]]. Przejście przez odpowiednie drzwi poprowadziło nas do [[Johan Ekbert]] (wtedy tajne "cywilne" imię Piórka), którego [[Luka Attaliate]] zakotwiczył do samego siebie, tworząc wreszcie stabilne połączenie pomiędzy Piórkiem a warstwą Devi. Dotąd oryginalny Piórko nie mógł on się pojawić stabilnie na warstwie, bo zawsze gdzieś istniała jakaś inna "kopia" Piórka przez co nie mógł nawiązać połączenia z warstwą.
+
+### Pijawka
+Istniała osoba, zwana Pijawka, jako jeden z [[Łowcy imperialni]]. Pijawka okazał się zdrajcą, który pracował na zlecenie jednego z Niebieskich Piórek. Ponadto niedługo po tym okazało się wręcz, że był wylewem kotary, który ów Piórko wykonał w celach motania i infiltracji Łowców.
 
 ### Piórko, podróżnik Strumienia
 Ten oryginalny "Niebieskie Piórko" to martwa istota z [[Iv]], która kontynuuje istnienie dzięki symbiozie ze świadomym golemem-pancerzem, w którym się znajduje. Ta fuzja właśnie jest Piórkiem.

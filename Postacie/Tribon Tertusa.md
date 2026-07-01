@@ -10,6 +10,6 @@ aliases:
 Poprzedni [[Imperator|Namiestnik Imperium]]. Wprowadził [[Edykt o Restoracji Imperium]]. Wybitny naukowiec [[mana|kolory many]].
 Wierny doktrynie [[Nasizar Tertusa]], dlatego przyjął tytuł Namiestnika nie Imperatora (choć i tak z przyzwyczajenia nazywano go per Imperator).
 
-Dążył do zdobycia jednego z [[Tron]] [[Ludy Króla Królów]], co też mu się udało. Odpowiedzialny za zlecenie zabójstwa [[Antonia Bruinia]], co ściągnęło mu na głowę [[Czerwoni Egzekutorzy]] i spowodowało jego upadek ale i wyciągnęło, że był [[manipulacja|manipulowany]].
+Dążył do zdobycia jednego z [[Spójności|Tronów]] od [[Ludy Króla Królów]], co też mu się udało. Odpowiedzialny za zlecenie zabójstwa [[Antonia Bruinia]], co ściągnęło mu na głowę [[Czerwoni Egzekutorzy]] i spowodowało jego upadek ale i wyciągnęło, że był [[manipulacja|manipulowany]].
 
 Aktualnie podopieczny [[Julius Pretres]] jako Sędzia Pokoju, funkcja równa [[Rozjemca Imperialny]] ludów poza Imperium.

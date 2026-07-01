@@ -8,4 +8,3 @@ Nie są tożsami z istotami, jak Strażnicy czy Sędziowie, choć mają możliwo
 # Znani Malarze
 - John Johnan (Iv, Hel)
 - Johin Johain (Lune, Psyh)
-- 

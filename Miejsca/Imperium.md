@@ -9,7 +9,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 
 ### Formacje Imperialne
 - [[Chorągiew Imperialna]]
-- [[Złota Gwardia]]
+- Złota Gwardia - elitarne oddziały Armii Imperium
 - [[Asasyni Imperialni]]
 - [[Łowcy Imperialni]]
 - Armie Imperium
@@ -71,7 +71,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada]] ze Spektrum Emocji
 9. 778-781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium.
 10. 817-856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**; pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
-11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową Aillią Comnouve na czele.
+11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową **Aillią** Comnouve na czele.
 12. około 1024-1124 - Złoty Wiek Imperium.
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]].
 14. 1383 - czasy obecne: [[Bitwa o Caspię]], [[zjazd w Kronstadt]].
@@ -95,7 +95,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 * **Glyieus** (podwładni Comnouve).
 * **Nouvell** (podwładni Comnouve).
 * **Sanler** (podwładni Heistrom).
-* [[Berggrath]] (podwładni Heistrom).
+* **Berggrath** (podwładni Heistrom).
 * **Rikellen** (podwładni Heistrom).
 * **Plieach** (podwładni Bruinia).
 * **Casanais** (podwładni Bruinia).

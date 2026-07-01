@@ -34,7 +34,7 @@ Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitw
 - **Halas** Macabba, wieszcz (z ludu Mistrzów Rzemiosł)
 - **Pinagata** Kadusz Waraga, Głoszący (z ludu Panów)
 - **Maiuni** Syn Narodów, złotoświatło (z ludu Solarnych)
-- **Spalona** Wiara (z ludu Spalonych)
+- Spalona **Wiara** (z ludu Spalonych)
 - [[Dhim Shayat]] (z ludu Strun)
 - [[Spójność Ank'ara|Kotaarah]] (z ludu Strun)
 - **Anton** Ottokalou Paggaba, Ojciec ludu Nocy Obsydianu

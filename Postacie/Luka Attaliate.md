@@ -12,7 +12,7 @@ Aby zastąpić brak ręki, stworzył magiczną protezę, w niejasny dla siebie s
 W [[Kronstadt]] pracował w warsztacie rzemieślniczym specjalizującym się w inżynierii oraz służył jako asasyn-adept. Tam też przydzielono go do służby pod [[Lucy Shealez]].
 W [[Caspia]] uzyskał awans na faktycznego asasyna oraz zaprzyjaźnił się z jednym z [[Niebieskie Piórko]], oferując mu siebie jako "kotwicę", dzięki czemu był też bliski [[Johan Ekbert]] i później faktycznego Piórku.
 
-"Cierpiał" na [[manachoroba]] która sprawiała, że golemy, które tworzył, objawiały się jako pełnoprawne "osoby" z własnym Psyh, zamiast procesy w pełni pod kontrolą jego Soye. Jego największym dokonaniem zawodowym była zbroja-golem, stworzona dla [[Basiline Soyescari]].
+Cierpiał na "[[mana|manachorobę]]" która sprawiała, że golemy, które tworzył, objawiały się jako pełnoprawne "osoby" z własnym Psyh, zamiast procesy w pełni pod kontrolą jego Soye. Jego największym dokonaniem zawodowym była zbroja-golem, stworzona dla [[Basiline Soyescari]].
 
 ### Trio asasynów
 W dawnym starciu z Kryształowymi Imperatorami obecni byli także dwaj inni adepci asasyństwa, [[Floril di Lauberg]] i [[Gethis Attaliate]]. Według oficjalnych informacji, ci chłopcy zginęli, na długo traumatyzując młodego Lukę.

@@ -39,7 +39,7 @@ Z Piekielnym Ogniem wiąże się wiele wydarzeń/wyraźnych cech:
 - jest ewolucyjne; obserwując ewolucję Cienia, samo ponownie sięgnęło do "porzuconego dziecka", Krystyny, absorbując ją w siebie (razem z powojem Russ-em)
 
 ### Zbawca (Czarny)
-Rdzennie związane z florą (jako zielony), obecnie z [[Vanta]] z powodu objawienia się przyszłościowej [[Pokój Lucy (przyszłość)|Siostry Noary]] (przekierowując kolor w czarny). Najpierw połączyło się z [[Noara Schieberg]] (po jej osądzie przez [[Scari]]ego) i w niej rozpoczęło krystalizację. Zakończyło ją jednak w Siostrze Noarze, która wpłynęła drastycznie na całą ideę tego Kryształu.
+Rdzennie związane z florą (jako zielony), obecnie z [[Vanta]] z powodu objawienia się przyszłościowej [[Noara Schieberg|Siostry Noary]] (przekierowując kolor w czarny). Najpierw połączyło się z Noaraą (po jej osądzie przez [[Scari]]ego) i w niej rozpoczęło krystalizację. Zakończyło ją jednak w Siostrze Noarze, która wpłynęła drastycznie na całą ideę tego Kryształu.
 
 ### Uśpiona Kolebka
 Póki co zaledwie Klejnot, dziecko. Przejęło powiązanie z florą/[[Lune]] od Zbawcy. Patron [[manatknięcie|lud many]].

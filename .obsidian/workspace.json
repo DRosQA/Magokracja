@@ -4,109 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef060d57bba1a5b",
+        "id": "a08cab1d7dcd9b47",
         "type": "tabs",
         "children": [
           {
-            "id": "d167a2c3db240c3f",
+            "id": "0d39e72d21e4b7c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/mana.md",
+                "file": "Wydarzenia/Bitwa Zaćmienia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mana"
+              "title": "Bitwa Zaćmienia"
             }
           },
           {
-            "id": "053e8f332d60e916",
+            "id": "3df3c830cb351cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/manatknięcie.md",
+                "file": "Postacie/Noara Schieberg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manatknięcie"
+              "title": "Noara Schieberg"
             }
           },
           {
-            "id": "34c4932d55881591",
+            "id": "073cd6c078b2a46f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Pięć Iglic.md",
+                "file": "Lore/Pokój.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pięć Iglic"
+              "title": "Pokój"
             }
           },
           {
-            "id": "02817de11dbf59a7",
+            "id": "0e1776f2ff2029c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miejsca/Imperium.md",
+                "file": "Postacie/Lucy Shealez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imperium"
+              "title": "Lucy Shealez"
             }
           },
           {
-            "id": "35da106373a7b854",
+            "id": "e6696671b8313c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/rodzeństwo Mirtlass.md",
+                "file": "Wydarzenia/rebelia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rodzeństwo Mirtlass"
+              "title": "rebelia"
             }
           },
           {
-            "id": "6e7ace992d899656",
+            "id": "173e83a68a85afdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/Armada.md",
+                "file": "Wydarzenia/starcie z renegatami.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armada"
-            }
-          },
-          {
-            "id": "5b9f093ef02387ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postacie/Antonia Bruinia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antonia Bruinia"
+              "title": "starcie z renegatami"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,34 +237,34 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "5b9f093ef02387ca",
+  "active": "d567e8037b5ef430",
   "lastOpenFiles": [
-    "Lore/Artefaktyczne Społeczeństwo.md",
-    "Postacie/Eclipse.md",
-    "Postacie/Antonia Bruinia.md",
-    "Lore/manatknięcie.md",
-    "Lore/mana.md",
-    "Postacie/rodzeństwo Mirtlass.md",
-    "Lore/Imperator.md",
-    "Postacie/Torcael Bruinia.md",
-    "Miejsca/Ludy Króla Królów.md",
-    "Lore/Pięć Iglic.md",
-    "Postacie/Armada.md",
+    "Wydarzenia/starcie z renegatami.md",
+    "Wydarzenia/rebelia.md",
+    "Postacie/Darrko Comnouve.md",
+    "Postacie/Luka Attaliate.md",
+    "Lore/Grath.md",
+    "Postacie/Eriend Grath.md",
+    "Lore/Lokaje Kotary.md",
+    "Lore/Magokraci Netheru.md",
+    "Lore/Spójności.md",
+    "Postacie/Matthindrik Heistrom.md",
+    "Wydarzenia/zjazd w Kronstadt.md",
+    "Postacie/Lucy Shealez.md",
+    "Wydarzenia/Wojna o Wybrzeże Turkusowe.md",
+    "Wydarzenia/Wojna Czystki Krwi.md",
+    "Wydarzenia/starcie z Orthisem.md",
+    "Wydarzenia/poszukiwania Francisa.md",
+    "Wydarzenia/pojedynek Championów.md",
+    "Wydarzenia/pieśń Veroniqué.md",
+    "Wydarzenia/Bitwa Zaćmienia.md",
+    "Wydarzenia/Bitwa o Caspię.md",
+    "Lore/Pokój.md",
+    "Lore/Pokój Lucy (przyszłość).md",
+    "Lore/Kryształowy Imperator.md",
+    "Postacie/Noara Schieberg.md",
     "Miejsca/Imperium.md",
-    "Postacie/Ava Schieberg.md",
-    "Postacie/Stalokrew.md",
-    "Lore/Cywilizacja Szlachetnych.md",
-    "Lore/Melodia.md",
-    "Lore/magia.md",
-    "Lore/magioklizm.md",
-    "Postacie/Niema.md",
-    "Lore/magia kolorów.md",
-    "Lore/Cykl.md",
-    "Lore/manaklizm.md",
-    "Postacie/Iriand Augustus.md",
-    "Kruczy Król.md",
-    "Postacie/Hesefa Pretres.md",
-    "Postacie/Octavian.md",
+    "Lore/Lud Krwi.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

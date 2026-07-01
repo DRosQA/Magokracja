@@ -15,4 +15,3 @@ Połączenie z jedną z nich było przez wieki przekazywane wśród [[Imperium|L
 * siostra **Cień**, o imieniu obranym po swoim prawdziwym twórcy - jedna z twórczyń Eonów, realna liderka Północy, prowadząca "za rączkę" [[Natannes Heistrom]] do objęcia władzy w Imperium
 * siostra **Halaike**, odpowiedzialna za Korytarz Masek, który chronił przed wejściem do Sali Czarnej Kotary (w miejscowości dalekiej północy - Strom), gdzie Cień się krystalizował i chciał spokoju
 * siostra **Khaina**, nie wiadomo, jaka była jej przyczyna powstania, jednak można przypuszczać, że była obrońcą tajemnic północy, patrząc po ilości cudzej broni, jaką zdobyła na przestrzeni wieków
-

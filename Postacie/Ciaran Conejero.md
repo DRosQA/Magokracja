@@ -8,8 +8,8 @@ tags:
 
 Przyjaciel [[Markus Pretres]], [[Hesefa Pretres]] i [[Eimhrick]], którego jest uczniem. Aktualnie pracuje dla [[Lucy Shealez]]. 
 
-Od urodzenia cierpi na [[manachoroba]] zaburzającą jego zmysły (synestezja z [[mana|kolory many]]). Przez większość życia niewidoczny dla Melodiaes ze względu na brak swojej własnej Melodii, dopóki nie zżarł _kwiatu lucerny_, który po rozmowie (!) z nim podarowała mu sama [[Lucerna]]. 
-Ostatnio uzyskał własną Melodię o imieniu [[Nadzieja]]. Wcześniej myślał, że jego Melodią jest [[Laxus Viridian]]. 
+Od urodzenia cierpi na [[mana|manachorobę]] zaburzającą jego zmysły (synestezja z [[mana|kolory many]]). Przez większość życia niewidoczny dla Melodiaes ze względu na brak swojej własnej Melodii, dopóki nie zżarł [[kwiat Lucerny]] (który po rozmowie z nim podarowała mu sama [[Lucerna]]) i uzyskał połączenie z Melodią od [[Alexandra Komnena]].
+Ostatnio uzyskał własną Melodię o imieniu [[Nadzieja]].
 
 # Młodość
 Ciaran nie pochodzi ze szlacheckiej rodziny, jak większość magów. Nauki magii w Akademii Sulamis zostały mu zasponsorowane przez patrona, któremu potem miał służyć. Niestety, często wdawał się w konflikty z innymi uczniami, którym nie w smak było towarzystwo wieśniaka. Problem ten miał swoją kulminację w sporze z dręczącym go od dłuższego czasu Fransedo Marya Casanais, którego Ciaran przypadkiem mocno poparzył w samoobronie. Bojąc się kary, uciekł, po raz pierwszy wykorzystując swoją więź z [[Iv]]. Tak technicznie stał się renegatem, choć dzisiaj ma na koncie o wiele więcej i dużo gorszych wykroczeń przeciw Imperium. 

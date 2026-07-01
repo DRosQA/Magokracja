@@ -8,6 +8,6 @@ Za czasów Unii Dwóch Koron istniał pierwowzór tego stanowiska w formie Łowc
 - [[Scari]]
 - [[Lucjusz Alvibraten]]
 - [[Leon Heistrom]]
-- [[Pijawka]]
+- [[Niebieskie Piórko|Pijawka]]
 - [[Czerwona Wilczyca]] i [[Eriend Grath]] razem jako "Kryształowi Imperatorzy"
 - [[Dallian Plateur]]

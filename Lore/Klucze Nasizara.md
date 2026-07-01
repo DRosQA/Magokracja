@@ -1,1 +1,1 @@
-
+Nazywane błędnie "uniwersalnymi" podczas gdy każdy z około 20 000 z nich jest własnością [[Nasizar Tertusa]]. Klucze Nasizara wykorzystywane są przez dom Nasizar, jako katalizatory używania [[magia]] [[Klucz]]y bez wymogu posiadania jej. Ród Nasizar ściśle ukrywa informację, że jest ich skończona ilość oraz jaka jest ich prawdziwa natura. Znamienita część tych kluczy jest wykorzystana w produkcji [[Błyskawnica]].

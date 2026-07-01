@@ -19,7 +19,7 @@ Jedna z pięciu decydujących o [[Pokój]].
 ### Przygody
 - W czasie nauk akademickich jej największym rywalem w walce był **Arthur Taragain**, który zawsze był bardzo blisko pokonania jej ale nie udało się to tu ani razu.
 - Dużą część swojej młodości poświęciła na poszukiwania zaginionej kuzynki, [[Visena Shealez]]. W tym okresie spotkała też [[Cilla Scari|Calvara Taragain]].
-- Podczas wykonywania zadań dla Garghaisa, zaznajomiła się z [[Liamara Samir Romaba Akallaba]].
+- Podczas wykonywania zadań dla Garghaisa, zaznajomiła się z [[Liamara Akallaba]].
 - W [[Vazar]] dźgnęła [[Octavian|Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] Octaviana. Był tak uwięziony, aż zmanifestował się, jako **Kryształ Rozmaz Krwi**.
 
 ### Przemyślenia nad pokojem
@@ -31,11 +31,17 @@ Kolejna sprawa, istoty nieludzkie, odmienne, pochodzące z innego świata nie mo
 
 Oczywiście tak długo, jeśli przestrzega prawa i norm obowiązujących w imperium. Oczywiście niektóre prawa w związku z tym muszą być zmienione. Ale zdaję sobie sprawę, że nie wszystko można osiągnąć w jeden dzień.”
 
+Choć poniżej to opis wydarzeń, które jeszcze nie nastały, jest to jedna z podstaw jej Drogi Pokoju, co oznacza, iż [[Strumień]] jest jak lejek spychany choć częściowo ku tej drodze:
+- Lucy będzie do śmierci wierna swoim zasadom, ale nie sięgnie po Iskrę Hel, nie rozpali Hagart-Satra
+- świat stanie się rozwojowy ~~ techno-magiczny, bardziej merytoryczny w polityce, bardziej sprawiedliwy w sądach i społecznie
+- jej esencja z dnia ataku w stolicy na Natannesa przejdzie na konstrukt **Siostrę Lucy**, na którą będzie oczekiwać Albia
+- jako Siostra Noara będzie w trójosobowym zespole uderzeniowym razem z Siostrą [[Noara Schieberg|Noarą]]
+
 ### Znacząca rodzina
 - ojciec **Tearlach** Shealez
 - kuzynka **Martella** Shealez-Sanler
 - kuzynka **Visena** Shealez
 
-### Hagarth Satra
+### Hagarth-Satra
 Tzw. _Iskra Hel_, rdzenny Feniks, boska siła, champion warstwy [[Hel]] w [[Cykl|Pierwszym Cyklu]], przerażający tyran. Walczyła przeciw Delirum-Ferarosa a ich bój brutalnie zakończył Pierwszy Cykl.
 Jej heraldem był [[Eimhrick]] a generałem [[Nagrar-Stirn]].

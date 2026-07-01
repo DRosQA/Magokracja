@@ -5,6 +5,7 @@ tags:
   - Decydujący
   - Psyh
 ---
+
 Jedna z pięciu decydujących o [[Pokój]]. Ostatnia z inkarnacji [[Cisza]].
 
 Jej burzliwa historia rozpoczyna się od objawionego w wieku dziecięcym niebywałego talentu w magii, okupionego wylewami many w różnej postaci. Specjaliści nie potrafili sobie poradzić z jej wylewami a tutorzy jakkolwiek nauczać. Decyzją ówczesnego rektora Uniwersytetu Imperialnego **Vespina Galaga Neston Nasizar** (Prof. Kluczy) nałożono na nią maksymalne Restryktory, potencjalnie blokujące magię całkowicie. Gdy to nie pomogło, sam ówczesny pan Imperium, [[Tribon Tertusa]], zdecydował się na uczestniczenie w nałożeniu nowych, jednak tym razem popartych Kluczami bezpośrednio jego oraz Vespina. Łączna ilość blokad wystarczyłaby na zamknięcie magii wszystkich potężnych więźniów trzymanych w stolicy a jednak to nie wystarczyło. Noara wciąż sączyła manę ALE tym razem w stopniu, który pozwalał używać jej tylko niskiej magii. Choć zatem proces blokad zakończył się "sukcesem", Noara realnie była silnie związana jakby grubymi sznurami i cienkimi garotami, skręcając ją, raniąc ją, dusząc ją...
@@ -17,8 +18,7 @@ Od tamtego czasu została wzięta pod szczegółową pieczę Livonii Rosa, z cza
 
 ### Pokój Noary
 Choć poniżej to opis wydarzeń, które jeszcze nie nastały, jest to jedna z podstaw jej Drogi Pokoju, co oznacza, iż [[Strumień]] jest jak lejek spychany choć częściowo ku tej drodze:
-- dołączy do haremu **Sene Mumes** i będzie matką [[Ava Schieberg]] oraz **Simona Asong Schieberga** (ojcem będzie Kai)
+- dołączy do haremu **Sene Mumes** i będzie matką [[Ava Schieberg]] oraz **Simona** Asong Schieberga (ojcem będzie Kai)
 - jej esencja z dnia ataku w stolicy na Natannesa przejdzie na konstrukt **Siostrę Noarę**
 - jako Siostra Noara będzie w trójosobowym zespole uderzeniowym razem z Siostrą [[Lucy Shealez|Lucy]]
 - [[Kryształowy Imperator]] **Czarny Zbawca** krystalizuje się w Siostrze Noarze po tym, jak w oryginalnej Noarze Schieberg Imperator **Zbawca** porzuca kolor Lune
-- 

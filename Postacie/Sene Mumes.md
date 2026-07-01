@@ -3,4 +3,6 @@ tags:
   - człowiek
   - Mag
 ---
-Matrona [[Harem Sene]], serce grupy, które gwarantuje ich lojalność i morale. 
+Jedna z [[Klasa Livonii]].
+
+Matrona [[Harem Sene]], serce grupy, które gwarantuje ich lojalność i morale.

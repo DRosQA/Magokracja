@@ -17,4 +17,4 @@ Twórcy/projektanci pierwszych [[Spójności]], należący do [[Cywilizacja Przo
 - [[Octavian]] (nadzorca i koordynator), wiążący Psyh
 - [[Alexandra Komnena]] (ochrona i otucha), wiążąca Nute
 - niepoznany dotąd przodek, wiążący Devi
-- [[Skiala]] (wzorzec/matryca ludzi)
+- [[Skiala]] (wzorzec/matryca ludzi), ideowo dotykająca Vorel

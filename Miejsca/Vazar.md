@@ -1,6 +1,6 @@
 Duże miasto [[Imperium]], stolica regionu o tej samej nazwie. Jest powiedzenie, że "w Vazar nigdy nic się nie dzieje".
 
-Protektorem (mianowanym) miasta jest obecnie uprawniona przez [[Lucy Shealez]] **Palmira** Knadr-Vatounet, ze Szkarłatnej Brygady [[Złota Gwardia]]. Vazar jest miastem, które żyje w cieniu [[rodzeństwo Mirtlass]].
+Protektorem (mianowanym) miasta jest obecnie uprawniona przez [[Lucy Shealez]] **Palmira** Knadr-Vatounet, ze Szkarłatnej Brygady Złotej Gwardii. Vazar jest miastem, które żyje w cieniu [[rodzeństwo Mirtlass]].
 
 ### Dwór Vazar
 - książę **Francis** Vatounet, były Protektor

@@ -18,11 +18,10 @@ Po uwolnieniu [[Niema|Niemej]] okazało się, że każda Melodia jest jej aspekt
 [[Steliae]], choć wydawały się do tej pory najwyższym typem Melodii, obecnie jasnym jest, że są na równi z Niemą i zwyczajnie mają wielkie podobieństwo do niej, ale z powodu bycia Steliae nie Melodią.
 
 ### Lista pełnych Melodii Dworu Alvibraten
-
 Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo kontrowersyjnym procesie "rośnięcia kapustek". Obecnie przebywają  w [[Posiadłość Lucjusza]].
 
 - **Anilla V**, kiedyś w służbie [[Luka Attaliate]], obecnie pracuje jako technolog.
-- **Laura** (Comnouve) od [[Marek Augu]], młodsza siostra Charles'a i [[Ogrody Rosa|Edelrosa]]'y.
+- **Laura** (Comnouve) od [[Marek Augu]], młodsza siostra Charles'a i [[Ogrody Rosa|Edelrosa]]'y, razem z bratem, Charles'em, uczniowie [[Klasa Livonii]].
 - **Charles** (Vatounet), starszy brat Laury, młodszy [[Ogrody Rosa|Edelrosa]]'y.
 - **Bridgette**, szambelanka.
 - **Linette**, kamerdyner.
@@ -37,8 +36,7 @@ Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo ko
 - **Verona**, dowódca straży.
 
 ### Lista pozostałych znanych pełnych Melodii
-- **Veroniqué** od [[Leofast Alvibraten]], szermierka ostrza [[Lūna]]. Wiąże się z nią [[pieśń Veroniqué]].
+- **Veroniqué** od [[Leofast Alvibraten]], szermierka ostrza [[Sirezai Lūna'rah|Lūna]]. Wiąże się z nią [[pieśń Veroniqué]].
 - [[Livonia Rosa]] od Lilianny, badająca Strumień.
 - [[Nadzieja]] od Ciarana.
-- **Echo Serenada** od Cesarza Złoty Powój XXXV.
 - **Echo Scari**, która istnieje sama dla siebie.

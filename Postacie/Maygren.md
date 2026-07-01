@@ -17,5 +17,3 @@ Podczas swoich podróży przez Strumień poznał [[Heigem Strom|Heigemonia]]ę, 
 - twórca [[Kraina Qa]]
 - założyciel [[Czerwoni Egzekutorzy]]
 
-
-

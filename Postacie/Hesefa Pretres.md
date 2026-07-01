@@ -6,15 +6,16 @@ tags:
 ---
 Córka [[Markus Pretres]] z jego żoną z [[Ludy Króla Królów|Białych Piasków]]. 
 
-Magister Władzy. Przyjaciółka [[Lilianna Schieberg-Rosa]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio. W Liliannie bez wzajemności trochę zakochana.
+Magister Władzy. Przyjaciółka [[Lilianna Schieberg-Rosa]] i [[Antonia Bruinia]], z którymi funkcjonowały jako eksplozyjne trio [[grupa Antonia]]. W Liliannie bez wzajemności trochę zakochana.
 Koleżanka [[Ciaran Conejero]] przez swojego ojca.
 
 Przez jakiś czas pod wpływem [[manipulacja]], przez którą (oraz jego związek z Lilianną) próbowała zabić [[Lucjusz Alvibraten]] w trakcie [[Miesiąc Imperialny]]. Nie wiadomo, czy celem tej manipulacji ostatecznie był Lucjusz, czy ona jako osoba związana ze Stelią, czy była tylko dojściem do Antonii etc.
 
 Po próbie kolorów wyruszyła w warstwy "odnaleźć siebie" i odkryła swoją Melodię, [[Steliae|Scientia Incariante]]. 
-Jej Powój połączył się z [[Stalokrew|Kruczym Królem]] sprawiajac, że ma powdójny Powój (jak dwugłowa hydra). 
+Jej Powój połączył się z [[Stalokrew|Kruczym Królem]] sprawiając, że ma podwójny Powój (jak dwugłowa hydra).
 
-Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[rodzeństwo Mirtlass|Erzsebeth Mirtlass]]. 
+Aktualnie wpół-legalnie ale ukrycie nosi Protektorską Rękawicę i łańcuch Rozjemcy po swoim ojcu oraz pierścień rodowy [[rodzeństwo Mirtlass|Mirtlassów]].
+
 ## Zaklęcie prawdy
 
 Zaklęcie prawdy, które podarowała [[Ciaran Conejero]], dzięki któremu odkrył swoją prawdziwą Melodię. Nie wiadomo, skąd je ma, ale zna je też Eimhrick. 

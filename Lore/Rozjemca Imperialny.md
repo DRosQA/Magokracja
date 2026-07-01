@@ -10,7 +10,8 @@ Istnieje też instytucja **Rozjemcy Mianowanego**, tj. osoby wykonującej częś
   Niejaka _Lord Imperialnej Fortecy_, cokolwiek to znaczy.
 - **Beson** Fonche
   Pan na zamku Dardon, z własnej woli wciąż marszałek polowy Złotej Gwardii.
-- [[Silcair Hoppenberg]]
+- **Silcair** Hoppenberg
+  Przyjaciel Sareeda, alchemag, który dał radę zrozumieć coś w rodzaju "kamienia filozoficznego" [[mana]].
 - **Sareed** Nahak Souaz
   Przyjaciel Silcair'a, technomag, który przywrócił do funkcjonalności [[Spójność Ank'ara|Calicio]], proces.
 - **Ali** Ogedba Raffani 

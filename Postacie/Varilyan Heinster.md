@@ -24,6 +24,6 @@ Widzę poświęcenie towarzyszy. Widzę sceny zdrady. I ostatnią wolę brata. W
 Widzę, jak wypuszczasz ostatni oddech. Widzę mężczyznę, który wraca do domu żywy.
 Ale to już nie jesteś ty."
 
-Niedawno zorientował się, że był [[manipulacja|manipulowany]], bez swojej świadomości ktoś podsuwał mu wiedzę do przekazania Antvelowi itp. Artrosa, przyznała się, że to ona podsuwała mu książki o potencjalnym "wrogu" w [[Biblioteka Lune]], jednak wcześniej sam Varilyan był podatny i uległ błędnej, zmanipulowanej "intuicji" o wrogu, brnąc samemu w kłamstwo i kłamiąc innych.
+Niedawno zorientował się, że był [[manipulacja|manipulowany]], bez swojej świadomości ktoś podsuwał mu wiedzę do przekazania Antvelowi itp. Artrosa, przyznała się, że to ona podsuwała mu książki o potencjalnym "wrogu" w Bibliotece Lune, jednak wcześniej sam Varilyan był podatny i uległ błędnej, zmanipulowanej "intuicji" o wrogu, brnąc samemu w kłamstwo i kłamiąc innych.
 
 Zakończył szeroko pojętą egzystencję, przeistaczając się w jednego spośród "wyroczni lune".

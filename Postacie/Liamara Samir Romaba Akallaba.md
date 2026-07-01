@@ -1,1 +1,0 @@
-Z ludu [[Ludy Króla Królów|Nocy Obsydianu]], jedna z [[Poszukujące]].

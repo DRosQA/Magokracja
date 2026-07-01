@@ -12,7 +12,7 @@ Jego ojciec, Xavrik, był kiedyś jednym z [[Asasyni Imperialni]]; jego zadaniem
 
 Jest szeroko znany z braku poszanowania dla własnego życia: swój status Łowcy zdobył jako żak/uczeń, poprzez niemal popełnienie samobójstwa w starciu z [[Eon]] - w emocjach przypadkiem otworzył przejście, przez które przeszło i połączyło się z nim coś, co określiło się per "Przepaść" (by ostatecznie zakorzenić się, jako Powój Lucjusza), co zatrzymało eona i zostało uznane za zdany test Łowcy. Dotąd nie do końca wiadomo jednak, czym Przepaść jest, skąd pochodzi i dlaczego się pojawił. 
 
-"Cierpi" na [[manachoroba]] sprawiającą, że magia - zarówno pozytywna jak i negatywna - działa na niego o wiele silniej. 
+Cierpi na "[[mana|manachorobę]]" sprawiającą, że magia - zarówno pozytywna jak i negatywna - działa na niego o wiele silniej. 
 
 # Problemy z Melodią
 Lucjusz jest od zawsze rozharmonizowany ze swoją Melodią, choć nie zdaje sobie z tego sprawy. Problemy te są najprawdopodobniej wywołane są tym, że jego Powój w gruncie rzeczy nie jest Powojem, tylko istotą z niewiadomo skąd, być może nawet "zza [[Kotara|subkotary]]".  

@@ -3,6 +3,6 @@ tags:
   - człowiek
   - Mag
 ---
-Miłośnik muzyki w walce, znany z "tańca z mieczem" i "drygowania mieczem". 
+Jeden z [[Klasa Livonii]].
 
-Aktualnie w [[Kronstadt]]
+Miłośnik muzyki w walce, znany z "tańca z mieczem" i "dyrygowania mieczem". Barwna postać, przyswajająca błyskawicznie "nowe piękno", czy to zagadnienia sztuki, czy walki czy magii; jakiekolwiek piękno chwyci jego zainteresowanie, Giovan na pewno je rozwinie znacznie.

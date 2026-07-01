@@ -12,7 +12,7 @@ Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą by�
 3. Imperator **Aillia** Comnouvem, która przyłączyła do Imperium ziemie Królestwa Strom, natomiast była strasznym tyranem - władca od 954
 4. Imperator [[Nasizar Tertusa|Nasizar Tertusa]] - władca od 965 do 973
 5. Namiestnik Imperium [[Greygor Schieberg]] - władca od 973 do około 1024
-6. Namiestnik Imperium [[Komnen Merdrada Attour Bruinia]] - władca około 1050
+6. Namiestnik Imperium [[Komnen Bruinia]] - władca około 1050
 7. Samozwańcza Imperator, **Nina** Bruinia, żona Komnena (złośliwcy szydzą, że była tylko jego ladacznicą), udało jej się zrobić mnóstwo bałaganu :) - władca około 1070
 8. Samozwańczy Imperator **Diogos** Ferlaye Soyescari, który nadał prawo, gdzie nowy Imperator jest wyznaczany poprzez testament rządzącego Imperatora - włada około 1097
 9. mało ważni Samozwańczy Imperatorzy i Namiestnicy, po których nic ciekawego nie zostało, gdyż między innymi zmagali się z kryzysem postępującej recesji Imperium, kończąc tak Złoty Wiek (w roku 1124)

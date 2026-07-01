@@ -1,4 +1,6 @@
-* [[Kai Tamcibay]]
+Legendarny rocznik Uniwersytetu Imperialnego, w którym ilość talentu na krzesło przekraczała wcześniejsze 10 lat razem wzięte. Ponadto głównym nauczycielem klasy była [[Livonia Rosa]], może tylko magiczny duch, który chodził po korytarzach, może jakiś wylew kotary, może podróżnik [[Strumień]]ia, może cokolwiek innego, czego na chwilę obecną nie da się wyjaśnić.
+
+- [[Kai Tamcibay]]
 - [[Julius Pretres]]
 - [[Cilla Scari]]
 - [[Leon Heistrom]]
@@ -12,5 +14,3 @@
 - [[Obante Kidapis]]
 - [[Troy Deviscari]]
 - [[Sene Mumes]]
-
-Prowadzona przez [[Livonia Rosa]].

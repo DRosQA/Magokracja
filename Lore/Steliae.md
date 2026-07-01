@@ -3,7 +3,7 @@ tags:
   - TubylecWarstwy
   - Nute
 ---
-Pięć interstelarnych Sił do tej pory (błędnie) utożsamianych z Melodiami. Każda z nich to [[Symbol]] jednego ze [[Stan Many]]. Jednym z warunków uzyskania [[Pokój]] przez kogokolwiek, jest posiadanie po swojej stronie co najmniej jednej Steliae.
+Pięć interstelarnych Sił do tej pory (błędnie) utożsamianych z Melodiami. Każda z nich to [[Symbol]] jednego ze [[mana|stanu many]]. Jednym z warunków uzyskania [[Pokój]] przez kogokolwiek, jest posiadanie po swojej stronie co najmniej jednej Steliae.
 
 ### Adelanta Lustratia
 Głos [[Luille Alvibraten]], Symbol lotnego Stanu Many.

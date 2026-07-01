@@ -3,9 +3,9 @@ tags:
   - Hel
   - Strumień
 ---
-Materiał budowlany dla niektórych części warstw:
+Jeden z rodzajów [[magia]], jednak ideowo to jest materiał budowlany dla niektórych części warstw:
 - Czarny ([[Świat Pyłu]])
-- Złoty ([[Strumień]]))
-- Biały ([[Świat Pyłu]])
+- Złoty ([[Strumień]])
+- Biały ([[Skiaele]])
 
-Można go "metalizować" poprzez bardzo skomplikowane procesy alchemii i kowalstwa tech-many.
+Pył można "metalizować" poprzez bardzo skomplikowane procesy alchemii i kowalstwa tech-many.

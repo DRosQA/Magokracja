@@ -6,8 +6,6 @@ tags:
   - Hel
   - Powój
 ---
-Członek "rodu" [[Berggrath]].
-
 Ciało/osoba stworzona przez [[Uspokajający Powój]]. Jego istnienie i osobowość jest efektem wpływu, jaki na Uspokajający Powój miały potężne istoty, które pożarł, ale nie był w stanie do końca strawić i wchłonąć:
 - [[Krystyna]]
 - [[Wilczy Król]]
