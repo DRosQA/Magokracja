@@ -26,6 +26,4 @@ Przejście pomiędzy jednym a drugim to [[magia kolorów]], naturalnie dokonywan
 Z powodu Znaczenia vs Struktury, mana jest toksyczna, wręcz niszczycielska dla istot płytkiej many. Z kolei z powodu Struktury vs Znaczenia, fizyka jest obca, wręcz przerażająca dla istot głębokiej many. Dzięki znajomości magii kolorów istota jest w stanie dryfować na powierzchni, zachowując balans poznawczy obu aspektów Rzeczywistości.
 
 ### Manaklizm
-Wstrząs many tak potężny, że przechodzi falą przez wszystkie warstwy, powodując np. ich zderzenia (_jak morskie fale iv o skałę soye), lokalne [[magioklizm]]y, uszkodzenie [[Strumień]]ia a w skrajnej sytuacji zakończenie obecnego [[Cykl]]u.
-
-xxx
+Wstrząs many tak potężny, że przechodzi falą przez wszystkie warstwy, powodując np. ich zderzenia (jak _morskie fale iv o skałę soye_), lokalne [[magia kolorów|magioklizmy]], uszkodzenie [[Strumień]]ia a w skrajnej sytuacji zakończenie obecnego [[Cykl]]u. Choć jest ogromną dewastacją to często ma dość ukryte efekty dla większości istot, gdyż dotyka głębokich partii Rzeczywistości.

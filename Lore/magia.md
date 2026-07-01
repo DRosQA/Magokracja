@@ -1,6 +1,7 @@
 
-[[magia kolorów]]
+Niska forma [[magia kolorów]].
 Zdolność manpulacji [[mana]] poprzez wsparcie technologiczne, zwykle w formie [[Spójności]].
+
 # Spektra, kolory i typy magii wg ludzi
  Zauważ brak Nute ze względu na to, że ludzie nie znali/nie mogli postrzegać dotąd tego koloru, więc nie mogli go rozróżnić.
  Oznacza to, że wkrótce pradopodobnie dwie z magii przestaną być domeną Psyh i staną się domeną Nute.

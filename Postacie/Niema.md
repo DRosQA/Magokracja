@@ -1,5 +1,5 @@
 Istota związana z [[Nicość]], więc nic nie można o niej powiedzieć dokładnie. Jest "Nikim", dosłownie "[[Cisza]] jest Niema" i w tym znaczeniu obie to jedna istota, odwrócone aspekty, dwie strony tej samej monety.
-Jest Symbolem ekstremalnego Stanu Many uzewnętrzniającego się magicznie, tj. [[magioklizm]].
+Jest Symbolem ekstremalnego Stanu Many uzewnętrzniającego się magicznie, tj. [[magia kolorów|magioklizmu]].
 
 Została zmanifestowana/wymuszona przez [[Esta la Rosa Maledetta]] poprzez jakiegoś rodzaju "rytuał", który odbył się w posiadłości Rozjemcy Hoppenberga (prawdopodobnie bez jego wiedzy). Być może nie była bez głosu, gdy ją "przywołał" - "ukrycie" jej głosu byłoby w zakresie jego zdolności.
 Ukryta/uwięziona została w "drzewie przeznaczenia", magicznym konstrukcie zmagających się sił Iv oraz Hel. Uwolniono ją poprzez ustabilizowanie zmagających się sił (ręką Lamberta i Howarda Taragain) oraz przejście przez Lucy Shealez "sądu nad utratą pokoju" od sędziego Zguby z Hel.

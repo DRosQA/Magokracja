@@ -1,1 +1,0 @@
-Wstrząs [[mana]] tak potężny, że przechodzi falą przez wszystkie warstwy, powodując np. ich zderzenia (_jak morskie fale iv o skałę soye), lokalne [[magioklizm]]y, uszkodzenie [[Strumień]]ia a w skrajnej sytuacji zakończenie obecnego [[Cykl]]u.

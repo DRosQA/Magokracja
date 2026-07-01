@@ -26,7 +26,7 @@ Wydarzenia te nawiązały połączenie tego odizolowanego środowiska "testowego
 ### Trzeci
 Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków]], ale na warstwie czerwieni - [[Devi]].
 
-Zakończony poprzez [[manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu).
+Zakończony poprzez [[mana|manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu).
 
 ### Czwarty
 Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].

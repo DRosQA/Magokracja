@@ -1,4 +1,4 @@
-Zdolność manipulacji [[mana]] z wszystkich warstw. Możliwa do nauczenia dla każdej istoty posiadającej choć kroplę z każdego koloru, jednak wymaga co najmniej dobrej znajomości choć jednej magii. Zwieńczeniem takich nauk są testy przeprowadzane w sali [[Eclipse]]. Do nauk można przystąpić albo będąc wielką siłą pojedynczego koloru albo będąc zaproszonym przez kogoś, kto zaliczył choćby 6 prób.
+Zdolność manipulacji [[mana]] z wszystkich warstw do bezpośredniego tworzenia [[magia]], bez pomocy pośrednich źródeł tranzycji jednego w drugie. Możliwa do nauczenia dla każdej istoty posiadającej choć kroplę z każdego koloru, jednak wymaga co najmniej dobrej znajomości choć jednej magii albo silnego wrodzonego koloru. Zwieńczeniem takich nauk są testy przeprowadzane w sali [[Eclipse]]. Do nauk można przystąpić albo będąc wielką siłą pojedynczego koloru albo będąc zaproszonym przez kogoś, kto zaliczył choćby 6 prób.
 
 ### Próby Kolorów
 - [[Devi]] to głód, krew, ból, stal, niepokój, przyjemność; próba wymaga akceptacji wszystkiego, co kolor reprezentuje. Nad próbą czuwa albo [[Stalokrew|Asha Grath]] albo skiael związany z jej Rzeką Krwi albo jeden z Królów.
@@ -10,3 +10,6 @@ Zdolność manipulacji [[mana]] z wszystkich warstw. Możliwa do nauczenia dla k
 - [[Soye]] to przytłoczenie, powolność, małość, prawo, wola; próba polega na odkryciu schematu opowieści, który się dzieje podczas próby. Jest to bardzo zawiła i specyficzna kombinacja. Nad próbą czuwa [[Derniere]].
 - [[Vanta]] to nic; próba polega na oddaniu się w dłonie _negatywu_ i zostanie niczym, nigdy, nigdzie. Próba nie ma świadka/czuwającego. Jest to próba unikana, gdyż jest egzystencjalnie groźna i trudna.
 - [[Vorel]] to wszystko; próba polega na czekaniu, aż nadejdzie _pozytyw_ i zostanie wszystkim, zawsze, wszędzie. Próba nie ma świadka/czuwającego. Jest to próba unikana, gdyż jest egzystencjalnie groźna i trudna.
+
+### Magioklizm
+Niszczycielki efekt magiczny, wywołany pośrednio lub bezpośrednio dużo większym efektem [[mana|manaklizmu]]. Choć magioklizm jest słabszy od manaklizmu to często ma bardziej zauważalne efekty dla większości istot, gdyż dotyka płytkich partii Rzeczywistości.
