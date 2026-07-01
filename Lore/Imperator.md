@@ -1,20 +1,25 @@
 Tytuł władcy ludów na terenach dookoła [[Spójność Ank'ara|Iglica Imperialna]] od czasów [[Imperium]] Trzech Koron.
 Pełny tytuł od drugiego Imperatora (Parnigasa) brzmiał "Majestat Imperialny, Pan [[Pięć Iglic|Pięciu Iglic Imperium]]".
-Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą był _"Namiestnik Imperium"_ ze względu na notkę Nazisara o jego możliwym powrocie. 
+Od czasów [[Nasizar Tertusa]] do [[Natannes Heistrom]] technicznie władcą był _"Namiestnik Imperium"_ ze względu na notkę Nazisara o jego możliwym powrocie, ale większość osób samozwańczo kazała się tytułować per Imperator mimo tego zapisu. 
 
 # Poczet Imperatorów
 1. Mistrz Unii [[Armada]] - władca od 632
-2. mało ważni Mistrzowie Unii, po których nic ciekawego nie zostało
-3. Imperator **Komnus Plater Soyescari** - władca od 856
-4. Imperator **Parnigas Tarviste Ribenes Soyescari** - władca od 879
-5. Imperator **Aillia Comnouve** - władca od 954
-6. Imperator [[Nasizar Tertusa|Nasizar Tertusa]] - władca około 960
-7. Namiestnik Imperium [[Greygor Schieberg]] - władca około 1024
-8. Namiestnik Imperium [[Komnen Merdrada Attour Bruinia]] - władca około 1050
-9. Namiestnik Imperium, **Nina Bruinia**, żona Komnena, po której nic ciekawego nie zostało (złośliwcy szydzą, że była tylko ladacznicą Konmena; do tego jej rządy zakończyły Złoty Wiek) - władca około 1120
-10. mało ważni Namiestnicy Imperium, po których nic ciekawego nie zostało, gdyż między innymi zmagali się z kryzysem postępującej recesji Imperium
-11. Namiestnik Imperium [[Tribon Tertusa]], dla wielu zbawienie, na które trzeba było za długo czekać; dla innych utajniony tyran - władca około 1330
+   - przed jego sięgnięciem po władzę nastąpiła wojna Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu z kulminacją w [[Bitwa Zaćmienia]]
+1. mało ważni Mistrzowie Unii, po których nic ciekawego nie zostało, gdyż zmagali się z wielką ilością tajemnic i spisków, jakie zostawił po sobie Armada (który przekazał władzę w ręce rady Unii i odszedł)
+   - w tych czasach dzieje się [[Wojna Czystki Krwi]] oraz [[Wojna o Wybrzeże Turkusowe]]
+1. Imperator **Komnus** Plater Soyescar, znany z nadania wielu praw i sprawowania sprawiedliwych rządów - władca od 856
+2. Imperator **Parnigas** Tarviste Ribenes Soyescari, hołdujący tradycji, szanujący podwładnych, gloryfikujący ideę _[[Pięć Iglic]] Imperium_ - władca od 879
+3. Imperator **Aillia** Comnouvem, która przyłączyła do Imperium ziemie Królestwa Strom, natomiast była strasznym tyranem - władca od 954
+4. Imperator [[Nasizar Tertusa|Nasizar Tertusa]] - władca od 965 do 973
+5. Namiestnik Imperium [[Greygor Schieberg]] - władca od 973 do około 1024
+6. Namiestnik Imperium [[Komnen Merdrada Attour Bruinia]] - władca około 1050
+7. Samozwańcza Imperator, **Nina** Bruinia, żona Komnena (złośliwcy szydzą, że była tylko jego ladacznicą), udało jej się zrobić mnóstwo bałaganu :) - władca około 1070
+8. Samozwańczy Imperator **Diogos** Ferlaye Soyescari, który nadał prawo, gdzie nowy Imperator jest wyznaczany poprzez testament rządzącego Imperatora - włada około 1097
+9. mało ważni Samozwańczy Imperatorzy i Namiestnicy, po których nic ciekawego nie zostało, gdyż między innymi zmagali się z kryzysem postępującej recesji Imperium, kończąc tak Złoty Wiek (w roku 1124)
+10. Samozwańczy Imperator **Delggioro** Semonth Veleach ustanowił _Imperialny Zjazd_, trwający przez dokładnie jeden miesiąc w roku - władca około 1279
+11. Namiestnik Imperium [[Tribon Tertusa]] - władca około 1330
 12. Imperator [[Natannes Heistrom]] - władca od 1383
+    - za jego rządów nastąpiła [[Bitwa o Caspię]]
 
 (...) Po wstępie, opisującym ogólny Majestat Imperatora, należy nadmienić genezę samej nazwy tego majestatu. Mianowicie słowo imperator bierze się z bardzo starych zapisów, z którymi zapoznawali się kolejni Pierwsi Magowie w Imperialnej Iglicy.(...)
 

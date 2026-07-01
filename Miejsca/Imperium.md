@@ -70,7 +70,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada]] ze Spektrum Emocji
 9. 778-781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium.
-10. 817-856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
+10. 817-856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**; pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową Aillią Comnouve na czele.
 12. około 1024-1124 - Złoty Wiek Imperium.
 13. 1340 - wydanie [[Edykt o Restoracji Imperium]].

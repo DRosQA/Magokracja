@@ -11,5 +11,9 @@ _Asha spośród Białych_, jedna z istot [[Grath]]. Ściśle powiązana z [[Lamb
 Zauważona została jej tendencja do przelewu krwi przez tych, którzy pragną, wręcz łakną krwi podczas dokończenia [[Bitwa Zaćmienia]]. Próba przeciążenia Ashy i wykorzystania jej jako substytutu dla mocno niechętnego [[Derniere]]'a została zatrzymana przez [[grupa Rosario]] poprzez przywrócenie jej Lamberta.
 
 ### Królowie Krwi
+Bezrozumne [[manatknięcie|manaistoty]] podległe Ashy, będące jej narzędziami, bronią, imitujące charakterem ostatnią potężną istotę, którą pochłonęły. Jest dwóch znanych Królów Krwi (ale jest ich więcej):
+- **Kruczy** Król, obecnie przejęty przez [[Hesefa Pretres]] i inkorporowany w jej powój, gdzie stał się integralną częścią Hesi'ego (jej powoju).
+- **Wilczy** Król, obecnie integralna część [[Russ Berggrath]], który walczył z nim o dominację i ostatecznie wygrał, całkowicie go wchłaniając w siebie.
 
-xxx
+### Ostrza Stalokrwi
+Przerażające przedmioty wykonane z jej krwi i kości. Są częścią jej _żelaznej zbroi_ a więc służą do odstraszania. Dobycie ich informuje, że atak wywoła niechybną śmierć atakującego.
