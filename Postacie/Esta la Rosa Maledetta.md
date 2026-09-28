@@ -9,8 +9,8 @@ tags:
 ---
 Jego pełne imię i nazwisko to w dosłownym tłumaczeniu "Oto przeklęta róża". Istota zwana przez Niemą "Sprytnym", która weszła do [[Nicość]]. Po wyjściu stamtąd, "rozpadła" się na:
 - [[Estarosa]]
-- Psyh/złotą busolę Sprytnego, zwierającą plany i cele, w tym od Armady -> dzisiaj będącej częścią [[Eimhrick]]
-- [[Czarny powój]])
+- Psyh/złotą busolę Sprytnego, zwierającą plany i cele, w tym od Armady -> dzisiaj będącą częścią [[Eimhrick]]
+- [[Czarny powój]]
 
 Po uwolnieniu [[Niema|Niemej]] nasuwa się interpretacja, że Sprytny po zmuszeniu Niemej do śpiewu został "uciszony" przez jej aspekt Ciszy, co uczyniło mu dotkliwą krzywdę, jakoś rozerwało na trzy części.
 Z wersji wydarzeń Niemej wynika, że Esta la Rosa Maledetta nie jest [[Wróg|Wrogiem]].
