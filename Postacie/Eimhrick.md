@@ -11,8 +11,8 @@ aliases:
   - Eimhrick Vel'aeh
 ---
 Istota składająca się z:
-- [[Czarny Powój]], wiedziony przez 'złotą busolę', narzędzie należące do/stworzone przez [[Esta La Rosa Maledetta]], które wykonuje/pamięta jego cele i plany (Psych)
-- zniewolony/porwany Eimh, Powój [[Ojciec Malarzy]]
+- 'złotej busoli', narzędzie należące do/stworzone przez [[Esta La Rosa Maledetta]], które wykonuje/pamięta jego cele i plany (Psyh)
+- zniewolony/porwany Eimh, Powój [[Ojciec Malarzy]], który jest dowiązany do 'busoli' poprzez [[Czarny Powój]]
 
 Samo imię tej osoby, "Eimhrick", jest fałszywe - częściowo ukradzione Eimh, częściowo zfabrykowane dla zatajenia swojego pochodzenia. 
 
@@ -30,7 +30,7 @@ Przełożony/towarzysz [[Nagrar-Stirn]]a. Nauczyciel [[Ciaran Conejero]].
 Potencjalnie jeden z pięciu decydujących o [[Pokój]], jako realnie świadoma część [[Esta la Rosa Maledetta]]. Twierdził, że jego Melodią jest [[Steliae|Delirum]] (która nie zaprzeczyła bo się nie odzywa w ogóle) - ostatecznie rozkminiliśmy, że to nieprawda i że jego "Melodią" (bardziej Cieniem) jest Estarosa. Pewnie wskazywał Delirium jako swoją Melodię, bo z nią miał jakieś powiązanie jako zlepek Powojów.
 
 Ciaran był obserwatorem Eimhricka przez wiele wydarzeń, przez dłuższy "czas". Zauważył, że Eimhrick jakby miał dwie twarze, jedną całkowicie idącą według wielkiego nieuniknionego schematu a drugą próbującą to wykoleić, włożyć gdzieś klin w któryś trybik. Nastał moment, gdzie wydaje się, jakby obie twarze na siebie spojrzały i wreszcie się zgodziły, by iść razem, nie w schemacie ale też nie przeciw niemu, "po swojemu".
-Wynika to z jego niestabilnego podejścia do sytuacji/samego siebie - czasem wygrywa w nim tęskona za byciem całym Sprytnym, czasem nienawiść do Maledetty/Czarnego Powoju (za 'porwanie' Eimh/Psa). Ważnym elementem w tej mnogości osobowości i zachowań jest też zrobione ze złotych nici (planu Armady dla Esta La Rosa Maledetta) narzędzie - złota busola - które odnalazł Czarny Powój po rozpadzie Esta La Rosa Maledetta, a które 'kieruje' Eimhrickiem, tj. wyznacza mu drogę i plan -> dlatego to Eimhrick jest 'planistą' i wykonawcą 'niecnych planów', a jednocześnie czuje się przez kogoś sterowany/wykonuje je 'wbrew sobie'.
+Wynika to z jego niestabilnego podejścia do sytuacji/samego siebie - czasem wygrywa w nim busola i metodyczne dążenie do wykonania planu Maledetty, czasem Eimh i nienawiść do Maledetty/Czarnego Powoju (za porwanie). Dlatego Eimhrick jest 'planistą' i wykonawcą 'niecnych planów', a jednocześnie czuje się przez kogoś sterowany/wykonuje je 'wbrew sobie'.
 
 # Cytaty
 "Lie to all even if you do not mean it, they will not be disappointed."
