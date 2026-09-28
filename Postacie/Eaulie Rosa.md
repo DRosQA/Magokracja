@@ -1,6 +1,8 @@
 ---
 aliases:
   - Szalona Dama Rosa
+tags:
+  - Vorel
 ---
 Założycielka rodu Rosa z nadania Namiestnika Imperium [[Greygor Schieberg]] w roku milenijnym, dokładnie 1000 lat po _bogach_.
 

@@ -48,3 +48,8 @@ Choć poniżej to opis wydarzeń, które jeszcze nie nastały, jest to jedna z p
 ### Hagarth-Satra
 Tzw. _Iskra Hel_, rdzenny Feniks, boska siła, champion warstwy [[Hel]] w [[Cykl|Pierwszym Cyklu]], przerażający tyran. Walczyła przeciw Delirum-Ferarosa a ich bój brutalnie zakończył Pierwszy Cykl.
 Jej heraldem był [[Eimhrick]] a generałem [[Nagrar-Stirn]].
+
+Ponieważ Hel straciło na zawsze swoją "iskrę" w postaci Hagarth (po ostatecznej decyzji Lucy, by nie wrócić na tą drogę), tytuł ten przeszedł na uczennicę Lucy, [[Iuline Shayat]]. Choć Lucy się ot nie podoba, to obecnie jedyne, co może zrobić, to jak najlepiej przygotować młodą na nowe "doświadczenie".
+
+### Droga
+Stając w obliczu "pierwszego człowieka" Lucy określiła się, jako osoba krocząca swoją drogą. Jest to piękne podsumowanie osoby dokonującej swoich wyborów, będących gruntem pod nogami dla niej i innych w obliczu ogromnej presji i ciągłej manipulacji.

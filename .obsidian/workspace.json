@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "95ea0146f46bed64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Ciaran Conejero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciaran Conejero"
+            }
+          },
+          {
+            "id": "5e5af374f6ce8598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Lucjusz Alvibraten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lucjusz Alvibraten"
+            }
+          },
+          {
             "id": "3e86292b24cd9c92",
             "type": "leaf",
             "state": {
@@ -64,35 +92,63 @@
             }
           },
           {
-            "id": "f00c76fe2bdc17d5",
+            "id": "972fbb0f8953a6e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Pokój.md",
+                "file": "Lore/najemnicy Pallentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pokój"
+              "title": "najemnicy Pallentos"
             }
           },
           {
-            "id": "b06e42015e0f8a71",
+            "id": "71970fac96c67ba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Pięć Iglic.md",
+                "file": "Lore/manipulacja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pięć Iglic"
+              "title": "manipulacja"
+            }
+          },
+          {
+            "id": "a17021ae11300514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Wróg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wróg"
+            }
+          },
+          {
+            "id": "4e590af3d354b3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postacie/Armada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armada"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +168,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Przeglądarka plików"
@@ -124,8 +182,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Armada",
-                "matchingCase": true,
+                "query": "pierwszy czło",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,43 +287,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
       "daily-notes:Otwórz dzisiejszy dziennik": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "b06e42015e0f8a71",
+  "active": "ebc64a4c6bc96901",
   "lastOpenFiles": [
-    "Lore/Melodia.md",
-    "Lore/Pięć Iglic.md",
-    "Lore/Pokój.md",
-    "Postacie/Lucy Shealez.md",
-    "Lore/Poszukujące.md",
-    "Postacie/Sirezai Lūna'rah.md",
-    "Postacie/Julius Pretres.md",
-    "Lore/najemnicy Pallentos.md",
-    "Postacie/Tapistos Glyieus.md",
-    "Postacie/Iuline Shayat.md",
-    "Wydarzenia/zjazd w Kronstadt.md",
-    "Lore/Ludy Króla Królów.md",
-    "Postacie/Dhim Shayat.md",
     "Postacie/Armada.md",
-    "Lore/Imperator.md",
-    "Wydarzenia/Wojna o Wybrzeże Turkusowe.md",
-    "Wydarzenia/Wojna Czystki Krwi.md",
-    "Miejsca/Imperium.md",
-    "Wydarzenia/rebelia.md",
-    "Wydarzenia/starcie z renegatami.md",
-    "Postacie/Darrko Comnouve.md",
+    "Postacie/Esta la Rosa Maledetta.md",
+    "Lore/Wróg.md",
+    "Wydarzenia/zjazd w Kronstadt.md",
+    "Postacie/Lucy Shealez.md",
+    "Postacie/Ciaran Conejero.md",
+    "Postacie/Lucjusz Alvibraten.md",
+    "Lore/grupa Lucy.md",
+    "Lore/najemnicy Pallentos.md",
+    "Postacie/Iuline Shayat.md",
+    "Lore/manipulacja.md",
+    "Korona Sōla'stre.md",
+    "Lore/Czerwone Szale.md",
+    "Postacie/Sirezai Lūna'rah.md",
+    "Postacie/Cisza.md",
+    "Lore/Pięć Iglic.md",
+    "Postacie/Noara Schieberg.md",
+    "Postacie/Giovan Veleach.md",
+    "Postacie/Eimhrick.md",
+    "Lore/Estarosa.md",
+    "Lore/grupa Antonia.md",
+    "Postacie/Eclipse.md",
+    "Postacie/Hesefa Pretres.md",
     "Postacie/Luka Attaliate.md",
-    "Lore/Grath.md",
-    "Postacie/Eriend Grath.md",
-    "Lore/Lokaje Kotary.md",
-    "Lore/Magokraci Netheru.md",
+    "Postacie/Albia Rosa.md",
+    "Postacie/Niema.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

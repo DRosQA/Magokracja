@@ -2,6 +2,7 @@
 tags:
   - człowiek
   - Mag
+  - iv
 ---
 Jeden z [[Klasa Livonii]].
 

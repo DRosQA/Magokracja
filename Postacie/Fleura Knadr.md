@@ -1,6 +1,8 @@
 ---
 aliases:
   - Złotka
+tags:
+  - Devi
 ---
 Matka [[Gilbert Knadr]]. Obecnie [[Pierwszy Asasyn]], jednak z [[Czwórka Asasynów]]. Ani trochę nie wybiła się błyskawicznie na szczyt z powodu konszachtów z mafią jej rodu, Knadrów ;)
 

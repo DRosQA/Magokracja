@@ -1,3 +1,6 @@
+---
+tags:
+---
 Czas formowania się oraz istnienia światów na warstwach many. Przed zaistnieniem czegokolwiek, ustanawiają zasady [[Budowniczy]], [[Sędzia|Sędziowie]], [[Strażnik|Strażnicy]] według wytycznych od [[Steliae]] i zaczerpniętych [[echo]] z [[Kotara|głębokiej kotary]], inicjując tak [[Strumień]] danego Cyklu, potem prawa fizyki świata a na końcu barwiąc [[Skiaele]]e, by zaistnieli ludzie. Cykl kończy się jakąś drastyczną/esencjalną zmianą, niekoniecznie widowiskową. W każdym cyklu też pojawia się - ten sam? - [[Wróg]], który do tej drastycznej zmiany dąży.
 
 ### Przed Cyklami

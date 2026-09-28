@@ -31,3 +31,6 @@ Chcą zapobiec "upadkowi" Luille i uratować ją przed wpływem Heinstera, Leofa
 - brat **Leofast** von Alvibraten
 - siostra **Luille** von Alvibraten
 - daleka ciotka **Emestina** Hask
+
+### Miejsce
+Stając w obliczu "pierwszego człowieka" Lucjusz określił się, jako osoba odpowiednia w danym miejscu i danej chwili. Jest to piękne podsumowanie osoby płynącej odpowiednio zmontowanym okrętem pośród przerażającego i zmiennego oceanu wydarzeń.

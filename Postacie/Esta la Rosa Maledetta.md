@@ -20,3 +20,12 @@ Esta la Rosa Maledetta przyznał, że jest z [[Pokolenie po bogach|1szego pokole
 
 ### Historia
 Gigant opowiedział, że istota ta chciała porozmawiać z wszystkimi [[Siły Wyższe]] naraz, niczym [[Eclipse]] ale z prawem głosu, nie na ich warunkach. Dlatego przed rozpadnięciem się stawał się Championem każdej warstwy po kolei - ostatnią było Iv - co w "schedzie" pozostało Eimhrickowi. Chociaż z powodzeniem "odwrócił lustro" i podszył się pod Eclipse, uzyskując posłuch wszystkich warstw, nie dało mu to tego, co pragnął, więc chciał się zniszczyć. Jednak, ponieważ jest/był wybrańcem każdej z warstw, każdy Kolor mu odmówił destrukcji. Zwrócił się zatem do Nicości, ale i ta mu odmówiła (opowiadała o tym [[Niema]]), wypluwając go w 3 "kawałkach" zamiast go zniszczyć. Jego dążenie jest niejasne, w jakiś sposób chce, żeby świat działał "inaczej", wg. innych zasad.
+
+### Wina właściwie kogo?
+
+Obecnie wiadomo, że plany dla Maledetta wykonał [[Armada]], więc po ostatnich wydarzeniach pozostaje pytanie, czy plan ostatecznie jest wykonywany, i kto jest kierowany przez kogo. Czy Esta 'stworzyl' Natannesa jako coś, na co można zrzucić winę? Czy Eimhrickiem kieruje Esta, czy (pośrednio?) Armada? Czy stworzenie Natannesa to pomysł Esty, czy część planu Armady, czy przypadek? Czy w ogóle prawda, tj. czy faktycznie jest wylewem Kotary, czy konsekwencją planu tak jak życie Lucjusza jest zjebane jako konsekwencja planu?
+
+Zatem:
+- Czy skoro Maledetta 'zatrudnił' Armadę, to jest to plan Maledetty? Czy skoro Armada ogrywa Esta, to jest to plan Armady?
+- Czy Eimhrick jest 'kierowany', czy to tylko wyraz tego jak postrzega swoje zespolenie z Czarnym Powojem?
+- Czy Esta (część) jest winien czynów Sprytnego/Maledetty (całości)? Czy jest 'osobą' smodzielnie na tyle?

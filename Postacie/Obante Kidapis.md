@@ -2,6 +2,7 @@
 tags:
   - człowiek
   - Mag
+  - Psyh
 ---
 Jeden z [[Klasa Livonii]].
 

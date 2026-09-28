@@ -1,6 +1,8 @@
 ---
 aliases:
   - Rosario
+tags:
+  - Soye
 ---
 Wymazany w Bieli, więc realnie jego imię jest ***ZAPOMNIANE***.
 

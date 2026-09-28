@@ -4,6 +4,8 @@ aliases:
 ---
 Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]. Prawdopodobnie pierwszy raz zaistniała jako problem w [[Spójności]] powstałej przed [[Cykl|Trzecim Cyklem]] (pierwszej próbie stworzenia Artefaktycznego Społeczeństwa), a w samym Trzecim Cyklu została uznana za chorobę/szaleństwo, które doprowadziło do upadku [[Pierwsza Cywilizacja]].
 
+Obecnie wiadomo, że autorem planów manipulacji był [[Armada]] a odbiorcą i głównym wykonawcą [[Esta la Rosa Maledetta]].
+
 ### Znane ofiary
 - [[Tribon Tertusa]]
 - [[Varilyan Heinster]]
@@ -13,14 +15,15 @@ Manipulacja [[Strumień]]iem/wpływ na decyzje innych dokonywany przez [[Wróg]]
 - [[Iriand Augustus]]
 - [[Octavian|Octavian Augustus]]
 - [[Cassandra Comnouve]]
-- [[Cisza]]-Przodek
+- [[Cisza]]-Przodek (?) - istnieje argument za tym, że w jej przypadku to był wybór a nie poddanie się manipulacji
 - [[Niema]] (?) - choć tu nie tyle co zmanipulowana (bo nie była) tylko wykorzystana celem manipulacji innymi
 - [[Albia Rosa]]
 - [[grupa Lucy]]
 - [[grupa Antonia]]
 - [[Luka Attaliate|Nova Tenebria]]
-- [[Eclipse]] - nie tyle co zmanipulowany, co wykorzystano jego tożsamość, by manipulować
+- [[Eclipse]] (?) - nie tyle co zmanipulowany, co wykorzystano jego tożsamość, by manipulować
 - [[Hesefa Pretres]]
+- [[Iuline Shayat]]
 
 ### Kłamstwa Estarosy
 [[Estarosa]] przyznał się przed postaciami, że swoją i cudzymi rękoma zrujnował wiele żyć i maczał palce w wielu problemach. Jego ostateczny cel wciąż nie jest znany - także jemu, gdyż bez Psych, nie pamięta czemu cokolwiek robi, może sobie tylko wyobrażać (Nute).
