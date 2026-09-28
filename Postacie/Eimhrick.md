@@ -11,7 +11,7 @@ aliases:
   - Eimhrick Vel'aeh
 ---
 Istota składająca się z:
-- 'złotej busoli', narzędzie należące do/stworzone przez [[Esta La Rosa Maledetta]], które wykonuje/pamięta jego cele i plany (Psyh)
+- 'złotej busoli', narzędzie należące do/stworzone przez [[Esta La Rosa Maledetta]], które wykonuje/pamięta jego cele i plany
 - zniewolony/porwany Eimh, Powój [[Ojciec Malarzy]], który jest dowiązany do 'busoli' poprzez [[Czarny Powój]]
 
 Samo imię tej osoby, "Eimhrick", jest fałszywe - częściowo ukradzione Eimh, częściowo zfabrykowane dla zatajenia swojego pochodzenia. 
