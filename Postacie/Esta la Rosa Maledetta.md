@@ -23,9 +23,9 @@ Gigant opowiedział, że istota ta chciała porozmawiać z wszystkimi [[Siły Wy
 
 ### Wina właściwie kogo?
 
-Obecnie wiadomo, że plany dla Maledetta wykonał [[Armada]], więc po ostatnich wydarzeniach pozostaje pytanie, czy plan ostatecznie jest wykonywany, i kto jest kierowany przez kogo. Czy Esta 'stworzyl' Natannesa jako coś, na co można zrzucić winę? Czy Eimhrickiem kieruje Esta, czy (pośrednio?) Armada? Czy stworzenie Natannesa to pomysł Esty, czy część planu Armady, czy przypadek? Czy w ogóle prawda, tj. czy faktycznie jest wylewem Kotary, czy konsekwencją planu tak jak życie Lucjusza jest zjebane jako konsekwencja planu?
+Obecnie wiadomo, że plany dla Maledetta wykonał [[Armada]], więc po ostatnich wydarzeniach pozostaje pytanie, czyj plan ostatecznie jest wykonywany, i kto jest kierowany przez kogo. Czy Esta 'stworzyl' Natannesa jako coś, na co można zrzucić winę? Czy Eimhrickiem kieruje Esta, czy (pośrednio?) Armada? Czy stworzenie Natannesa to pomysł Esty, czy część planu Armady, czy przypadek? Czy w ogóle prawda, tj. czy faktycznie jest wylewem Kotary, czy konsekwencją planu tak jak życie Lucjusza jest zjebane jako konsekwencja planu?
 
 Zatem:
 - Czy skoro Maledetta 'zatrudnił' Armadę, to jest to plan Maledetty? Czy skoro Armada ogrywa Esta, to jest to plan Armady?
 - Czy Eimhrick jest 'kierowany', czy to tylko wyraz tego jak postrzega swoje zespolenie z Czarnym Powojem?
-- Czy Esta (część) jest winien czynów Sprytnego/Maledetty (całości)? Czy jest 'osobą' smodzielnie na tyle?
+- Czy Esta (część) jest winien czynów Sprytnego/Maledetty (całości)? Czy jest 'osobą' samodzielnie na tyle?
