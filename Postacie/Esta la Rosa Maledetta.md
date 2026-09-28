@@ -9,7 +9,8 @@ tags:
 ---
 Jego pełne imię i nazwisko to w dosłownym tłumaczeniu "Oto przeklęta róża". Istota zwana przez Niemą "Sprytnym", która weszła do [[Nicość]]. Po wyjściu stamtąd, "rozpadła" się na:
 - [[Estarosa]]
-- [[Eimhrick]] (który składa się z Eimh/Powoju [[Ojciec Malarzy]] i [[Czarny powój]])
+- Psyh/złotą busolę Sprytnego, zwierającą plany i cele, w tym od Armady -> dzisiaj będącej częścią [[Eimhrick]]
+- [[Czarny powój]])
 
 Po uwolnieniu [[Niema|Niemej]] nasuwa się interpretacja, że Sprytny po zmuszeniu Niemej do śpiewu został "uciszony" przez jej aspekt Ciszy, co uczyniło mu dotkliwą krzywdę, jakoś rozerwało na trzy części.
 Z wersji wydarzeń Niemej wynika, że Esta la Rosa Maledetta nie jest [[Wróg|Wrogiem]].
@@ -23,8 +24,8 @@ Gigant opowiedział, że istota ta chciała porozmawiać z wszystkimi [[Siły Wy
 
 #### Wydarzenia wg wizji Ciarana w świecie Malarstwa
 - [[Ojciec Malarzy]], pragnąc kompana -> wysyła swój pseudo-[[Powój]] **Eimh** w świat -> który spotyka [[Czarny Powój]] i się (przypadkiem? celowo?) 'zlepiają' (co robił Powój poza Sprytnym? szukał zaczepiania bo nie miał dostępu do Esta La Rosa Maledetta. Czemu? Bo Maledetta został rozerwany. Ale przecież był rozerwany potem?! Czarny Powój fazuje i sra na chronologię)
-- Eimhrick (zlepiony Eimh i Czarny Powój) przyprowadzają do Esta La Rosa Maledetta Melodię [[Nadzieja]], która pragnie mu pomóc
-- Esta La Rosa Maledetta jest 'ucieleśnieniem' konceptu Beznadzieji (co to znaczy? nie wiadomo. jak Melodia?) -> jednocześnie pragnie Nadzieji i boi się jej. Ponieważ nie jest zgrany/aktualnie zespolony ze swoim [[Czarny Powój]], nie umie podjąć decyzji co z tym zrobić
+- Eimhrick (zlepiony przez Czarny Powój Eimh i złota busola) przyprowadzają do Esta La Rosa Maledetta Melodię [[Nadzieja]], która pragnie mu pomóc
+- Esta La Rosa Maledetta jest 'ucieleśnieniem' konceptu Beznadzieji (co to znaczy? nie wiadomo. jak Melodia?) -> jednocześnie pragnie [[Nadzieja]] i boi się jej. Ponieważ nie jest zgrany/aktualnie zespolony ze swoim [[Czarny Powój]], nie umie podjąć decyzji co z tym zrobić
 - w próbie pomocy mu, Powój [[Aion]] wraz z Nadzieją i Eimhrickiem, przyprowadzają Esta La Rosa Maledetta na warstwę Soye, gdzie istnieje jakaś Świadomość która może pomóc mu przekonać się w którąś stronę, ale tym samym przeciążają pozytywem/energią IV warstwę Soye
 - ta niepewność i 'szarpnie się' powoduje coraz większe napięcie, co pociąga za Nadzieją jej resztę, tj. [[Niema]], co pociąga za nią jej resztę/odbicie, tj. [[Cisza]]
 - Cisza 'rozwiązuje problem' poprzez rozdarcie Esta La Rosa Maledetta na kawałki - co prawdopodobnie skutkuje też eksplozją generatora Nicości i upadek [[Cywilizacja Przodków]] - wydarzenie dotąd zwalane na [[Antvel Heinster]] ?
