@@ -14,6 +14,8 @@ Samo imię tej osoby, "Eimhrick", podobno jest ukradzione innej istocie. W Pierw
 
 Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie znany tam jako "Czujny Powój", jest [[Strażnik]]iem tamtego świata (jednym z kilku). Widziano go wśród powoji jako wielkiego psa i wszyscy sądzili, że jest powojem, jednak jego związek z [[Czarny powój]] sugeruje inaczej (Powoje nie mogą "mieć" powojów jak ludzie). Więc jak wszystko z Eimhrickiem, niejasne, zakłamane.
 
+-> Ciaran odkrył w rozmowie (?) z [[Ojciec Malarzy]], że: po rozerwaniu Maledetty, [[Czarny Powój]] przyczepił się do tego Psa (o imieniu Eimh), jako Powój szukając zahaczania. Teraz istota znana jako Eimhrick (imię wpół-ukradzione, wpół-zmienione aby trudniej go było "znaleźć") jest zatem [[Skiael]] zarządzany przez ich obu naraz (podobnie jak [[Russ Berggrath]]), skąd wynika jego zmieniajace się do sytuacji/samego siebie podejście (patrz niżej) - czasem wygrywa w nim tęskona za byciem całym Sprytnym, czasem nienawiść do Maledetty/Czarnego Powoju (za 'porwanie' Eimh/Psa). Ważnym elementem w tej mnogości osobowości i zachowań jest też zrobione ze złotych nici narzędzie (kompas/busola?), które 'kieruje' Eimhrickiem, tj. wyznacza mu drogę i plan.  
+
 Był też Strażnikiem [[Estarosa]], silnie przeciwnym jego uwalnianiu.
 
 Dzisiaj champion [[Iv]], po tym, jak był championem każdego innego koloru.
