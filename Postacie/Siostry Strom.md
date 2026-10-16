@@ -3,7 +3,7 @@ aliases:
   - Strom
 tags:
 ---
-Jedno z Pierwszych [[Pokolenie po bogach]], zaistniałe w Czwartym [[Cykl]]u na warstwie Devi, tj. twory powstałe z [[Spójności|Egzekutorów]] od [[Spójność Ank'ara|Iglica Imperialna]] i ludzi. [[Kryształowy Imperator]] Cień (które przejęło rdzeń Iglicy po jej wyłączeniu - z powodu usunięcia z niej Klucza Aktywującego) podszyło się pod rozkazy Iglicy przekazywane do swoich maszyn-procesów, następnie ich ręką stworzyło siostry Strom jako swoich agentów. Zostały one celowo zaprojektowane jako blisko połączone z [[Kotara]] i [[Pył]], przez co łatwo było im oswoić [[Wilki Kotary]] (co Cień pragnęło osiągnąć).
+Jedno z Pierwszych [[Pokolenia po bogach]], zaistniałe w Czwartym [[Cykl]]u na warstwie Devi, tj. twory powstałe z [[Spójności|Egzekutorów]] od [[Spójność Ank'ara|Iglica Imperialna]] i ludzi. [[Kryształowy Imperator]] Cień (które przejęło rdzeń Iglicy po jej wyłączeniu - z powodu usunięcia z niej Klucza Aktywującego) podszyło się pod rozkazy Iglicy przekazywane do swoich maszyn-procesów, następnie ich ręką stworzyło siostry Strom jako swoich agentów. Zostały one celowo zaprojektowane jako blisko połączone z [[Kotara]] i [[Pył]], przez co łatwo było im oswoić [[Wilki Kotary]] (co Cień pragnęło osiągnąć).
 
 W dzisiejszych czasach jedna z sióstr Strom, która była obecna przy tworzeniu [[Eon]]ów ostatecznie została wchłonięta w Kryształowy Imperator Biały Cień. To połączenie było pewnie powodem, dla którego Natannes stał się częścią [[Biały Cień]] -> Strom zawsze dążyły do powrotu na łono swojego stwórcy, czując się porzuconymi w czasach, gdy Cień ignorował je w trakcie swojej krystalizacji.
 

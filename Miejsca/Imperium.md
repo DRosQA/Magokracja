@@ -58,7 +58,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 ### Historia Imperium
 1. Prahistoria - brak kronik - życie prymitywnych ludzi pod butem [[Spójności|bogów]]. Nie istnieją magowie, ludzie nie mają w ogóle magii czy pisma i służą do pracy fizycznej.
 2. Wojny pomiędzy bogami - wymóg wojen doprowadził do nadania Rządców nad ludźmi, wybranych ludzi, których nauczono pisma i rachowania; powstaje wiele magicznych bestii zwanych "bogobójcami" oraz zorganizowane ludzkie armie.
-3. Powstają [[Pokolenie po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" bogów o to, że ludzie mają magię poza kontrolą _bogów_.
+3. Powstają [[Pokolenia po bogach|pokolenia po bogach]], wybuchają wojny domowe wewnątrz "państw" _bogów_ o to, że ludzie mają magię poza kontrolą _bogów_. Krótko przed rokiem "0" dochodzi do wymordowania 3ciego pokolenia.
 4. 0 - "Wojna Wyzwolenia" - stworzenie [[Eon]]ów przez ludzi, które pozwalają pokonać _bogów_. 
 5. około 175-225 - wokół magów tworzą się szlacheckie domy i magokratyczne państwa. 
 6. do 527 - Wykształcają się regiony kulturowe skorelowane ze spektrami [[magia|magii]]: 
@@ -68,7 +68,7 @@ Jedna z Iglic [[Spójność Ank'ara]], zajmująca się ludami Imperium, która z
 	4. Dom Spektrum Strun utworzył swe państwo, podbijając lub przejmując władzę nad terenami należącymi do ludów pustyń; wciąż podległych _bogom_, ale innej Iglicy.
 	5. Dom Spektrum Zmysłów mozolnie, ale skutecznie zajął wschodnie wybrzeże obszaru odebranego bogom, otwierając się na Morze Wichrów, budując tak pierwszy zamorski szlak handlowy z inną cywilizacją.
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
-8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada]] ze Spektrum Emocji
+8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada]] ze Spektrum Emocji.
 9. 778-781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium.
 10. 817-856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**; pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur.
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Imperatorową **Aillią** Comnouve na czele.

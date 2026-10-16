@@ -15,6 +15,6 @@ Klan Shayat wyruszył w podróż na ziemie obecnego rodu Pretres jeszcze zanim z
 ### Struniarze
 Podróż ludu zakończyła się na obecnych południowo-wschodnich terenach Imperium. Rozpoczęli oni najpierw wywiadowcze wyprawy na tereny fałszywych _bogów_, by się rozeznać, odnaleźć lub założyć punkty oporu i przygotować zbrojne wtargnięcie. Choć z planu wojennej ścieżki nie wyszło dużo, to jednak całość działań zwieńczona została aktem stworzenia Eonów.
 
-Po zwycięstwie nad _bogami_, klan Shayat stał się szanowaną częścią budującej się kultury pre-imperialnej. Zmieniło się to w czasach [[Imperium|Unii]], gdy okazało się, że trudno robić politykę półprawd z osobami, które z biegu słyszą, że krętaczysz, szczególnie, że mieli z ukrycia wsparcie jednego z zaprzyjaźnionych, pro-ludzkich [[Pokolenie po bogach|półbogów]]. Shayat stali się niewygodni dla knującej arystokracji, szczególnie obozu [[Armada]]'y. Historia ludu kończy się tragicznie ([[Wojna Czystki Krwi]]).
+Po zwycięstwie nad _bogami_, klan Shayat stał się szanowaną częścią budującej się kultury pre-imperialnej. Zmieniło się to w czasach [[Imperium|Unii]], gdy okazało się, że trudno robić politykę półprawd z osobami, które z biegu słyszą, że krętaczysz, szczególnie, że mieli z ukrycia wsparcie jednego z zaprzyjaźnionych, pro-ludzkich [[Pokolenia po bogach|półbogów]]. Shayat stali się niewygodni dla knującej arystokracji, szczególnie obozu [[Armada]]'y. Historia ludu kończy się tragicznie ([[Wojna Czystki Krwi]]).
 
 Ostatnią bezpośrednią osobą w linii spadkobierców Shayat jest [[Iuline Shayat]].
