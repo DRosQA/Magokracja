@@ -1,6 +1,13 @@
 ---
 tags:
 aliases:
+  - Ferarosa
+  - Lilarosa
+  - Artrosa
+  - Tiefrosa
+  - Antarosa
+  - Blotrosa
+  - Edelrosa
 ---
 Części danych warstw, podobnie jak Siły Wyższe są inkarnacjami tych warstw. Spełniają funkcję łączników pomiędzy warstwami.
 

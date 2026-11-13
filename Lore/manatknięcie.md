@@ -19,7 +19,7 @@ Efekt dotknięcia istoty o niskim poziomie [[mana]] (tak zwierzęta/ludzie jak r
 - Lisowi z Chmur, żyjący głęboko w górach Kronstadt
 
 Liderzy ludów tkniętych maną:
-- **Jeanette** Naznaczona Żarem (która jest [[Skiaele|Lyriaele]] z głębokiego Lune - manaistota)
+- **Jeanette** Naznaczona Żarem (która jest [[iaele|Lyriaele]] z głębokiego Lune - manaistota)
 - **Juniette** Naznaczona Krwią (która jest Skiaele z głębokiego Devi - manaistota), babka [[Iuline Shayat]], _najpiękniejsza_ kobieta, która zaistniała na warstwie Devi ale nie była avatarem Devi
 - **Mereet** Żelazne Skały
 - **Nimait** Chmury Pnącz

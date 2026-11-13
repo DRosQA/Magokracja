@@ -21,7 +21,7 @@ Siły Wyższe/Absoluty mają tendencję do silnego, permanentnego wiązania się
 Poniżej ich lista, w relatywnej kolejności:
 - [[Eclipse|Eclipse Biały]]
 - **Skjoergen**, najstarsza z [[Grath]]
-- [[Abis-Lucio|Przepaść]] (W łańcuchach) - obecnie uwolniony
+- [[Abis-Lucio|Przepaść]] (uwolniony z łańcuchów)
 - [[Stalokrew|Asha Biała]]
 - [[Lambert|Lambert Biały]]
 - [[Snupopiół]]

@@ -13,16 +13,16 @@ Jako projekt wszystkie iteracje Spójności są jak niesamowicie przyspieszona t
 - **Daleka**, przejęta przez Kryształy, lewitująca nad planetą na granicy kosmosu, która wstępnie zakotwiczyła się w Nabay.
   
 ### Znane procesy Imperialnej
-* Egzekutor **Rayana** (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar
-* Egzekutor [[Magred Puyol|Magred]] (Puyol) - obecnie Imperialny Rozjemca
-* Egzekutor [[Bractwo Pokoju|Olenda]] (Puyol) - nie żyje
-* Setron [[Dallian Plateur|Delia]]
+* Egzekutor **Rayana** (Puyol) - obecnie naczelny skarbnik Protektoratu Vazar.
+* Egzekutor [[Magred Puyol|Magred]] (Puyol) - obecnie Imperialny Rozjemca.
+* Egzekutor [[Bractwo Pokoju|Olenda]] (Puyol) - nie żyje.
+* Setron [[Dallian Plateur|Delia]].
 
 ### Znane procesy Siostrzanej
-- Egzekutor [[Albia Rosa|Alba]] - obecnie jedna z [[Artefaktyczne Społeczeństwo]]
-- Egzekutor **Kotaarah** - obecnie Wzniosły Głos ludu Strun; jako mechanizm była odpowiedzialna za symulowanie i nakładanie sztucznej kotary na istoty podległe Spójności
-* Tron [[Tribon Tertusa|Tribia]]
-* Najwyższy Tron Siostrzanej Iglicy (**Jawhad Król Królów**)
+- Egzekutor [[Albia Rosa|Alba]] - obecnie jedna z [[Artefaktyczne Społeczeństwo]].
+- Egzekutor **Kotaarah** - obecnie Wzniosły Głos ludu Strun; jako mechanizm była odpowiedzialna za symulowanie i nakładanie sztucznej kotary na istoty podległe Spójności.
+* Tron [[Tribon Tertusa|Tribia]].
+* Najwyższy Tron Siostrzanej Iglicy (**Jawhad Król Królów**).
 
 ### Znane procesy Dalekiej
-- **Calicio** - proces _Calic Artefaktor_ Spójności Ank'ara, ciężko uszkodzony w wyniku ataku na Daleką Iglicę, ale ustabilizowany (choć nie naprawiony do końca) przez Rozjemcę [[Rozjemca Imperialny|Sareeda Nahak Souaz]]
+- **Calicio** - proces _Calic Artefaktor_ Spójności Ank'ara, ciężko uszkodzony w wyniku ataku na Daleką Iglicę, ale ustabilizowany (choć nie naprawiony do końca) przez Rozjemcę [[Rozjemca Imperialny|Sareeda Nahak Souaz]].

@@ -18,21 +18,25 @@ Samo imię tej osoby, "Eimhrick", jest fałszywe - częściowo ukradzione Eimh, 
 
 W Pierwszym Cyklu przysięgał wierność [[Lucy Shealez|Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
-Pochodzi ze [[Świat Pyłu]] (w jego słowach), oficjalnie znany tam jako "Czujny Powój", jest [[Strażnik]]iem tamtego świata (jednym z kilku). Widziano go wśród powoji jako wielkiego psa i wszyscy sądzili, że sam jest powojem (co dzisiaj wiemy jest w pewnym sensie prawdą).
+Pochodzi ze [[Świat Pyłu]] (w jego słowach, jednak jest to niemal pewne, że jest kłamstwem), gdzie oficjalnie znany jest tam jako "Czujny Powój". Oficjalnie jest [[Strażnik]]iem tamtego świata (jednym z kilku). Widziano go wśród powoji jako wielkiego psa i wszyscy sądzili, że sam jest powojem (co dzisiaj wiadomo, jest w pewnym sensie prawdą).
 
--> Ciaran odkrył w rozmowie (?) z [[Ojciec Malarzy]], że [[Czarny Powój]] przyczepił się do jego Psa (o imieniu Eimh), jako Powój szukając zahaczania gdy nie mógł się "zgrać" ze swoim hostem, Esta La Rosa Maledetta / był zagubiony po byciu od niego oderwanym, wiedziony zaleceniami 'złotej busoli'. Teraz istota znana jako Eimhrick jest zatem [[Skiael]] zarządzany przez ich obu naraz (podobnie jak [[Russ Berggrath]]).
+-> Ciaran odkrył w rozmowie (?) z [[Ojciec Malarzy]], że [[Czarny Powój]] przyczepił się do jego Psa (o imieniu Eimh), jako Powój szukając zahaczania gdy nie mógł się "zgrać" ze swoim hostem, Esta La Rosa Maledetta / był zagubiony po byciu od niego oderwanym, wiedziony zaleceniami 'złotej busoli'. Teraz istota znana jako Eimhrick jest zatem [[iaele|skiaele]] zarządzanym przez ich obu naraz (podobnie jak [[Russ Berggrath]]).
 
 Był też Strażnikiem [[Estarosa]], silnie przeciwnym jego uwalnianiu.
 
-Dzisiaj champion [[Iv]], po tym, jak był championem każdego innego koloru.
+Dzisiaj champion [[Iv]], po tym, jak był championem każdego innego koloru (dziedzictwo po Maledetta).
 Przełożony/towarzysz [[Nagrar-Stirn]]a. Nauczyciel [[Ciaran Conejero]].
 
-Potencjalnie jeden z pięciu decydujących o [[Pokój]], jako realnie świadoma część [[Esta la Rosa Maledetta]]. Twierdził, że jego Melodią jest [[Steliae|Delirum]] (która nie zaprzeczyła bo się nie odzywa w ogóle) - ostatecznie rozkminiliśmy, że to nieprawda i że jego "Melodią" (bardziej Cieniem) jest Estarosa. Pewnie wskazywał Delirium jako swoją Melodię, bo z nią miał jakieś powiązanie jako zlepek Powojów.
+Potencjalnie jeden z pięciu decydujących o [[Pokój]] (jako realnie świadoma/czynna część Maledetta). Twierdził, że jego Melodią jest [[Steliae|Delirum]] (która nie zaprzeczyła bo się nie odzywa w ogóle) - ostatecznie wiadomo, że to nieprawda i że jego "Melodią" (bardziej [[Istota cienia|cieniem]]) jest Estarosa. Pewnie wskazywał Delirium jako swoją Melodię, bo z nią miał jakieś powiązanie jako zlepek Powojów.
 
 Ciaran był obserwatorem Eimhricka przez wiele wydarzeń, przez dłuższy "czas". Zauważył, że Eimhrick jakby miał dwie twarze, jedną całkowicie idącą według wielkiego nieuniknionego schematu a drugą próbującą to wykoleić, włożyć gdzieś klin w któryś trybik. Nastał moment, gdzie wydaje się, jakby obie twarze na siebie spojrzały i wreszcie się zgodziły, by iść razem, nie w schemacie ale też nie przeciw niemu, "po swojemu".
 Wynika to z jego niestabilnego podejścia do sytuacji/samego siebie - czasem wygrywa w nim busola i metodyczne dążenie do wykonania planu Maledetty, czasem Eimh i nienawiść do Maledetty/Czarnego Powoju (za porwanie). Dlatego Eimhrick jest 'planistą' i wykonawcą 'niecnych planów', a jednocześnie czuje się przez kogoś sterowany/wykonuje je 'wbrew sobie'.
 
-# Cytaty
+### Symulakrum
+
+Ciaran podczas rozmowy z Gigantem Czaszek był świadkiem działania jakiegoś urządzenia w posiadaniu Eimhricka, które ten nazywał Symulakrum [[Strumień]]ia (a Ciaran "złotą busolą"). Wyglądało, jak złota busola z klepsydrą w centrum, otoczoną jakby płaskimi częściami astrolabium oraz wieloma kryształkami "gwiazdek". Z doświadczeń, jakie Ciaran uświadczył, urządzenie miało zdolności manipulacji Strumieniem, co najmniej względem osób w okolicy (jednak z rozmowy wynikało, iż jest to urządzenie generalnej, subtelnej modyfikacji Strumienia, by wszystko było zgodnie z Symbolami, ale po myśli użytkownika).
+
+### Cytaty
 "Lie to all even if you do not mean it, they will not be disappointed."
 	PL: Okłamuj wszystkich, nawet jeśli nie masz tego na myśli, a nie będą rozczarowani.
 "If someone threatens you with ‘death’, tell them, Death is your friend."

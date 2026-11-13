@@ -1,6 +1,12 @@
 ---
 aliases:
   - Imperium Czterech Koron
+  - Formacje Imperialne
+  - Loże Imperialne
+  - Tytuły Imperialne
+  - Historia Imperium
+  - Rody Imperium
+  - Odszczepieńcy Imperium
 ---
 Państwo pod władzą [[Imperator]]a, składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom Iglicy Imperialnej.
 

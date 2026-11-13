@@ -4,7 +4,6 @@ tags:
   - Nute
 aliases:
   - Nuta
-  - Pełna Melodia
   - Echo
 ---
 Istota przeważnie z [[Nute]] która jest odbiciem innej istoty z innych warstw. Nie istnieją Melodie bez tego odbicia innej istoty, ale może to być istota z przyszłości/która jeszcze nie nastała (patrz [[Strumień]]).
@@ -21,7 +20,7 @@ Po uwolnieniu [[Niema|Niemej]] okazało się, że każda Melodia jest jej aspekt
 Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo kontrowersyjnym procesie "rośnięcia kapustek". Obecnie przebywają  w [[Posiadłość Lucjusza]].
 
 - **Anilla V**, kiedyś w służbie [[Luka Attaliate]], obecnie pracuje jako technolog.
-- **Laura** (Comnouve) od [[Marek Augu]], młodsza siostra Charles'a i [[Ogrody Rosa|Edelrosa]]'y, razem z bratem, Charles'em, uczniowie [[Klasa Livonii]].
+- **Laura** (Comnouve) od [[Marek Augu]], młodsza siostra Charles'a i [[Ogrody Rosa|Edelrosa]]'y, razem z bratem, Charles'em, uczniowie [[Klasa Livonii]]. Jedna z [[echo]].
 - **Charles** (Vatounet), starszy brat Laury, młodszy [[Ogrody Rosa|Edelrosa]]'y.
 - **Bridgette**, szambelanka.
 - **Linette**, kamerdyner.
@@ -39,4 +38,4 @@ Każda z nich została sztucznie stworzona przez [[Commenc Nouvell]] w bardzo ko
 - **Veroniqué** od [[Leofast Alvibraten]], szermierka ostrza [[Sirezai Lūna'rah|Lūna]]. Wiąże się z nią [[pieśń Veroniqué]].
 - [[Livonia Rosa]] od Lilianny, badająca Strumień.
 - [[Nadzieja]] od Ciarana.
-- **Echo Scari**, która istnieje sama dla siebie.
+- [[Echo Scari]], która istnieje sama dla siebie.
