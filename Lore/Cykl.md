@@ -20,18 +20,18 @@ W tym czasie powstają mozolnie inne cywilizacje warstw, z jedyną wyraźnie dom
 Zniszczenie przez Antvela Heinster Rdzenia Nicości powoduje, że warstwa Iv zderza się drastycznie z warstwą Soye, co w konsekwencji uszkadza resztę warstw - nastaje koniec drugiego Cyklu z którego stabilnie ostaje się jedynie Cywilizacja Artefaktu i to co uciekło do [[Świat Pyłu]].
 
 ### Pomiędzy cyklem 2gim i 3cim
-Potem pomiędzy Cyklami istnieje pozostałość po Cywilizacji Przodków - uruchomione przez [[Cesarz Złoty Powój]] 1-szego niedokończone [[Spójności]], z brakiem procesów Iriand, Octaviana, Calico, Tronów, Egzekutorów, w wiecznej samonaprawie, istniejące bez celu, zapomniane na zawsze.
+Potem pomiędzy Cyklami istnieje pozostałość po Cywilizacji Przodków - uruchomione przez [[Cesarz Złoty Powój]] 1-szego niedokończone [[Spójności]], z brakiem procesów Iriand, Octaviana, Calico, Tronów, Egzekutorów, w wiecznej samonaprawie, potencjalnie istniejące bez celu, zapomniane na zawsze. Jednak to w nich tworzy się zalążek idei [[Spójność Ank'ara]].
 
 W tych Spójnościach toczy się wiele niedokończonych historii, prób odtworzenia Spójności zgodnie z projektem w odizolowanych, "wirtualnych" środowiskach [[Iv]] wewnątrz Iglic. 
 Według opowieści [[Scari]], jedną z takich prób jest utworzenie się pierwowzoru Artefaktycznego Społeczeństwa: jednej Spójności udało się wytworzyć główne procesy, ale z jakiegoś nieznanego powodu pojawiła się też unikatowa jednostka odstająca od wszelkich od norm - Melodia (konkretnie [[Ogrody Rosa|Blotrosa]]), która nie miała prawa powstać w tym odizolowanym środowisku. Jej pojawienie się zdestabilizowało całą tamtą Spójność/pre-Artefaktyczne Społeczeństwo, gdyż "połączyła się" z jednym z [[Spójności|Egzekutorów]], stając się jego Melodią. 
 Wydarzenia te nawiązały połączenie tego odizolowanego środowiska "testowego" z prawdziwym światem "zewnęrznym", dając możliwość [[manipulacja|zainfekowania]] tego Egzekutora-Melodii, co wywołało wojnę domową wewnątrz Spójności i przypieczętowało jej koniec.
 
 ### Trzeci
-Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków]], ale na warstwie czerwieni - [[Devi]].
+Czas [[Pierwsza Cywilizacja]], gdzie została odtworzona [[Cywilizacja Przodków]], ale na warstwie czerwieni - [[Devi]]. W tym Cyklu pierwszy raz powstaje Spójność Ank'ara, jednak jest obarczona błędami i opuszcza warstwę Devi, zanim dokonuje czegokolwiek, udając się w międzywarstwy, prawdopodobnie oczekując końca tego Cylku.
 
-Zakończony poprzez [[mana|manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu).
+Zakończony poprzez [[mana|manaklizm]] wywołany przez [[Iriand Augustus]], której autodestukcja ponownie zniszczyła niemal wszystkie cywilizacje, jakie zaistniały na warstwach (oprócz Cywilizacji Artefaktu i wszystkiego w Świecie Pyłu). 
 
 ### Czwarty
-Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
+Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową Spójność Ank'ara a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
 
 Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji.
