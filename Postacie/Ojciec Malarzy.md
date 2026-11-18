@@ -1,10 +1,12 @@
 ---
 tags:
   - Vorel
+aliases:
+  - Pierwszy Człowiek
 ---
-Istota, która nie jest [[Siły Wyższe]], ale jest jakoś związana z [[Vorel]] i [[Malarz]].
+Istota, która nie jest [[Siły Wyższe]], ale jest jakoś związana z [[Vorel]] i [[Malarz]]ami.
 
-W wydarzeniu, które mógł zobaczyć tylko [[Ciaran Conejero]] dzięki swoim zmysłom - a które dzieje się wciąż, tylko Gdzieś Indziej ? Pomiędzy Warstwami ? - Ojciec Malarzy wysyła [[Czarny powój]] w stronę Rzeki Krwi. Ten powój/pies ma wtedy kolory, w przeciwieństwie do Czarnego powoju jaki znamy, tak samo jako Estarosie brakuje kolorów i mu je "zwracamy". 
+W wydarzeniu, które mógł zobaczyć tylko [[Ciaran Conejero]] dzięki swoim zmysłom - a które dzieje się wciąż, tylko Gdzieś Indziej ? Pomiędzy Warstwami ? - Ojciec Malarzy wysyła "psa" (imieniem Eimh) w stronę Rzeki Krwi. Ten powój/pies jest powiązany z [[Czarny powój]], jednak nie jest jasna bezpośrednia zależność a jedynie pośrednie (szczególnie związanie Eimh z "busolą Strumienia", co wywołuje powstanie istoty [[Eimhrick]]).
 
 # Pełna scena (opis GM)
 Sen na jawie Ciarana (nie wizja nieokreślonej przeszłości/przyszłości, raczej coś, co dzieje się tu i teraz, obok ale w niekreślonym momencie), całość odbywa się bez słów.
