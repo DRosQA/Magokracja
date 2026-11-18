@@ -64,7 +64,7 @@ Ciaran podczas rozmowy z Gigantem Czaszek był świadkiem działania jakiegoś u
 "You say, you are my friend, I say you should start the ‘unfriend’ list immediatelly"
 	PL: Mówisz, że jesteś moim przyjacielem, a ja mówię, że powinieneś natychmiast zacząć tworzyć listę „usuń z listy znajomych”
 "Everything is a wonder; sorry, I mean blunder."
-	PL: Wszystko jest cudem; przepraszam, miałem na myśli pomyłkę.
+	PL: Wszystko jest "cudem"; przepraszam, miałem na myśli "pomyłką".
 
 do [[Varilyan Heinster]]
 “Nigdy nie prosiłem moich podopiecznych, żeby mi ufali.
