@@ -57,4 +57,4 @@ Jej nominalnym symbolem jest **KORONA**.
 Jej nominalnym symbolem jest **IKOZAEDR** (dwudziestościan).
 
 ### Adagio
-Oryginalnie Melodia [[Armada]], pozbawiona (?) statusu Steliae przez Delirum na rozkaz Eimhricka. 
+Oryginalnie Melodia [[Armada]], pozbawiona (?) statusu Steliae przez Delirum na rozkaz Eimhricka. Nie wiadomo, co w niej jest takiego, że plany Armady były najlepsze w całym uniwersum, skoro Maledetta wybrał konkretnie jego do sformułowania [[manipulacja|Planu]].

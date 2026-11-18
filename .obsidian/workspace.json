@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postacie/Armada.md",
+                "file": "Postacie/Eaulie Rosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armada"
+              "title": "Eaulie Rosa"
             }
           },
           {
@@ -120,6 +120,34 @@
             }
           },
           {
+            "id": "525dac1f5a4551a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/manipulacja.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "manipulacja"
+            }
+          },
+          {
+            "id": "b8d19095cb255637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Steliae.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steliae"
+            }
+          },
+          {
             "id": "ead38a8baf34865b",
             "type": "leaf",
             "state": {
@@ -133,8 +161,7 @@
               "title": "Pierwsza Cywilizacja"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,24 +309,25 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "c5e62d3d2ab2022b",
+  "active": "d55773ed7a3f0631",
   "lastOpenFiles": [
+    "Postacie/Armada.md",
+    "Postacie/Esta la Rosa Maledetta.md",
+    "Wydarzenia/Bitwa Zaćmienia.md",
+    "Lore/manipulacja.md",
+    "Lore/Cykl.md",
+    "Lore/Steliae.md",
     "Lore/Spójności.md",
     "Postacie/Ojciec Malarzy.md",
     "Postacie/Magred Puyol.md",
     "Lore/Pierwsza Cywilizacja.md",
     "Postacie/Iriand Augu.md",
-    "Postacie/Esta la Rosa Maledetta.md",
     "Postacie/Czarny powój.md",
     "Postacie/Eimhrick.md",
-    "Wydarzenia/Bitwa Zaćmienia.md",
-    "Postacie/Armada.md",
     "Lore/człowiek.md",
     "Lore/manatknięcie.md",
     "Lore/iaele.md",
-    "Lore/Cykl.md",
     "Postacie/Niema.md",
-    "Lore/Steliae.md",
     "Lore/Estarosa.md",
     "Postacie/Skiala.md",
     "Lore/Pył.md",
@@ -309,7 +337,6 @@
     "Postacie/Abis-Lucio.md",
     "Lore/Melodia.md",
     "Miejsca/Ogrody Rosa.md",
-    "Postacie/Przedwieczny Gigant Czaszek.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
