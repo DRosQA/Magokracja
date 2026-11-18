@@ -12,12 +12,22 @@ Podczas tego Cyklu powstało dominujące nad warstwami _imperium_, prowadzone pr
 
 Cykl zakończył się z powodu konkluzji apokaliptycznego pojedynku między imperatorową a ówczesnym "hostem" [[Cisza|Ciszy]] - Delirum Ferarosą.
 
+### Wg Armady
+"Pierwotnie" ten Cykl zakończył się, gdy Hagarth-Sarta zapragnęła być kimś innym - a ponieważ była instrumentalną częścią jednego z Kolorów, oraz posiadała możliwosć fundamentalnych zmian jako czempion Hel, jej zmiana była dość gruntowna aby była zakończeniem/zmianą Cyklu.
+Dopiero po [[manipulacja]] Maledetty ta historia zmieniła się w to, co znamy dzisiaj/nasz timeline (powyżej).
+
 ### Drugi
 Czas [[Cywilizacja Przodków]], gdzie ukształtowała się bardzo zaawansowana tech-magicznie cywilizacja [[Arcykryształ Soye]] (Nadświadomości) na warstwie Soye.
 
 W tym czasie powstają mozolnie inne cywilizacje warstw, z jedyną wyraźnie dominującą - [[Cywilizacja Artefaktu]] warstwy Iv.
 
 Zniszczenie przez Antvela Heinster Rdzenia Nicości powoduje, że warstwa Iv zderza się drastycznie z warstwą Soye, co w konsekwencji uszkadza resztę warstw - nastaje koniec drugiego Cyklu z którego stabilnie ostaje się jedynie Cywilizacja Artefaktu i to co uciekło do [[Świat Pyłu]].
+
+### Wg Armady
+Z tego Cyklu pochodzi pierwsze wspomnienie/osobowość Armady. Wg niego, w tym Cyklu Cywilizacja Przodków i Cywilizacja Artefaktu byli w stanie pracować razem i zaprowadzić pokój na warstwach, nawet Devi (jego natywnej). Tak też Armada poznał Veleniusza, maga pierweszej kategorii spośród magokratów Netheru/Cywilizacji Przodków. Został jego uczniem.
+Veleniusz był "dotknięty" przez Vanta, co sprawiało, że m.in ma wpływ na pecha dookoła niego (patrz [[Daffe Vatounet]]) i nauczył się posługiwać magią (?) wpływającą na/manipulującą [[Istota cienia|cień]]. Od niego Armada nauczył się tych zdolności, co wykorzystywał potem do podsłuchiwania/śledzenia/zabijania/etc. w swoim Planie.
+Veleniusz mówił o sobie, że "ma w sobie cierń, któego nie może wyjąć" (patrz [[Wróg]]?) - i wywołany nim ból/chęć pozbycia się go prawdopodobnie jest powodem, dla którego wszystko robi, tj. manipulacje, chuje-muje plany, niszecznie świata
+W oryginalnej wersji/timeline Armady Cykl ten zakończył się, gdy światy zaczęły tracić kolory/blednąć i ostatecznie wyblakł spowrotem do Bieli.
 
 ### Pomiędzy cyklem 2gim i 3cim
 Potem pomiędzy Cyklami istnieje pozostałość po Cywilizacji Przodków - uruchomione przez [[Cesarz Złoty Powój]] 1-szego niedokończone [[Spójności]], z brakiem procesów Iriand, Octaviana, Calico, Tronów, Egzekutorów, w wiecznej samonaprawie, potencjalnie istniejące bez celu, zapomniane na zawsze. Jednak to w nich tworzy się zalążek idei [[Spójność Ank'ara]].
@@ -35,3 +45,12 @@ Zakończony poprzez [[mana|manaklizm]] wywołany przez [[Iriand Augustus]], któ
 Czas Drugiej Cywilizacji, gdzie na warstwie czerwieni - [[Devi]] - pierwsze kroki stawiali zapomniani [[Przedwieczny Gigant Czaszek|giganci]], potem ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]], zaatakowana przez trójiglicową Spójność Ank'ara a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstają stare państwa [[Ludy Króla Królów|terenów wschodu i południa]], potem [[Imperium]] i w końcu [[Ludy Zaćmienia]].
 
 Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji.
+
+### Wg Armady
+Armada, jako Admirał i normalny człowiek (bez przebudzonych wspomień poprzednich cyklów/swojego echa), spotyka Vela - 1go Pokolenia. Vel mówi mu, że pragnie zakończyć wojnę, pomaga mu i próbuje udowodnić że można mu ufać. Razem budują plan zakońćzenia wojny: zmanipulować Comnouve do wezwania [[Kryształowy Imperator|Rozmazu Krwi]] w trakcie bitwy- Comnouve przestraszyliby sie jego potęgi, Gwiazdowcy musieliby zareagować, Kryształowi zostaliby wplątani do konfliktu. Tym sposobem rozpoczęto by mediacje pokoju pomiędzy ludźmi i Kryształowymi oraz przymuszono ludzi do zawarcia pokoju w obliczu zagrożenia od Kryształowych etc. Niestety, przywołany został zamiast tego Derniere i wszystko poszło się jebać. 
+Admirał Armada nie wie, czemu tak wyszło - zakłada? że ktoś go przechytrzył, że był to czyjś plan. Późniejszy Armada wyjawia, że był to jego Plan dla Maledetty, czyli przechytrzył sam siebie. 
+Po zakończeniu wojny/założeniu Unii, Vel porzuca Admirała Armadę, zdruzgotany tym, że nie osiągneli ostatecznego pokoju. Zdesperrowany Vel staje się czempionem Devi (kosztem zdrady zbudowanego zaufania Strunowców w czasie [[Wojna Czystki Krwi]]). Za pomocą Delirum wyrywa z [[Steliae|Adagio]] jej status Steliae, siłą przekazuje mu czemionat Devi (co jest możliwe, bo Devi lubi jak ktoś cierpi, a siłowe przekazanie przywiązania do Devi jest wielką przemocą).
+To powoduje, że:
+- Armada przypomina sobie swoje przeszłe wcielenia/echo
+- Armada jest zmuszony do "zabawiania Devi" jako jej czempion, a wykonywanie poleceń Vela jest dla Devi zabawne, więc nie ma wyboru
+Vel żąda, aby Armada wymyślił dla niego [[manipulacja|Plan]].

@@ -19,6 +19,15 @@ Jego nauczycielem był [[Przedwieczny Gigant Czaszek]], który opowiedział Ciar
 
 Esta la Rosa Maledetta przyznał, że jest z [[Pokolenia po bogach|1szego pokolenia]] i próbował pomagać "struniarzom". Zradykalizowała go [[Wojna Czystki Krwi]] - to on był istotą "boską" z którą konszachty Imperium podejrzewało struniarzy. Przez to Maledetta obwinia się o ich wyrżnięcie.
 
+### Osobowośsci w cyklach
+Według Armady, Maledetta był/manifestował się w różnych ciałach w wielu cyklach jako:
+1. Oryginalnie nie wiadomo? Ale w wersji 2.0 był już Eimhrick przy boku Hagarth-Satry (patrz [[Cykl]])
+2. Veleniusz, mag pierwszej klasy spośród magokratów Netheru, dotknięty przez Vanta
+3. Nie wiadomo, Armada go nie spotkał. 
+4. Egzekutor nr 22, twór Setronów, Pierwsze pokolenie po bogach. Był [[manipulacja]] przez Plany ręką EImhricka, aby stać się odpowiednim "naczyniem" do "reinkarnacji" echa Maledetty. Dopiero [[Eaulie Rosa]] nadała mu imię Vel. Według Planu, miał być hostem [[Czarny powój]], ale ze względu na kontr-plan [[Livonia Rosa]], powój ten jest (wbrew sobie) aktualnie związany z Leonem.
+
+### Zdolności
+Wg Armady, Maledetta posiada zdolność "czarowania" "kolorem" cieni, tj. manipulacją [[Istota cienia|cień]], i to na masową skalę, a nie jak on, pojedyńcze osoby kosztem własnych akcji. Wynika to pewnie z jego "edukacji" jako Veleniusz, poteżny mag 2go cyklu, i bycia dotkniętym przez Vanta. 
 ### Historia
 Gigant opowiedział, że istota ta chciała porozmawiać z wszystkimi [[Siły Wyższe]] naraz, niczym [[Eclipse]] ale z prawem głosu, nie na ich warunkach. Dlatego przed rozpadnięciem się stawał się Championem każdej warstwy po kolei - ostatnią było Iv - co w "schedzie" pozostało Eimhrickowi. Chociaż z powodzeniem "odwrócił lustro" i podszył się pod Eclipse, uzyskując posłuch wszystkich warstw, nie dało mu to tego, co pragnął, więc chciał się zniszczyć. Jednak, ponieważ jest/był wybrańcem każdej z warstw, każdy Kolor mu odmówił destrukcji. Zwrócił się zatem do Nicości, ale i ta mu odmówiła (opowiadała o tym [[Niema]]), wypluwając go w 3 "kawałkach" zamiast go zniszczyć. Jego dążenie jest niejasne, w jakiś sposób chce, żeby świat działał "inaczej", wg. innych zasad.
 
@@ -34,6 +43,6 @@ Gigant opowiedział, że istota ta chciała porozmawiać z wszystkimi [[Siły Wy
 Obecnie wiadomo, że plany dla Maledetta wykonał [[Armada]], więc po ostatnich wydarzeniach pozostaje pytanie, czyj plan ostatecznie jest wykonywany, i kto jest kierowany przez kogo. Czy Esta 'stworzył' Natannesa jako coś, na co można zrzucić winę? Czy Eimhrickiem kieruje Esta, czy (pośrednio?) Armada? Czy stworzenie Natannesa to pomysł Esty, czy część planu Armady, czy przypadek? Czy w ogóle to prawda, tj. czy faktycznie jest wylewem Kotary, czy konsekwencją planu tak jak życie Lucjusza jest zjebane jako konsekwencja planu?
 
 Zatem:
-- Czy skoro Maledetta 'zatrudnił' Armadę, to jest to plan Maledetty? Czy skoro Armada ogrywa Esta, to jest to plan Armady?
-- Czy Eimhrick jest 'kierowany', czy to tylko wyraz tego jak postrzega swoje zespolenie z Czarnym Powojem?
+- Czy skoro Maledetta 'zatrudnił' Armadę, to jest to plan Maledetty? Czy skoro Armada ogrywa Esta, to jest to plan Armady? -> wg Armady, ogrywanie Esty jest jego zemstą na Maledeccie za krzywdy które mu wyrządził, m.in zmuszenie go do zrobienia Planu
+- Czy Eimhrick jest 'kierowany', czy to tylko wyraz tego jak postrzega swoje zespolenie z Czarnym Powojem? -> Eimhrick jest wewnętrznie skłócony pomiędzy 'busolą' a Eimh; Eimh prawdopodobnie postrzega to jako 'bycie kierowanym' i stąd tak wyraża się o sobie Eimhrick
 - Czy Esta (część) jest winien czynów Sprytnego/Maledetty (całości)? Czy jest 'osobą' samodzielnie na tyle?

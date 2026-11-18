@@ -15,7 +15,7 @@ To, jaki Symbol się zbuduje, zależy od tego kto "wygra" spośród pięciu osó
 
 # Warunki Pokoju
 - posiadanie "po swojej stronie"
-	- co najmniej 1 [[Steliae]]
+	- co najmniej 1 [[Steliae]] -> konkretnie, Stelias o POPRAWNYM SYMBOLU. Według notatek [[Torcael Bruinia]], właściwą Stelią jest NIEMA, acz jego melodia kazała mu ten fakt utajnić (być może aby nie było to wiadome dla Maledetty?)
 	- co najmniej 1 Klucz spośród tzw. Kluczy [[Pięć Iglic]]
 	- wybranie "plusa" w [[magia kolorów|Próbie Psyh]]
 - objawienie się [[Siły Wyższe|Inkarra]] (nastąpiło poprzez naprawienie Spójności Ank'ara)

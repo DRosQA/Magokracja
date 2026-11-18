@@ -44,6 +44,8 @@ Jej nominalnym symbolem jest **SZAL**.
 "Chodzi" za Eimrickiem, który dzięki temu udawał, że ona jest jego Melodią, ale obecnie wiadomo, że to jakiegoś rodzaju przykrywka.
 Jest Symbolem spoczynkowego Stanu Many.
 
+Oryginalnie, strażniczka (?) [[Eaulie Rosa]] z ramienia Vorel. Przejęta przez [[Esta la Rosa Maledetta]], gdyż potrzebował najlepszej strażniczki dla Eimhricka, a Delirum nikt nie może przemóc. Status Steliae ma tylko dlatego, że przejęła go od Adagio.
+
 Delirum to pierwszy [[Powój]], źródło wszystkich innych Powojów (są jej pomniejszającą się kopią/rozciągającą się częścią ale nie są to jej dzieci).
 Jedna z [[Ogrody Rosa]] dla [[Vorel]], jedyna która jest także Steliae. Jest pierwszą melodią spośród Róż, ich początkiem (tak jak powoje, wszystkie Róże zaistniały również z Delirum).
 
@@ -53,3 +55,6 @@ Jej nominalnym symbolem jest **KORONA**.
 [[Niema]], taka specjalna mufinka między Steliae.
 
 Jej nominalnym symbolem jest **IKOZAEDR** (dwudziestościan).
+
+### Adagio
+Oryginalnie Melodia [[Armada]], pozbawiona (?) statusu Steliae przez Delirum na rozkaz Eimhricka. 

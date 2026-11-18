@@ -15,3 +15,5 @@ Ostatecznie przyznał się do swoich "sekretów" i został zatrudniony przez Bon
 W przypływie złości na swoją niemoc wobec świata, "pomodlił się" o pomoc - i coś mu odpowiedziało, dając mu możliwość "powstrzymania każdego".
 
 Z reakcji [[Cisza]]-Cilla na spotkanie go, można wnioskować, że to ona była potęgą, która mu odpowiedziała.
+
+Z opowieści Armady jasno wynika, że te "zdolności" są efektem "przychylności" Vanty, bycia jej "ulubieńcem". 

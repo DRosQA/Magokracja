@@ -16,3 +16,4 @@ Po odkryciu rytuału krwi w Czerwonej Jaskini przy Kronstadt, podejrzewamy, że 
 Ostatecznie podejrzenie pada, że ten "nie wiadomo kto" to [[Esta la Rosa Maledetta]].
 
 Armada wydawał się przez tyle lat pionkiem, ale pionki jak są tak długo w grze to stają się kluczowymi częściami ów gry, szczególnie działający strategicznie. Teraz wiadomo, że odpowiadał za planowanie dla Maledetta, jednak nie jako jego sojusznik, tylko zleceniobiorca, gdzie Maledetta był (a przydupasy Armady pomagierami) głównym wykonawcą całości. Ani trochę nie zmniejsza to winy Armady oczywiście.
+

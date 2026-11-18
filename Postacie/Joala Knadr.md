@@ -23,3 +23,6 @@ _Deviscari_ wyrusza w dalszą podróż z [[grupa Lucy]], trafiając do [[Vazar]]
 
 ### Krystalizacja
 Esencje (po zniszczeniu ciał) tak Joali jak potem Florila, przechwycone są przez Cesarza Złoty Powój; chłonie je on w całości, wieńcząc tak swoje 35 wcieleń. Formuje się z tej fuzji [[Kryształowy Imperator|Kryształ Złota Gloria]], istota o dwóch twarzach: _księcia legend_ i _damy marzeń_; zasiadających od teraz na tronie [[Ogrody Rosa|Ogrodu Lila]].
+
+### Siła
+Obecnie, jej siła - tj jej część potęgi Devi ? - jest w posiadaniu osoby o imieniu Renya (wg. [[Armada]])
